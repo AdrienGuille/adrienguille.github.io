@@ -1,0 +1,446 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>Adrien Guille - Research</title><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) { 
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
+.CodeMirror-linenumber { }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit inherit; background-repeat: inherit inherit; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; background-position: 0px 0px; background-repeat: initial initial; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print { 
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background-color: rgb(204, 204, 204); display: block; overflow-x: hidden; background-position: initial initial; background-repeat: initial initial; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) { 
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; background-position: initial initial; background-repeat: initial initial; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; }
+a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom-width: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); background-position: initial initial; background-repeat: initial initial; }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+@media print { 
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+
+
+:root {
+  font-family: Arial;
+  
+  --orange: #F4794A;
+  --offwhite: #f2f2f3;
+  --grey: #969799;
+}
+
+html {
+
+}
+body {
+
+}
+content, body.typora-export {
+    background: transparent url(http://mediamining.univ-lyon2.fr/people/guille/assets/slider-bg.png);
+  background-size: contain;
+  background-attachment: fixed;
+    text-align: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#write {
+  position: relative;
+  text-align:left;
+    margin: 2rem auto;
+    display: inline-block;
+    margin-bottom: 4rem;
+    width: 21cm;
+    min-height: 29.7cm;
+    padding: 1rem 2rem;
+    padding-bottom: 5rem;
+    border: 1rem solid white;
+    box-shadow: 0.5rem 0.5rem 2rem rgba(0,0,0,0.5);
+    background-color: var(--offwhite);
+}
+#write > * {
+  max-width: 100% !important;
+}
+
+@media print {
+.typora-export {
+  background: transparent url(http://mediamining.univ-lyon2.fr/people/guille/assets/slider-bg.png);
+  background-size: contain;
+  background-attachment: fixed;
+    text-align: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+#write {
+  position: relative;
+  text-align:left;
+    margin: 2rem auto;
+    display: inline-block;
+    margin-bottom: 4rem;
+    width: 21cm;
+    min-height: 29.7cm;
+    padding: 1rem 2rem;
+    padding-bottom: 5rem;
+    border: 1rem solid white;
+    box-shadow: 0.5rem 0.5rem 2rem rgba(0,0,0,0.5);
+    background-color: var(--offwhite);
+}
+#write > * {
+  max-width: 100% !important;
+}
+}
+
+@media only screen and (max-width: 1000px) {
+  #write {
+    margin: 0;
+    width: 100%;
+    border: none;
+  }
+  #typora-source .CodeMirror-lines {
+    margin: 0 !important;
+    width: 100% !important;
+    max-width: 100%;
+    border: none !important;
+}
+.CodeMirror-sizer {
+  padding-right: 0 !important;
+}
+}
+footer {
+  background-color: var(--orange) !important;
+  color: white !important;
+  right: 0 !important;
+}
+/** Headings **/
+h1, h2, h3, h4, h5, h6 {
+  text-decoration: underline white;
+  width: 100%;
+}
+h1, h3, h5 {
+  color: black;
+  font-family: Palatino;
+}
+h2, h4, h6 {
+  color: var(--orange);
+  font-family: Palatino;
+}
+
+/** Font setting **/
+p {
+  min-width: 100%;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  padding: 1rem 0;
+  margin: 0 auto;
+}
+p+p{
+  border-top: none;
+}
+
+/** Lists **/
+li::marker {
+  color: var(--orange);
+  font-weight: bold;
+}
+
+
+/** Code **/
+code {
+  line-height: 1.5rem;
+  font-family: Inconsolata;
+  background-color: white;
+}
+pre, .md-fences {
+  margin: 1rem 0;
+  padding: 1rem;
+  width: 100%;
+  background-color: white;
+}
+.mathjax-block {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  width: 100%;
+}
+
+/** Links **/
+a {
+  text-decoration: none;
+  color: var(--orange)
+}
+a:hover {
+  color: var(--grey)
+}
+a:active {
+  background-color: white;
+  color: var(--orange);
+}
+
+/** Emphasis **/
+del {
+  text-decoration-color: var(--orange);
+  text-decoration-style: wavy;
+}
+
+blockquote {
+  padding-left: 2cm;
+  padding-right:2rem;
+  background-color: white;
+}
+blockquote:before {
+  position: absolute;
+  color: var(--orange);
+  content: "“";
+  font-size: 2cm;
+  font-weight: 800;
+    left: 0cm;
+    padding: 0 1cm;
+}
+mark {
+  background-color: white;
+}
+::spelling-error {
+  color: var(--orange);
+}
+
+/** Decoration **/
+hr {
+  border: 2px solid white;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+td {
+  border: 1px solid white;
+  background-color: white;
+  padding: 1rem;
+}
+th {
+  color: white;
+  background-color: var(--orange);
+  padding: 1rem;
+}
+
+/** Images **/
+img{
+  width: calc(100% - 10px);
+  object-fit: cover;
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+  margin-top:1rem;
+}
+
+/** Lists **/
+ol, ul {
+  padding-inline-start: 0;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+}
+
+li > p {
+  padding: 0;
+  border: 0;
+}
+
+.md-toc {
+  padding: 1rem;
+  background-color: white;
+  border: none;
+  margin: 0;
+  border-radius: 0;
+  width: auto !important;
+}
+.md-toc-tooltip {
+    border: none !important;
+    padding: 0 1rem !important;
+    color: white;
+    background-color: var(--orange) !important;
+    border-radius: 5px;
+    top: -40px !important;
+}
+
+/** Interface **/
+::-webkit-scrollbar-track {
+  background: var(--offwhite);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--grey);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--orange);
+}
+#md-notification {
+  background: var(--offwhite);
+}
+.md-image>.md-meta {
+  color: var(--orange);
+}
+
+/** Source code view **/
+#typora-source {
+    top: 0;
+    bottom: 0;
+    background: transparent url(http://mediamining.univ-lyon2.fr/people/guille/assets/slider-bg.png);
+    background-size: contain;
+    background-attachment: fixed;
+}
+#typora-source .CodeMirror-lines {
+    margin: 2rem auto;
+    width: 21cm;
+    min-height: 29.7cm;
+    border: 1rem solid white;
+    box-shadow: 0.5rem 0.5rem 2rem rgba(0,0,0,0.5);
+    background-color: var(--offwhite);
+}
+.CodeMirror-line {
+    border-bottom: 1px solid white;
+    border-width: 2px !important;
+}
+
+
+ .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
+</style>
+</head>
+<body class='typora-export'>
+<div id='write'  class=''><p><span>Adrien Guille — </span><a href='index.html'><span>Index</span></a><span> - </span><a href='research.html'><span>Research</span></a><span> - </span><a href='teaching.html'><span>Teaching</span></a><span> - </span><a href='publications.html'><span>Publications</span></a><span> - </span><a href='code.html'><span>Code</span></a></p><h1><a name="research" class="md-header-anchor"></a><span>Research</span></h1><h2><a name="research-interests" class="md-header-anchor"></a><span>Research interests</span></h2><p><span>My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problem related to language. I am particularly interested in problems related to structured text corpora, </span><em><span>i.e.</span></em><span> networks of documents.</span></p><h2><a name="funded-projectsdiv-idprojects" class="md-header-anchor"></a><span>Funded projects</span><div id="projects"></h2><h3><a name="project-leader" class="md-header-anchor"></a><span>Project leader</span></h3><ul><li><span>Partenariat recherche-entreprise, 2018-2020 (14 k€) : Étude du contenu publi-rédactionnel dans les médias en ligne (avec </span><a href='https://dmsq.io'><span>DM</span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.053ex" height="2.349ex" viewBox="0 -950 453.6 1011.3" role="img" focusable="false" style="vertical-align: -0.142ex;"><defs><path stroke-width="0" id="E2-MJMAIN-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use transform="scale(0.707)" xlink:href="#E2-MJMAIN-32" x="0" y="513"></use></g></svg></span><script type="math/tex">^2</script></a><span>)</span></li><li><span>Partenariat recherche-entreprise, 2019 (22 k€) : Extraction de relations dans les textes de géologie (avec </span><a href='https://www.total.com'><span>TOTAL</span></a><span>)</span></li><li><a href='#'><span>#Néo : Cyberobservatoire de la néologie</span></a><span> - PI, 2017-2018 (12 k€) : Modélisation temporelle du sens des mots (avec le </span><a href='https://crtt.univ-lyon2.fr/bienvenue-sur-le-site-du-crtt-e-a-4162--582984.kjsp'><span>CRTT</span></a><span>, le </span><a href='https://lium.univ-lemans.fr'><span>LIUM</span></a><span> et l&#39;</span><a href='https://www.upf.edu/web/iula'><span>IULA @ UPF Barcelona</span></a><span>)</span></li></ul><h3><a name="project-member" class="md-header-anchor"></a><span>Project member</span></h3><ul><li><a href='https://marge.univ-lyon3.fr/projet-lifranum'><span>LIFRANUM</span></a><span> - ANR, 2020-2023 : Littérature francophone numérique, pratiques et communautés de production, de lecture et d&#39;analyse critique (avec </span><a href='#'><span>MARGE</span></a><span>, le </span><a href='#'><span>NT2 @ UQAM Montréal</span></a><span> et </span><a href='#'><span>THEOLINUM @ UdM Montréal</span></a><span>)</span></li><li><a href='#'><span>MoBiLo</span></a><span> - PI, 2020-2021 : Modélisation des trajectoires bilingues : approches statistiques novatrices pour une linguistique outillée appliquée au développement bilingue (avec </span><a href='#'><span>DDL</span></a><span> et </span><a href='#'><span>ICAR</span></a><span>)</span></li><li><a href='http://imu.universite-lyon.fr/projet/idenum-identites-numeriques-urbaines/'><span>Idenum</span></a><span> - Labex IMU, 2016-2019 : Analyse de la représentation de la ville à travers les médias sociaux (avec le </span><a href='#'><span>LIRIS</span></a><span>, </span><a href='#'><span>EVS</span></a><span> et </span><a href='#'><span>ELICO</span></a><span>)</span></li><li><a href='http://mediamining.univ-lyon2.fr/velcin/imagiweb/'><span>ImagiWeb</span></a><span> - ANR, 2012-2015 : Détection et analyse de l&#39;opinion dans les médias sociaux</span></li></ul><h2><a name="advisingdiv-idadvising" class="md-header-anchor"></a><span>Advising</span><div id="advising"></h2><h3><a name="phd-thesis-advisor" class="md-header-anchor"></a><span>PhD thesis advisor</span></h3><ul><li><a href='#'><span>Jennie Andersen (Université Lyon 2)</span></a><span>, 2021-2023 : Apprentissage profond pour la classification supervisée de documents longs (avec </span><a href='#'><span>DM</span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.053ex" height="2.349ex" viewBox="0 -950 453.6 1011.3" role="img" focusable="false" style="vertical-align: -0.142ex;"><defs><path stroke-width="0" id="E2-MJMAIN-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use transform="scale(0.707)" xlink:href="#E2-MJMAIN-32" x="0" y="513"></use></g></svg></span><script type="math/tex">^2</script></a><span>)</span></li><li><a href='http://mediamining.univ-lyon2.fr/people/guille/research.php#'><span>Jean Dupuy (Université Lyon 2)</span></a><span>, 2018-2021 : Apprentissage de représentations de documents structurés (avec </span><a href='http://eric.univ-lyon2.fr/~jjacques/'><span>Julien Jacques</span></a><span> &amp; </span><a href='http://meetsys.com/'><span>MeetSYS</span></a><span>) </span></li><li><a href='http://mediamining.univ-lyon2.fr/people/guille/research.php#'><span>Robin Brochier (Université Lyon 2)</span></a><span>, 2017-2020 : Systèmes de recommandations et apprentissage de représentations (avec </span><a href='http://mediamining.univ-lyon2.fr/velcin/'><span>Julien Velcin</span></a><span> &amp; </span><a href='http://peer.us/'><span>Peer.us</span></a><span>)</span></li></ul><h3><a name="master-thesis-advisor" class="md-header-anchor"></a><span>Master thesis advisor</span></h3><ul><li><a href='#'><span>Aimé Miakassissa (Université Lyon 2)</span></a><span>, 2020 : Apprentissage profond pour la classification supervisée de documents longs</span></li><li><a href='http://mediamining.univ-lyon2.fr/people/guille/research.php#'><span>Abderahmen Masmoudi (ENSTA ParisTech)</span></a><span>, 2018 : Développement d&#39;un outil pour explorer les représentations des mots</span></li><li><a href='http://mediamining.univ-lyon2.fr/people/guille/research.php#'><span>Firas Odeh (Université Lyon 1)</span></a><span>, 2018 : Détection d&#39;évènements sur Twitter</span></li><li><a href='http://mediamining.univ-lyon2.fr/people/guille/research.php#'><span>Geoffrey Guettier (INSA Lyon)</span></a><span>, 2017 : Apprentissage de représentations des mots</span></li><li><a href='http://mediamining.univ-lyon2.fr/people/guille/research.php#'><span>Anthony Deseille (Université Lyon 1)</span></a><span>, 2016 : Annotation morpho-syntaxique de tweets</span></li></ul><h2><a name="servicediv-idservice" class="md-header-anchor"></a><span>Service</span><div id="service"></h2><h3><a name="organizer" class="md-header-anchor"></a><span>Organizer</span></h3><ul><li><a href='#'><span>European ECAS-SFdS school on deep learning for text mining</span></a><span> : 2020 (avec </span><a href='http://eric.univ-lyon2.fr/jcugliari/'><span>Jairo Cugliari</span></a><span> ; reprogrammée en 2021)</span></li><li><a href='https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/'><span>European ECAS school on text mining @ ENBIS</span></a><span> : 2020 (avec </span><a href='http://eric.univ-lyon2.fr/jcugliari/'><span>Jairo Cugliari</span></a><span> ; reprogrammée en 2021)</span></li><li><a href='http://mediamining.univ-lyon2.fr/workshop2019/'><span>Workshop on Representation Learning for Complex Data</span></a><span> : 2019 (avec </span><a href='http://mediamining.univ-lyon2.fr/velcin/'><span>Julien Velcin</span></a><span> et le soutien de la </span><a href='#'><span>SFdS</span></a><span> &amp; du </span><a href='#'><span>GdR MaDICS</span></a><span>)</span></li><li><a href='#'><span>Séminaire du laboratoire (DMD)</span></a><span>: 2019-2021</span></li><li><a href='http://www.egc.asso.fr/category/manifestations/conferences'><span>Session démo @ Conférence Extraction et Gestion des Connaissances</span></a><span> : 2019, 2018, 2017</span></li><li><a href='http://ged2018.sci-web.net'><span>Graph embedding day</span></a><span> : 2018</span></li><li><a href='https://eric.univ-lyon2.fr/textmining/'><span>École de printemps en fouille de textes</span></a><span> : 2018</span></li></ul><h3><a name="program-comittee-member" class="md-header-anchor"></a><span>Program Comittee Member</span></h3><ul><li><a href='#'><span>International Joint Conference on Artificial Intelligence (IJCAI)</span></a><span> : 2021</span></li><li><a href='#'><span>European Chapter of the Association for Computational Linguistics (EACL)</span></a><span> : 2021</span></li><li><a href='https://link.springer.com/conference/ecir'><span>European Conference on Information Retrieval (ECIR)</span></a><span> : 2021, 2020</span></li><li><a href='http://www.egc.asso.fr/category/manifestations/conferences'><span>Conférence Extraction et Gestion des Connaissances (EGC)</span></a><span> : 2021, 2020, 2019, 2018</span></li><li><a href='http://inista.org'><span>IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)</span></a><span>: 2020</span></li><li><a href='https://simbig.org'><span>International Symposium on Information Management and Big Data (SIMBig)</span></a><span> : 2019, 2018, 2017, 2016, 2015</span></li><li><a href='https://lipn.univ-paris13.fr/marami/MARAMI/Accueil.html'><span>Modèles &amp; Analyse des Réseaux : Approches Mathématiques &amp; Informatiques</span></a><span> : 2019</span></li><li><a href='#'><span>Numéro spécial de la revue d&#39;intelligence artificielle (RIA)</span></a><span> : 2016</span></li></ul><h3><a name="journal-reviewer" class="md-header-anchor"></a><span>Journal reviewer</span></h3><ul><li><a href='#'><span>IEEE Transactions on Knowledge and Data Engineering</span></a><span> : 2020, 2019, 2018, 2017, 2015</span></li><li><a href='#'><span>Journal of Machine Learning Research</span></a><span> : 2019</span></li><li><a href='#'><span>Springer Data Mining and Knowledge Discovery</span></a><span> : 2017, 2016</span></li><li><a href='#'><span>Elsevier Expert Systems With Applications</span></a><span> : 2019</span></li><li><a href='#'><span>Elsevier Information Processing &amp; Management</span></a><span> : 2018</span></li><li><a href='#'><span>Springer Applied Network Science</span></a><span> : 2018</span></li><li><a href='#'><span>Springer EPJ Data Science</span></a><span> : 2017</span></li><li><a href='#'><span>Nature Scientific Data</span></a><span> : 2017</span></li><li><a href='#'><span>Elsevier Computers and Electrical Engineering</span></a><span> : 2017</span></li><li><a href='#'><span>Elsevier Physica A</span></a><span> : 2016</span></li><li><a href='#'><span>Springer Advances in Data Analysis and Classification</span></a><span> : 2016</span></li><li><a href='#'><span>Elsevier Computer Communications</span></a><span> : 2015, 2014</span></li><li><a href='#'><span>Elsevier Engineering Applications of Artificial Intelligence</span></a><span> : 2015 </span></li><li><a href='#'><span>IEEE Transactions on Emerging Topics in Computing</span></a><span> : 2014</span></li></ul></div>
+</body>
+</html>
