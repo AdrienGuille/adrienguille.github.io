@@ -2,14 +2,15 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>Adrien Guille - Teaching</title><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; }
+<title>Adrien Guille - Teaching</title><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+.mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
 body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
 iframe { margin: auto; }
 a.url { word-break: break-all; }
 a:active, a:hover { outline: 0px; }
 .in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
-#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
 #write.first-line-indent p { text-indent: 2em; }
 #write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
 #write.first-line-indent li { margin-left: 2em; }
@@ -77,6 +78,7 @@ div.hr:focus { cursor: none; }
 li div { padding-top: 0px; }
 blockquote { margin: 1rem 0px; }
 li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
 li { margin: 0px; position: relative; }
 blockquote > :last-child { margin-bottom: 0px; }
 blockquote > :first-child, li > :first-child { margin-top: 0px; }
@@ -86,7 +88,6 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
   #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
-  html.blink-to-pdf { font-size: 13px; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
   .is-mac table { break-inside: avoid; }
@@ -100,6 +101,7 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 #write .MathJax_Display { margin: 0.8em 0px 0px; }
 .md-math-block { width: 100%; }
 .md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
 [contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
 .md-task-list-item { position: relative; list-style-type: none; }
 .task-list-item.md-task-list-item { padding-left: 0px; }
@@ -150,13 +152,16 @@ table tr th { border-bottom-width: 0px; }
 video { max-width: 100%; display: block; margin: 0px auto; }
 iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
-svg[id^="mermaidChart"] { line-height: 1em; }
 mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); background-position: initial initial; background-repeat: initial initial; }
 .md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
 mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
 @media print { 
   .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
 }
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-require-zoom-fix foreignObject { font-size: var(--mermaid-font-zoom); }
 
 
 :root {
@@ -437,10 +442,10 @@ li > p {
 }
 
 
- .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
+ :root {--mermaid-font-zoom:1em ;}  .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
 </style>
 </head>
 <body class='typora-export'>
-<div id='write'  class=''><p><span>Adrien Guille — </span><a href='index.html'><span>Index</span></a><span> - </span><a href='research.html'><span>Research</span></a><span> - </span><a href='teaching.html'><span>Teaching</span></a><span> - </span><a href='publications.html'><span>Publications</span></a><span> - </span><a href='code.html'><span>Code</span></a></p><h1><a name="teaching" class="md-header-anchor"></a><span>Teaching</span></h1><h2><a name="representation-learning-for-text-mining-m2-data-mining" class="md-header-anchor"></a><span>Representation Learning for Text Mining (M2 Data Mining)</span></h2><p><span>Here is a list of suggested readings for this course:</span></p><h3><a name="pre-trained-word-representations" class="md-header-anchor"></a><span>Pre-Trained Word Representations</span></h3><ul><li><p><a href='https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf'><span>Skip-Gram with Negative Sampling</span></a></p></li><li><p><a href='https://nlp.stanford.edu/pubs/glove.pdf'><span>Global Vectors for Word Representation (GloVe)</span></a></p></li><li><p><a href='https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf'><span>Skip-Gram with Negative Sampling as Matrix Factorization</span></a></p><h3><a name="supervised-learning-with-pre-trained-word-representations" class="md-header-anchor"></a><span>Supervised Learning with Pre-Trained Word Representations</span></h3></li><li><p><a href='https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/'><span>Convolutional Neural Networks (CNN)</span></a></p></li><li><p><a href='https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/'><span>Recurrent Neural Networks and Long-Short Term Memory Units (LSTM)</span></a></p><h3><a name="supervised-learning-with-pre-trained-language-models" class="md-header-anchor"></a><span>Supervised Learning with Pre-Trained Language Models</span></h3></li><li><p><a href='https://arxiv.org/pdf/1508.04025.pdf'><span>Attention Mechanism</span></a></p></li><li><p><a href='https://arxiv.org/pdf/1706.03762.pdf'><span>Transformer</span></a></p></li><li><p><a href='https://arxiv.org/pdf/1810.04805.pdf'><span>Bidirectional Encoder Representations from Transformers (BERT)</span></a></p></li></ul><h2><a name="data-mining-dut2-statistique-et-informatique-décisionnelle" class="md-header-anchor"></a><span>Data Mining (DUT2 Statistique et Informatique Décisionnelle)</span></h2><p><span>Course material available on </span><a href='https://moodle.univ-lyon2.fr'><span>Moodle</span></a><span>.</span></p><h2><a name="bases-de-la-programmation-dut1-statistique-et-informatique-décisionnelle" class="md-header-anchor"></a><span>Bases de la programmation (DUT1 Statistique et Informatique Décisionnelle)</span></h2><p><span>Course material available on </span><a href='https://moodle.univ-lyon2.fr'><span>Moodle</span></a><span>.</span></p></div>
+<div id='write'  class=''><p><span>Adrien Guille — </span><a href='index.html'><span>Index</span></a><span> - </span><a href='research.html'><span>Research</span></a><span> - </span><a href='teaching.html'><span>Teaching</span></a><span> - </span><a href='publications.html'><span>Publications</span></a><span> - </span><a href='code.html'><span>Code</span></a></p><h1><a name="teaching" class="md-header-anchor"></a><span>Teaching</span></h1><h2><a name="representation-learning-for-nlp-m2-data-mining" class="md-header-anchor"></a><span>Representation Learning for NLP (M2 Data Mining)</span></h2><p><span>Here is a list of suggested readings for this course:</span></p><h3><a name="pre-trained-word-representations" class="md-header-anchor"></a><span>Pre-Trained Word Representations</span></h3><h5><a name="main-techniques-to-learn-vector-space-representations-of-words" class="md-header-anchor"></a><span>Main techniques to learn vector space representations of words</span></h5><ul><li><span>SGNS: </span><a href='https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf'><span>Distributed Representations of Words and Phrases and their Compositionality</span></a></li><li><span>Glove: </span><a href='https://nlp.stanford.edu/pubs/glove.pdf'><span>Global Vectors for Word Representation</span></a></li><li><span>Link between SGNS, GloVe &amp; PMI: </span><a href='https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf'><span>Neural Word Embedding as Implicit Matrix Factorization</span></a></li></ul><h3><a name="supervised-learning-with-pre-trained-word-representations" class="md-header-anchor"></a><span>Supervised Learning with Pre-Trained Word Representations</span></h3><h5><a name="main-neural-architectures-to-solve-document-level-classification-tasks" class="md-header-anchor"></a><span>Main neural architectures to solve document-level classification tasks </span></h5><ul><li><span>CNN: </span><a href='https://arxiv.org/pdf/1408.5882.pdf'><span>Convolutional Neural Networks for Sentence Classification</span></a></li><li><span>RNN &amp; GRU: </span><a href='https://arxiv.org/pdf/1406.1078.pdf'><span>Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</span></a></li></ul><h5><a name="sequence-to-sequence-learning-and-attention-mechanism" class="md-header-anchor"></a><span>Sequence to Sequence learning and attention mechanism</span></h5><ul><li><p><span>Seq2Seq: </span><a href='https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf'><span>Sequence to Sequence Learning with Neural Networks</span></a></p></li><li><p><span>Dot-product Attention: </span><a href='https://arxiv.org/pdf/1508.04025.pdf'><span>Effective Approaches to Attention-based Neural Machine Translation</span></a></p></li><li><p><span>Transformer: </span><a href='https://arxiv.org/pdf/1706.03762.pdf'><span>Attention is All You Need</span></a></p><h3><a name="supervised-learning-with-pre-trained-language-models" class="md-header-anchor"></a><span>Supervised Learning with Pre-Trained Language Models</span></h3></li><li><p><span>BERT: </span><a href='https://arxiv.org/pdf/1810.04805.pdf'><span>Bidirectional Encoder Representations from Transformers</span></a></p></li></ul><h2><a name="data-mining-dut2-statistique-et-informatique-décisionnelle" class="md-header-anchor"></a><span>Data Mining (DUT2 Statistique et Informatique Décisionnelle)</span></h2><p><span>Course material available on </span><a href='https://moodle.univ-lyon2.fr'><span>Moodle</span></a><span>.</span></p><h2><a name="bases-de-la-programmation-dut1-statistique-et-informatique-décisionnelle" class="md-header-anchor"></a><span>Bases de la programmation (DUT1 Statistique et Informatique Décisionnelle)</span></h2><p><span>Course material available on </span><a href='https://moodle.univ-lyon2.fr'><span>Moodle</span></a><span>.</span></p></div>
 </body>
 </html>
