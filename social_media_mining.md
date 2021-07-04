@@ -13,5 +13,5 @@ First, we've designed a probabilistic model based on the network structure under
 - [Event detection, tracking and visualization in Twitter: a mention-anomaly-based approach](http://arxiv.org/pdf/1505.05657.pdf) by Adrien Guille, Cécile Favre. *Springer Social Network Analysis and Mining, vol. 5 (1)*, 2015
 
 ### Code
-- Mention-Anomaly-Based Event Detection: https://github.com/AdrienGuille/pyMABED
-- SONDY: A Platform for Social Dynamics Mining and Analysis: https://github.com/AdrienGuille/SONDY
+- Mention-Anomaly-Based Event Detection: [https://github.com/AdrienGuille/pyMABED](https://github.com/AdrienGuille/pyMABED)
+- SONDY: A Platform for Social Dynamics Mining and Analysis: [https://github.com/AdrienGuille/SONDY](https://github.com/AdrienGuille/SONDY)
