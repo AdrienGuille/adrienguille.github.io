@@ -1,13 +1,10 @@
-Adrien Guille — [Index](index.html) - [Research](research.html) - [Teaching](teaching.html) - [Publications](publications.html) - [Code](code.html)
-
 # Research
-
 
 ## Research interests
 
 My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problem related to language. I am particularly interested in problems related to structured text corpora, *i.e.* networks of documents.
 
-## Funded projects<div id="projects">
+## Funded projects
 
 ### Project leader
 
@@ -22,11 +19,11 @@ My research interests lie in the development of machine learning and data mining
 - [Idenum](http://imu.universite-lyon.fr/projet/idenum-identites-numeriques-urbaines/) - Labex IMU, 2016-2019 : Analyse de la représentation de la ville à travers les médias sociaux (avec le [LIRIS](#), [EVS](#) et [ELICO](#))
 - [ImagiWeb](http://mediamining.univ-lyon2.fr/velcin/imagiweb/) - ANR, 2012-2015 : Détection et analyse de l'opinion dans les médias sociaux
 
-## Advising<div id="advising">
+## Advising
 
 ### PhD thesis advisor
 
-- [--](), 2021-2023 : Apprentissage profond pour la classification supervisée de documents longs (avec [DM$^2$](#))
+- [--](), 2022-2025 : Apprentissage profond pour la classification supervisée de documents longs (avec [DMSQ](#))
 - [Jean Dupuy (Université Lyon 2)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2018-2021 : Apprentissage de représentations de documents structurés (avec [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (avec [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/) & [Peer.us](http://peer.us/))
 
@@ -38,11 +35,11 @@ My research interests lie in the development of machine learning and data mining
 - [Geoffrey Guettier (INSA Lyon)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2017 : Apprentissage de représentations des mots
 - [Anthony Deseille (Université Lyon 1)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2016 : Annotation morpho-syntaxique de tweets
 
-## Service<div id="service">
+## Service
 
 ### Organizer
 
-- [European ECAS-SFdS school on deep learning for text mining](#) : 2020 (avec [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/) ; reprogrammée en 2021)
+- [European ECAS-SFdS school on deep learning for text mining](#) : 2021 (avec [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/)
 - [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/) : 2021 (avec [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/) ; canceled due to Covid-19)
 - [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (avec [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/) et le soutien de la [SFdS](#) & du [GdR MaDICS](#))
 - [Séminaire du laboratoire (DMD)](#): 2019-2021
@@ -53,6 +50,7 @@ My research interests lie in the development of machine learning and data mining
 ### Program Comittee Member
 
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021
+- [International Conference on Empirical Methods in Natural Language Processing (EMNLP](#) : 2021
 - [European Chapter of the Association for Computational Linguistics (EACL)](#) : 2021
 - [European Conference on Information Retrieval (ECIR)](https://link.springer.com/conference/ecir) : 2021, 2020
 - [Conférence Extraction et Gestion des Connaissances (EGC)](http://www.egc.asso.fr/category/manifestations/conferences) : 2021, 2020, 2019, 2018
