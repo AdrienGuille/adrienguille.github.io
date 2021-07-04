@@ -1,5 +1,3 @@
-Adrien Guille — [Index](index.html) - [Research](research.html) - [Teaching](teaching.html) - [Publications](publications.html) - [Code](code.html)
-
 # Code
 
 [IDNE](https://github.com/brochier/idne) : Implémentation en TensorFlow de la méthode IDNE pour l'apprentissage de représentations de documents en réseau
