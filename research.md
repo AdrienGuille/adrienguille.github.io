@@ -2,7 +2,11 @@
 
 ## Research interests
 
-My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problem related to language. I am particularly interested in problems related to structured text corpora, *i.e.* networks of documents.
+My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problem related to language. I am particularly interested in problems related to networks of documents.
+
+## Publications
+
+See the [dedicated page](publications) or my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
 ## Funded projects
 
