@@ -1,5 +1,3 @@
-Adrien Guille — [Index](index.html) - [Research](research.html) - [Teaching](teaching.html) - [Publications](publications.html) - [Code](code.html)
-
 # Document Network Embedding
 
 Document network embedding aims at learning low dimensional representations of documents that are connected by links, taking their content and the network structure into account.  These representations can then serve in downstream tasks, such as document clustering or link prediction.
