@@ -1,5 +1,3 @@
-Adrien Guille — [Index](index.html) - [Research](research.html) - [Teaching](teaching.html) - [Publications](publications.html) - [Code](code.html)
-
 # Swearing Habit Analysis in British Tweets
 
 Linguistic differences between women and men is a common source of discussion. Traditional views of women as speaking more than men, or of men swearing more than women for example, fuel societal stereotypes and may thus impact people’s standards concerning what is desirable from women or men.
@@ -16,4 +14,4 @@ We've studied language use on Twitter, more particularly gender and age differen
 
 ### Code
 
-- CATS: Collection and Analysis of Tweets made Simple: https://github.com/CATS-Project
+- CATS: Collection and Analysis of Tweets made Simple: [https://github.com/CATS-Project](https://github.com/CATS-Project)
