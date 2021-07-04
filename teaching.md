@@ -1,5 +1,3 @@
-Adrien Guille — [Index](index.html) - [Research](research.html) - [Teaching](teaching.html) - [Publications](publications.html) - [Code](code.html)
-
 # Teaching
 
 ## Representation Learning for NLP (M2 Data Mining)
@@ -8,7 +6,7 @@ Here is a list of suggested readings for this course:
 
 ### Pre-Trained Word Representations
 
-#####Main techniques to learn vector space representations of words
+##### Main techniques to learn vector space representations of words
 
 - SGNS: [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - Glove: [Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
