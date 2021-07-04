@@ -11,3 +11,5 @@ include:
   document_network_embedding.md
   sociolinguistics.md
   social_media_mining.md
+
+theme: jekyll-theme-dinky
