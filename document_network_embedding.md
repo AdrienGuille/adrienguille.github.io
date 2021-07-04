@@ -13,6 +13,6 @@ First, we've designed a matrix factorization-based method that learns document a
 - [Document Network Embedding: Coping for Missing Links and Missing Content](https://arxiv.org/pdf/1912.03048.pdf) by Jean Dupuy, Adrien Guille, Julien Jacques. Presented at the student competition, *International ACM Symposium on Applied Computing (SAC)*, 2020 - **Core B**
 
 ### Code
-- Global Vectors for Node Representations: https://github.com/brochier/gvnr
-- Inductive Document Network Embedding with Topic-Word Attention: https://github.com/brochier/idne
-- Document Network Projection in Pretrained Word Embedding Space: https://github.com/AntoineGourru/DNEmbedding
+- Global Vectors for Node Representations: [https://github.com/brochier/gvnr](https://github.com/brochier/gvnr)
+- Inductive Document Network Embedding with Topic-Word Attention: [https://github.com/brochier/idne](https://github.com/brochier/idne)
+- Document Network Projection in Pretrained Word Embedding Space: [https://github.com/AntoineGourru/DNEmbedding](https://github.com/AntoineGourru/DNEmbedding)
