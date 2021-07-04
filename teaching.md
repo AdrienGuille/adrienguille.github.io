@@ -22,15 +22,12 @@ Here is a list of suggested readings for this course:
 ##### Sequence to Sequence learning and attention mechanism
 
 - Seq2Seq: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
-
 - Dot-product Attention: [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)
-
 - Transformer: [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
   ### Supervised Learning with Pre-Trained Language Models
 
 - BERT: [Bidirectional Encoder Representations from Transformers](https://arxiv.org/pdf/1810.04805.pdf)
-
 
 ## Data Mining (DUT2 Statistique et Informatique Décisionnelle)
 
