@@ -12,7 +12,7 @@ See the [dedicated page](publications) or my [Google Scholar profile](https://sc
 
 ### Project leader
 
-- Partenariat recherche-entreprise, 2018-2020 (14 k€) : Étude du contenu publi-rédactionnel dans les médias en ligne (avec [DM$^2$](https://dmsq.io))
+- Partenariat recherche-entreprise, 2018-2020 (14 k€) : Étude du contenu publi-rédactionnel dans les médias en ligne (avec [DMSQ](https://dmsq.io))
 - Partenariat recherche-entreprise, 2019 (22 k€) : Extraction de relations dans les textes de géologie (avec [TOTAL](https://www.total.com))
 - [#Néo : Cyberobservatoire de la néologie](#) - PI, 2017-2018 (12 k€) : Modélisation temporelle du sens des mots (avec le [CRTT](https://crtt.univ-lyon2.fr/bienvenue-sur-le-site-du-crtt-e-a-4162--582984.kjsp), le [LIUM](https://lium.univ-lemans.fr) et l'[IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
 
@@ -54,7 +54,7 @@ See the [dedicated page](publications) or my [Google Scholar profile](https://sc
 ### Program Comittee Member
 
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021
-- [International Conference on Empirical Methods in Natural Language Processing (EMNLP](#) : 2021
+- [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2021
 - [European Chapter of the Association for Computational Linguistics (EACL)](#) : 2021
 - [European Conference on Information Retrieval (ECIR)](https://link.springer.com/conference/ecir) : 2021, 2020
 - [Conférence Extraction et Gestion des Connaissances (EGC)](http://www.egc.asso.fr/category/manifestations/conferences) : 2021, 2020, 2019, 2018
