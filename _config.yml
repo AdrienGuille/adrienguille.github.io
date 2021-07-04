@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  index.md
+  research.md
+  teaching.md
+  publications.md
+  document_network_embedding.md
+  sociolinguistics.md
+  social_media_mining.md
