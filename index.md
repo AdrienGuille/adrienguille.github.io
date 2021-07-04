@@ -1,6 +1,4 @@
->- Doctorat (2014) - *Université Lumière Lyon 2*
->- Master (2011) - *École Polytechnique de l'Université de Nantes*
->- Licence (2009) - *Université de La Rochelle*
+# About
 
 ## Research
 I'm part of the [Data Mining & Decision Group](https://eric.msh-lse.fr/recherche/equipe-dmd/) at the [ERIC Lab](https://eric.ish-lyon.cnrs.fr). My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problems related to language. <br>Check out my work on  [document network embedding](document_network_embedding.html) and [social media mining](social_media_mining.html) or my work in [sociolinguistics](sociolinguistics.html).
