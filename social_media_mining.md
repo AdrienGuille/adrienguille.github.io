@@ -1,5 +1,3 @@
-Adrien Guille — [Index](index.html) - [Research](research.html) - [Teaching](teaching.html) - [Publications](publications.html) - [Code](code.html)
-
 # Social Media Mining
 
 Social media have greatly modified the way we produce, diffuse and consume information, and have become powerful information vectors. The goal of this project was to help in the understanding of the information diffusion phenomenon in social media by providing means of modeling and analysis.
