@@ -8,7 +8,7 @@ I'm part of the [Data Mining & Decision Group](https://eric.msh-lse.fr/recherche
 - [Code](code)
 
 ## Teaching
-I teach courses in statistics and computer science, both at the undergraduate level ([BUT Statistique et Informatique Décisionnelle](https://iut.univ-lyon2.fr/formations/but/b-u-t-statistique-et-informatique-decisionnelle) and the graduate level ([Master Data Mining](https://www.univ-lyon2.fr/master-2-informatique-data-mining-data-mining-1)).
+I teach courses in statistics and computer science, both at the undergraduate level ([BUT Statistique et Informatique Décisionnelle](https://iut.univ-lyon2.fr/formations/but/b-u-t-statistique-et-informatique-decisionnelle)) and the graduate level ([Master Data Mining](https://www.univ-lyon2.fr/master-2-informatique-data-mining-data-mining-1)).
 - [Courses](teaching)
 
 ## Recent Talks
