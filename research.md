@@ -6,7 +6,7 @@ My research interests lie in the development of machine learning and data mining
 
 ## Publications
 
-See the [dedicated page](publications) or my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
+See the [dedicated page](publications.md) or my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
 ## Funded projects
 
