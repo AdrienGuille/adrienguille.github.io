@@ -1,5 +1,7 @@
 # About Me
 
+## Education
+
 ![Visual resume](assets/images/visual_resume.png)
 
 ## Research
