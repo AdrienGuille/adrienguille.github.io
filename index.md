@@ -1,5 +1,7 @@
 # About Me
 
+![Visual resume](assets/images/visual_resume.png)
+
 ## Research
 
 I'm part of the [Data Mining & Decision Group](https://eric.msh-lse.fr/recherche/equipe-dmd/) at the [ERIC Lab](https://eric.msh-lse.fr). My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problems related to language. <br>Check out my work on  [document network embedding](document_network_embedding) and [social media mining](social_media_mining) or my work in [sociolinguistics](sociolinguistics).
