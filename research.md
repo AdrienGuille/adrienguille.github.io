@@ -12,12 +12,13 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Project leader
 
-- Partenariat recherche-entreprise, 2018-2020 (14 k€) : Étude du contenu publi-rédactionnel dans les médias en ligne (avec [DMSQ](https://dmsq.io))
+- Partenariat recherche-entreprise, 2018-2022 (21 k€) : Étude du contenu publi-rédactionnel dans les médias en ligne (avec [DMSQ](https://dmsq.io))
 - Partenariat recherche-entreprise, 2019 (22 k€) : Extraction de relations dans les textes de géologie (avec [TOTAL](https://www.total.com))
-- [#Néo : Cyberobservatoire de la néologie](#) - PI, 2017-2018 (12 k€) : Modélisation temporelle du sens des mots (avec le [CRTT](https://crtt.univ-lyon2.fr/bienvenue-sur-le-site-du-crtt-e-a-4162--582984.kjsp), le [LIUM](https://lium.univ-lemans.fr) et l'[IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
+- [#Néo : Cyberobservatoire de la néologie](#) - PI, 2017-2018 (12 k€) : Modélisation temporelle du sens des mots (avec le [CRTT](https://cerla.univ-lyon2.fr), le [LIUM](https://lium.univ-lemans.fr) et l'[IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
 
 ### Project member
 
+- [DIKÉ](#) - ANR, 2021-2024 : Bias, fairness and ethics of compressed NLP models (avec [LHC @ Univ Saint-Etienne](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html) et [Naver Labs](https://europe.naverlabs.com))
 - [LIFRANUM](https://marge.univ-lyon3.fr/projet-lifranum) - ANR, 2020-2023 : Littérature francophone numérique, pratiques et communautés de production, de lecture et d'analyse critique (avec [MARGE](#), le [NT2 @ UQAM Montréal](#) et [THEOLINUM @ UdM Montréal](#))
 - [MoBiLo](#) - PI, 2020-2021 : Modélisation des trajectoires bilingues : approches statistiques novatrices pour une linguistique outillée appliquée au développement bilingue (avec [DDL](#) et [ICAR](#))
 - [Idenum](http://imu.universite-lyon.fr/projet/idenum-identites-numeriques-urbaines/) - Labex IMU, 2016-2019 : Analyse de la représentation de la ville à travers les médias sociaux (avec le [LIRIS](#), [EVS](#) et [ELICO](#))
@@ -28,16 +29,16 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### PhD thesis advisor
 
 - [--](), 2022-2025 : Apprentissage profond pour la classification supervisée de documents longs (avec [DMSQ](#))
-- [Jean Dupuy (Université Lyon 2)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2018-2021 : Apprentissage de représentations de documents structurés (avec [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
-- [Robin Brochier (Université Lyon 2)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (avec [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/) & [Peer.us](http://peer.us/))
+- [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (avec [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
+- [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (avec [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
 ### Master thesis advisor
 
 - [Aimé Miakassissa (Université Lyon 2)](#), 2020 : Apprentissage profond pour la classification supervisée de documents longs
-- [Abderahmen Masmoudi (ENSTA ParisTech)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2018 : Développement d'un outil pour explorer les représentations des mots
-- [Firas Odeh (Université Lyon 1)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2018 : Détection d'évènements sur Twitter
-- [Geoffrey Guettier (INSA Lyon)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2017 : Apprentissage de représentations des mots
-- [Anthony Deseille (Université Lyon 1)](http://mediamining.univ-lyon2.fr/people/guille/research.php#), 2016 : Annotation morpho-syntaxique de tweets
+- [Abderahmen Masmoudi (ENSTA ParisTech)](#), 2018 : Développement d'un outil pour explorer les représentations des mots
+- [Firas Odeh (Université Lyon 1)](#), 2018 : Détection d'évènements sur Twitter
+- [Geoffrey Guettier (INSA Lyon)](#), 2017 : Apprentissage de représentations des mots
+- [Anthony Deseille (Université Lyon 1)](#), 2016 : Annotation morpho-syntaxique de tweets
 
 ## Service
 
@@ -53,7 +54,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Program Comittee Member
 
-- [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021, 2022-2023-2024 (Program Committee Board member for 3 years)
+- [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021, from 2022 to 2024 (Program Committee Board member for 3 years)
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2021
 - [European Chapter of the Association for Computational Linguistics (EACL)](#) : 2021
 - [European Conference on Information Retrieval (ECIR)](https://link.springer.com/conference/ecir) : 2021, 2020
