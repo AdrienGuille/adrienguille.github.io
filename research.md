@@ -12,13 +12,14 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Project leader
 
-- Partenariat recherche-entreprise, 2018-2022 (21 k€) : Étude du contenu publi-rédactionnel dans les médias en ligne (avec [DMSQ](https://dmsq.io))
-- Partenariat recherche-entreprise, 2019 (22 k€) : Extraction de relations dans les textes de géologie (avec [TOTAL](https://www.total.com))
-- [#Néo : Cyberobservatoire de la néologie](#) - PI, 2017-2018 (12 k€) : Modélisation temporelle du sens des mots (avec le [CRTT](https://cerla.univ-lyon2.fr), le [LIUM](https://lium.univ-lemans.fr) et l'[IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
+- Partenariat recherche-entreprise, 2018-2022 (21 k€) : Réseaux de neurones profonds pour l'étude du contenu publi-rédactionnel dans les médias en ligne (avec [DMSQ](https://dmsq.io))
+- Partenariat recherche-entreprise, 2019 (22 k€) : Réseaux de neurones profonds pour l'extraction de relations dans les textes de géologie (avec [TOTAL](https://www.total.com))
+- [#Néo : Cyberobservatoire de la néologie](#) - PI, 2017-2018 (12 k€) : Apprentissage de représentations vectorielles des mots pour l'étude des néologismes (avec le [CRTT](https://cerla.univ-lyon2.fr), le [LIUM](https://lium.univ-lemans.fr) et l'[IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
 
 ### Project member
 
 - [DIKÉ](#) - ANR, 2021-2024 : Bias, fairness and ethics of compressed NLP models (avec [LHC @ Univ Saint-Etienne](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html) et [Naver Labs](https://europe.naverlabs.com))
+- [POIVRE](#) - IRSDI, 2021-2022 : Analyse des débats sur Twitter au sujet de la production d'énergie (avec [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial))
 - [LIFRANUM](https://marge.univ-lyon3.fr/projet-lifranum) - ANR, 2020-2023 : Littérature francophone numérique, pratiques et communautés de production, de lecture et d'analyse critique (avec [MARGE](#), le [NT2 @ UQAM Montréal](#) et [THEOLINUM @ UdM Montréal](#))
 - [MoBiLo](#) - PI, 2020-2021 : Modélisation des trajectoires bilingues : approches statistiques novatrices pour une linguistique outillée appliquée au développement bilingue (avec [DDL](#) et [ICAR](#))
 - [Idenum](http://imu.universite-lyon.fr/projet/idenum-identites-numeriques-urbaines/) - Labex IMU, 2016-2019 : Analyse de la représentation de la ville à travers les médias sociaux (avec le [LIRIS](#), [EVS](#) et [ELICO](#))
