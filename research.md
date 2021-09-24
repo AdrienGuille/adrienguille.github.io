@@ -61,7 +61,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [European Conference on Information Retrieval (ECIR)](https://link.springer.com/conference/ecir) : 2022, 2021, 2020
 - [Conférence Extraction et Gestion des Connaissances (EGC)](http://www.egc.asso.fr/category/manifestations/conferences) : 2021, 2020, 2019, 2018
 - [IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)](http://inista.org): 2020
-- [International Symposium on Information Management and Big Data (SIMBig)](https://simbig.org) : 2019, 2018, 2017, 2016, 2015
+- [International Symposium on Information Management and Big Data (SIMBig)](https://simbig.org) : 2021, 2019, 2018, 2017, 2016, 2015
 - [Modèles & Analyse des Réseaux : Approches Mathématiques & Informatiques](https://lipn.univ-paris13.fr/marami/MARAMI/Accueil.html) : 2019
 - [Numéro spécial de la revue d'intelligence artificielle (RIA)](#) : 2016
 
