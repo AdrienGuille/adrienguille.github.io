@@ -12,30 +12,31 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Project leader
 
-- Partenariat recherche-entreprise, 2018-2022 (21 k€) : Réseaux de neurones profonds pour l'étude du contenu publi-rédactionnel dans les médias en ligne (avec [DMSQ](https://dmsq.io))
-- Partenariat recherche-entreprise, 2019 (22 k€) : Réseaux de neurones profonds pour l'extraction de relations dans les textes de géologie (avec [TOTAL](https://www.total.com))
-- [#Néo : Cyberobservatoire de la néologie](#) - PI, 2017-2018 (12 k€) : Apprentissage de représentations vectorielles des mots pour l'étude des néologismes (avec le [CRTT](https://cerla.univ-lyon2.fr), le [LIUM](https://lium.univ-lemans.fr) et l'[IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
+- 2018-2022 (21 k€): Automatic analysis of branded content in online media via deep neural networks (with [DMSQ](https://dmsq.io))
+- 2019 (22 k€) : Relation extraction in geological reports via deep neural networks (with [TOTAL](https://www.total.com))
+- 2017-2018 (12 k€) : Neologism detection in social media via temporal word embedding (with [CRTT](https://cerla.univ-lyon2.fr), [LIUM](https://lium.univ-lemans.fr) and [IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
 
 ### Project member
 
-- [DIKÉ](#) - ANR, 2021-2024 : Bias, fairness and ethics of compressed NLP models (avec [LHC @ Univ Saint-Etienne](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html) et [Naver Labs](https://europe.naverlabs.com))
+- [DIKÉ](#) - ANR, 2021-2024 : Bias, fairness and ethics of compressed NLP models (with [LHC @ Univ Saint-Etienne](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html) and [Naver Labs](https://europe.naverlabs.com))
 - [POIVRE](#) - IRSDI, 2021-2022 : Analyse des débats sur Twitter au sujet de la production d'énergie (avec [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial))
 - [LIFRANUM](https://marge.univ-lyon3.fr/projet-lifranum) - ANR, 2020-2023 : Littérature francophone numérique, pratiques et communautés de production, de lecture et d'analyse critique (avec [MARGE](#), le [NT2 @ UQAM Montréal](#) et [THEOLINUM @ UdM Montréal](#))
-- [MoBiLo](#) - PI, 2020-2021 : Modélisation des trajectoires bilingues : approches statistiques novatrices pour une linguistique outillée appliquée au développement bilingue (avec [DDL](#) et [ICAR](#))
-- [Idenum](http://imu.universite-lyon.fr/projet/idenum-identites-numeriques-urbaines/) - Labex IMU, 2016-2019 : Analyse de la représentation de la ville à travers les médias sociaux (avec le [LIRIS](#), [EVS](#) et [ELICO](#))
+- [MoBiLo](#), 2020-2021 : Modélisation des trajectoires bilingues : approches statistiques novatrices pour une linguistique outillée appliquée au développement bilingue (avec [DDL](#) et [ICAR](#))
+- [Idenum](http://imu.universite-lyon.fr/projet/idenum-identites-numeriques-urbaines/) - Labex, 2016-2019 : Analyse de la représentation de la ville à travers les médias sociaux (avec le [LIRIS](#), [EVS](#) et [ELICO](#))
 - [ImagiWeb](http://mediamining.univ-lyon2.fr/velcin/imagiweb/) - ANR, 2012-2015 : Détection et analyse de l'opinion dans les médias sociaux
 
 ## Advising
 
 ### PhD thesis advisor
 
-- [--](), 2022-2025 : Apprentissage profond pour la classification supervisée de documents longs (avec [DMSQ](#))
+- [--](#), 2022-2025 : Apprentissage profond pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (avec [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (avec [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
 ### Master thesis advisor
 
-- [Aimé Miakassissa (Université Lyon 2)](#), 2020 : Apprentissage profond pour la classification supervisée de documents longs
+- [--](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
+- [Aimé Miakassissa (Université Lyon 2)](#), 2020 : Apprentissage profond pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
 - [Abderahmen Masmoudi (ENSTA ParisTech)](#), 2018 : Développement d'un outil pour explorer les représentations des mots
 - [Firas Odeh (Université Lyon 1)](#), 2018 : Détection d'évènements sur Twitter
 - [Geoffrey Guettier (INSA Lyon)](#), 2017 : Apprentissage de représentations des mots
@@ -45,9 +46,9 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Organizer
 
-- [European ECAS-SFdS school on deep learning for text mining](#) : 2021 (avec [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/)
-- [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/) : 2021 (avec [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/) ; canceled due to Covid-19)
-- [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (avec [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/) et le soutien de la [SFdS](#) & du [GdR MaDICS](#))
+- [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/) : 2021 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/)
+- [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/) : 2021 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/); postponed to 2022)
+- [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (with [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/); supported by [SFdS](#) & [GdR MaDICS](#))
 - [Séminaire du laboratoire (DMD)](#): 2019-2021
 - [Session démo @ Conférence Extraction et Gestion des Connaissances](http://www.egc.asso.fr/category/manifestations/conferences) : 2019, 2018, 2017
 - [Graph embedding day](http://ged2018.sci-web.net) : 2018
