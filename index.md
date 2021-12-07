@@ -6,7 +6,7 @@
 
 ## Research
 
-I'm part of the [Data Mining & Decision Group](https://eric.msh-lse.fr/recherche/equipe-dmd/) at the [ERIC Lab](https://eric.msh-lse.fr). My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problems related to language. <br>Check out my work on  [document network embedding](document_network_embedding.md) and [social media mining](social_media_mining.md) or my work in [sociolinguistics](sociolinguistics.md).
+I'm the head of the [Data Mining & Decision Group](https://eric.msh-lse.fr/recherche/equipe-dmd/) at the [ERIC Lab](https://eric.msh-lse.fr). My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problems related to language. <br>Check out my work on  [document network embedding](document_network_embedding.md) and [social media mining](social_media_mining.md) or my work in [sociolinguistics](sociolinguistics.md).
 
 - [Projects, students and service](research.md)
 - [Publication list](publications.md) / [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ)
@@ -20,7 +20,7 @@ I teach courses in statistics and computer science, both at the undergraduate le
 
 ## Latest talks
 
-- ECAS-SFdS (European courses in advanced statistics) - [Deep Learning for NLP](#)
+- ECAS-SFdS (European courses in advanced statistics) - [Deep Learning for NLP](https://www.sfds.asso.fr/fr/ecas/632-home/)
 - SciDoLySe Meeting (regional machine learning group) - [Tutorial on the Transformer architecture for NLP](http://scidolyse.ens-lyon.fr/sites/default/files/2021-05/guile_small.pdf)
 - GdL ARIA / GdR TAL (national NLP group) - [Theory of graph convolutional networks](http://www.asso-aria.org/gdl/2021/20210115/)
 
