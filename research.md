@@ -29,14 +29,14 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### PhD thesis advisor
 
-- [--](#), 2022-2025 : Apprentissage profond pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
+- [--](#), 2022-2025 : Réseaux de neurones profonds pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (avec [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (avec [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
 ### Master thesis advisor
 
-- [--](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
-- [Aimé Miakassissa (Université Lyon 2)](#), 2020 : Apprentissage profond pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
+- [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
+- [Aimé Miakassissa (Université Lyon 2)](#), 2020 : Réseaux de neurones profonds pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
 - [Abderahmen Masmoudi (ENSTA ParisTech)](#), 2018 : Développement d'un outil pour explorer les représentations des mots
 - [Firas Odeh (Université Lyon 1)](#), 2018 : Détection d'évènements sur Twitter
 - [Geoffrey Guettier (INSA Lyon)](#), 2017 : Apprentissage de représentations des mots
