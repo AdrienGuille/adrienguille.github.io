@@ -36,6 +36,8 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### Master thesis advisor
 
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
+- [Hugo Attali (Université Lyon 2)](#), 2022 : Apprentissage robuste de représentations hyperboliques des mots et des documents
+- [Loïck Chardon (Université Lyon 2)](#), 2022 : Analyse de l'évolution du discours lié au changement climatique sur Twitter depuis 2010
 - [Aimé Miakassissa (Université Lyon 2)](#), 2020 : Réseaux de neurones profonds pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
 - [Abderahmen Masmoudi (ENSTA ParisTech)](#), 2018 : Développement d'un outil pour explorer les représentations des mots
 - [Firas Odeh (Université Lyon 1)](#), 2018 : Détection d'évènements sur Twitter
