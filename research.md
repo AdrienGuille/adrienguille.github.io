@@ -56,7 +56,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [Graph embedding day](http://ged2018.sci-web.net) : 2018
 - [École de printemps en fouille de textes](https://eric.univ-lyon2.fr/textmining/) : 2018
 
-### Organizing Comitee Member
+### Organizing Comittee Member
 
 - [Conférence Extraction et Gestion des Connaissances (EGC)](https://egc2023.sciencesconf.org) : 2023
 
