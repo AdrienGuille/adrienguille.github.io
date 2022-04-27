@@ -4,18 +4,18 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2022
 
-- [Anchor Prediction: A Topic Modeling Approach](#) by Jean Dupuy, Adrien Guille, Julien Jacques. *International Wikimedia Workshop (Wiki @ WWW)*, 2022
+- [Anchor Prediction: A Topic Modeling Approach](https://wikiworkshop.org/2022/papers/WikiWorkshop2022_paper_6.pdf) by Jean Dupuy, Adrien Guille, Julien Jacques. *International Wikimedia Workshop (Wiki @ WWW)*, 2022
 - [Classification interprétable de documents à l'aide d'un réseau de neurones opérant sur des graphes](#) by Adrien Guille, Hugo Attali. *Atelier Fouille de Textes (TextMine @ EGC)*, 2022
 
 ## 2021
 
-- [Contextual-RTM: un cadre général pour la modélisation de thématiques dans les réseaux de documents](publications/crtm_egc21.pdf) by Jean Dupuy, Adrien Guille, Julien Jacques. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2021
+- [Contextual-RTM: un cadre général pour la modélisation de thématiques dans les réseaux de documents](https://editions-rnti.fr/render_pdf.php?p=1002639) by Jean Dupuy, Adrien Guille, Julien Jacques. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2021
 
 ## 2020
 
 - [Inductive Document Network Embedding with Topic-Word Attention](https://arxiv.org/pdf/2001.03369.pdf) by Robin Brochier, Adrien Guille, Julien Velcin. *European Conference on Information Retrieval (ECIR)*, 2020<br>**Code:** [https://github.com/brochier/idne](https://github.com/brochier/idne)
 - [Document Network Projection in Pretrained Word Embedding Space](https://arxiv.org/pdf/2001.05727.pdf) by Antoine Gourru, Adrien Guille, Julien Velcin, Julien Jacques. *European Conference on Information Retrieval (ECIR)*, 2020<br>**Code :** [https://github.com/AntoineGourru/DNEmbedding](https://github.com/AntoineGourru/DNEmbedding)
-- [Scientific Expert Finding in Document Networks: an Evaluation Framework](#) by Robin Brochier, Antoine Gourru, Adrien Guille, Julien Velcin. *International Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL @ ECIR)*, 2020
+- [New Datasets and a Benchmark of Document Network Embedding Methods for Scientific Expert Finding](https://arxiv.org/pdf/2004.03621.pdf) by Robin Brochier, Antoine Gourru, Adrien Guille, Julien Velcin. *International Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL @ ECIR)*, 2020
 - [Document Network Embedding: Coping for Missing Links and Missing Content](https://arxiv.org/pdf/1912.03048.pdf) by Jean Dupuy, Adrien Guille, Julien Jacques. Presented at the student competition, *International ACM Symposium on Applied Computing (SAC)*, 2020
 
 ## 2019
@@ -32,11 +32,11 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2017
 
-- [Gender Differences in Swearing: A Corpus Study of Twitter](http://mediamining.univ-lyon2.fr/people/guille/publications/swearing.pdf) by Michael Gauthier, Adrien Guille. *Advances in Swearing Research, Pragmatics & Beyond New Series*, 2017
+- [Gender Differences in Swearing: A Corpus Study of Twitter](publications/swearing.pdf) by Michael Gauthier, Adrien Guille. *Advances in Swearing Research, Pragmatics & Beyond New Series*, 2017
 
 ## 2016
 
-- [CATS: Collection and Analysis of Tweets made Simple](#) by Ciprian-Octavian Truica, Adrien Guille, Michael Gauthier. *International ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, 2016<br>**Code :** [https://github.com/CATS-Project](https://github.com/CATS-Project)
+- [CATS: Collection and Analysis of Tweets made Simple](https://www.researchgate.net/publication/291640032_CATS_Collection_and_Analysis_of_Tweets_Made_Simple) by Ciprian-Octavian Truica, Adrien Guille, Michael Gauthier. *International ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, 2016<br>**Code :** [https://github.com/CATS-Project](https://github.com/CATS-Project)
 - [Topic modeling and hypergraph mining to analyze the EGC conference history](http://mediamining.univ-lyon2.fr/people/guille/publications/egc2016.pdf) by Adrien Guille, Pavel Soriano, Ciprian Truica. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2016<br>**Best Paper Award (challenge)**
 - [TOM: A library for topic modeling and browsing](http://mediamining.univ-lyon2.fr/people/guille/publications/egc2016_demo.pdf) by Adrien Guille, Pavel Soriano. *Conférence française sur l'Extraction et la Gestion des Connaissances (EGC)*, 2016<br>**Code :** [https://github.com/AdrienGuille/TOM](https://github.com/AdrienGuille/TOM)
 
