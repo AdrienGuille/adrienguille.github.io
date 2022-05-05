@@ -18,8 +18,9 @@ I teach courses in statistics and computer science, both at the undergraduate le
 
 - [Courses](teaching.md)
 
-## Recent events
+## Recent talks
 
+- AgroStat (national conference on agro-industrial statistics) - [Keynote on NLP and its application to industrial issues](https://agrostat2022.sciencesconf.org/resource/page/id/6)
 - ECAS-SFdS (European courses in advanced statistics) - [Fall school on deep learning for NLP](https://www.sfds.asso.fr/fr/ecas/632-home/)
 - SciDoLySe Meeting (regional machine learning group) - [Tutorial on the Transformer architecture for NLP](http://scidolyse.ens-lyon.fr/sites/default/files/2021-05/guile_small.pdf)
 - GdL ARIA / GdR TAL (national NLP group) - [Talk on the theory of graph convolutional networks](http://www.asso-aria.org/gdl/2021/20210115/)
