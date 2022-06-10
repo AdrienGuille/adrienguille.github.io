@@ -14,12 +14,13 @@ I'm the head of the [Data Mining & Decision Group](https://eric.msh-lse.fr/reche
 
 ## Teaching
 
-I teach courses in statistics and computer science, both at the undergraduate level ([BUT - Statistique et Informatique Décisionnelle @ Université Lumière Lyon 2](https://iut.univ-lyon2.fr/formations/but/b-u-t-statistique-et-informatique-decisionnelle)) and the graduate level ([Master - Data Mining @ Université Lumière Lyon 2](https://www.univ-lyon2.fr/master-2-informatique-data-mining-data-mining-1) & [DU - Data Science @ Université de Paris](https://iutparis-seine.u-paris.fr/metiers-de-la-data/diplome-duniversite-analyste-data-science/)).
+I teach courses in statistics and computer science, both at the undergraduate level ([BUT - Statistique et Informatique Décisionnelle @ UL2](https://iut.univ-lyon2.fr/formations/but/b-u-t-statistique-et-informatique-decisionnelle)) and the graduate level ([Master - ML for AI @ UL2](https://www.univ-lyon2.fr/master-2-informatique-machine-learning-pour-lintelligence-artficielle-mlai), [Master - MIASHS @ UL2](https://assp.univ-lyon2.fr/formation/en-alternance/master-miashs), [DU - Data Science @ U-Paris](https://iutparis-seine.u-paris.fr/metiers-de-la-data/diplome-duniversite-analyste-data-science/)).
 
 - [Courses](teaching.md)
 
 ## Recent talks
 
+- ECAS-ENBIS (European courses in advanced statitics) - [Tutorial on deep learning for NLP](https://conferences.enbis.org/event/23/)
 - AgroStat (national conference on agro-industrial statistics) - [Keynote on NLP and its application to industrial issues](https://agrostat2022.sciencesconf.org/resource/page/id/6)
 - ECAS-SFdS (European courses in advanced statistics) - [Fall school on deep learning for NLP](https://www.sfds.asso.fr/fr/ecas/632-home/)
 - SciDoLySe Meeting (regional machine learning group) - [Tutorial on the Transformer architecture for NLP](http://scidolyse.ens-lyon.fr/sites/default/files/2021-05/guile_small.pdf)
