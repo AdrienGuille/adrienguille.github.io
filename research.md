@@ -12,6 +12,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Project leader
 
+- 2023-2024 (7 k€): New tools for the study of the evolution of discourse (with [DM2L @ U Lyon 1](https://liris.cnrs.fr/equipe/dm2l))
 - 2018-2022 (21 k€): Automatic analysis of branded content in online media via deep neural networks (with [DMSQ](https://dmsq.io))
 - 2019 (22 k€) : Relation extraction in geological reports via deep neural networks (with [TOTAL](https://www.total.com))
 - 2017-2018 (12 k€) : Neologism detection in social media via temporal word embedding (with [CRTT](https://cerla.univ-lyon2.fr), [LIUM](https://lium.univ-lemans.fr) and [IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
