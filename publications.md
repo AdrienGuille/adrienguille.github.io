@@ -4,7 +4,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2022
 
-- [Document Classification with Hierarchical Graph Neural Networks](https://www.mlgworkshop.ml) by Adrien Guille, Hugo Attali. *18th International Workshop on
+- [Document Classification with Hierarchical Graph Neural Networks](publications/docgat.pdf) by Adrien Guille, Hugo Attali. *18th International Workshop on
 Mining and Learning with Graphs (MLG @ ECML-PKDD)*, 2022
 - [Anchor Prediction: A Topic Modeling Approach](https://wikiworkshop.org/2022/papers/WikiWorkshop2022_paper_6.pdf) by Jean Dupuy, Adrien Guille, Julien Jacques. *International Wikimedia Workshop (Wiki @ WWW)*, 2022
 - [Classification interprétable de documents à l'aide d'un réseau de neurones opérant sur des graphes](#) by Adrien Guille, Hugo Attali. *Atelier Fouille de Textes (TextMine @ EGC)*, 2022
