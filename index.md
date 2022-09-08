@@ -2,7 +2,7 @@
 
 ## Education
 
-![Visual resume](./assets/images/visual_resume.png)
+![Visual resume](https://adrienguille.github.io/assets/images/visual_resume.png)
 
 ## Research
 
