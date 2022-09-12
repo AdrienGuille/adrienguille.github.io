@@ -10,13 +10,13 @@ I'm the head of the [Data Mining & Decision Group](https://eric.msh-lse.fr/reche
 
 - [Projects, students and service](https://adrienguille.github.io/research.html)
 - [Publication list](https://adrienguille.github.io/publications.html) / [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ)
-- [Code](code.md)
+- [Code](https://adrienguille.github.io/code.html)
 
 ## Teaching
 
 I teach courses in statistics and computer science, both at the undergraduate level ([BUT - Statistique et Informatique Décisionnelle @ UL2](https://iut.univ-lyon2.fr/formations/but/b-u-t-statistique-et-informatique-decisionnelle)) and the graduate level ([Master - ML for AI @ UL2](https://www.univ-lyon2.fr/master-2-informatique-machine-learning-pour-lintelligence-artficielle-mlai), [Master - MIASHS @ UL2](https://assp.univ-lyon2.fr/formation/en-alternance/master-miashs), [DU - Data Science @ U-Paris](https://iutparis-seine.u-paris.fr/metiers-de-la-data/diplome-duniversite-analyste-data-science/), [Master SDM @ ENS Lyon](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)).
 
-- [Courses](teaching.md)
+- [Courses](https://adrienguille.github.io/teaching.html)
 
 ## Recent talks
 
