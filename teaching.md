@@ -1,6 +1,6 @@
 # Teaching
 
-## Representation Learning for NLP (Master - Data Mining)
+## Representation Learning for NLP (Master Machine Learning & AI @ U Lyon 2)
 
 Here is a list of suggested readings for this course:
 
@@ -29,18 +29,16 @@ Here is a list of suggested readings for this course:
 
 - BERT: [Bidirectional Encoder Representations from Transformers](https://arxiv.org/pdf/1810.04805.pdf)
 
-## Text Mining (DU - Data Science)
+## Machine Learning with Graphs (Master Complex Systems @ ENS Lyon)
 
-Course material not available.
+Here is a list of suggested readings for this course:
 
-## Deep Learning (DU - Data Science)
+### Pre-trained Node and Graph Representations
 
-Course material not available.
+- DeepWalk: [Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652)
+- Node2Vec: [Scalable Feature Learning for Networks](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 
-## Data Mining (BUT - Statistique et Informatique Décisionnelle)
+### Graph Neural Networks
 
-Course material available on [Moodle](https://moodle.univ-lyon2.fr).
-
-## Bases de la programmation (BUT - Statistique et Informatique Décisionnelle)
-
-Course material available on [Moodle](https://moodle.univ-lyon2.fr).
+- GCN: [Semi Supervised Node Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
+- GAT: [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
