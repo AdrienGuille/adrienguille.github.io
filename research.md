@@ -30,12 +30,13 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### PhD thesis advisor
 
-- [--](#), 2023-2026 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
-- [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (avec [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
-- [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (avec [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
+- [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
+- [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
+- [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
 ### Master thesis advisor
 
+- [--](#), 2023 : Réseaux de neurones opérant sur des graphes pour le résumé automatique
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
 - [Hugo Attali (Université Lyon 2)](#), 2022 : Apprentissage robuste de représentations hyperboliques des mots et des documents
 - [Loïck Chardon (Université Lyon 2)](#), 2022 : Analyse de l'évolution du discours lié au changement climatique sur Twitter depuis 2010
@@ -52,7 +53,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/) : 2021 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
 - [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/) : 2021 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/); postponed to 2022)
 - [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (with [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/); supported by [SFdS](#) & [GdR MaDICS](#))
-- [Séminaire du laboratoire (DMD)](#): 2019-2021
+- [Séminaire du laboratoire (DMD)](https://eric.msh-lse.fr/category/seminaires/): 2019-2021
 - [Session démo @ Conférence Extraction et Gestion des Connaissances](http://www.egc.asso.fr/category/manifestations/conferences) : 2019, 2018, 2017
 - [Graph embedding day](http://ged2018.sci-web.net) : 2018
 - [École de printemps en fouille de textes](https://eric.univ-lyon2.fr/textmining/) : 2018
@@ -65,18 +66,18 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021, from 2022 to 2024 (Program Committee Board member for 3 years)
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2022, 2021
-- [European Conference on Information Retrieval (ECIR)](https://link.springer.com/conference/ecir) : 2023, 2022, 2021, 2020
+- [European Conference on Information Retrieval (ECIR)](#) : 2023, 2022, 2021, 2020
 - [European Chapter of the Association for Computational Linguistics (EACL)](#) : 2021
-- [Conférence Extraction et Gestion des Connaissances (EGC)](http://www.egc.asso.fr/category/manifestations/conferences) : 2023, 2022, 2021, 2020, 2019, 2018
-- [IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)](http://inista.org): 2020
-- [International Symposium on Information Management and Big Data (SIMBig)](https://simbig.org) : 2021, 2019, 2018, 2017, 2016, 2015
-- [Modèles & Analyse des Réseaux : Approches Mathématiques & Informatiques](https://lipn.univ-paris13.fr/marami/MARAMI/Accueil.html) : 2019
+- [Conférence Extraction et Gestion des Connaissances (EGC)](#) : 2023, 2022, 2021, 2020, 2019, 2018
+- [IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)](#): 2020
+- [International Symposium on Information Management and Big Data (SIMBig)](#) : 2021, 2019, 2018, 2017, 2016, 2015
+- [Modèles & Analyse des Réseaux : Approches Mathématiques & Informatiques](#) : 2019
 - [Numéro spécial de la revue d'intelligence artificielle (RIA)](#) : 2016
 
 ### Journal reviewer
 
 - [IEEE Transactions on Knowledge and Data Engineering](#) : 2020, 2019, 2018, 2017, 2015
-- [Springer Machine Learning]() : 2021
+- [Springer Machine Learning](#) : 2021
 - [Journal of Machine Learning Research](#) : 2019
 - [Springer Data Mining and Knowledge Discovery](#) : 2017, 2016
 - [Elsevier Expert Systems With Applications](#) : 2019
