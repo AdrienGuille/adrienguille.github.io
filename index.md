@@ -20,6 +20,7 @@ I teach courses in statistics and computer science, both at the undergraduate le
 
 ## Recent talks
 
+- Café Statistique Lyonnais - [Applications of NLP and their impact on society](http://cafestatistiquelyonnais.blogspot.com/2017/10/saison-20172018-prochain-cafe-stat-lyon.html)
 - ECAS-ENBIS (European courses in advanced statitics) - [Tutorial on deep learning for NLP](https://conferences.enbis.org/event/23/)
 - AgroStat (national conference on agro-industrial statistics) - [Keynote on NLP and its application to industrial issues](https://drive.google.com/file/d/1KeAyvpEZ_KwCngF_3zmjQXDxeR3jJR0E/view)
 - ECAS-SFdS (European courses in advanced statistics) - [Fall school on deep learning for NLP](https://www.sfds.asso.fr/fr/ecas/632-home/)
