@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-The course will start with a general introduction to NLP and its applications, either for natural language understading or natural language generation. The course will provide the needed theoretical tools to understand the foundations (i.e. elements of statistical learning & computer science) of modern NLP techniques. As the classes advances, the impact of NLP on society and the related ethical issues will be discussed.
+The course will start with a general introduction to NLP and its applications, either for natural language understanding or natural language generation. The course will provide the needed theoretical tools to understand the foundations (i.e. elements of statistical learning & computer science) of modern NLP techniques. As the classes advances, the impact of NLP on society and the related ethical issues will be discussed.
 
 ## Learning vector space representations of words
 - Distributional semantics
