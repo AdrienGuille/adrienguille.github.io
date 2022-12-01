@@ -1,52 +1,60 @@
+# Natural Language Processing
 
-## Apprentissage de représentations vectorielles des mots
-- Skip-Gram avec échantillonnage négatif
-  - Données
-  - Modèle
-  - Estimation des représentations des mots
-    - Jeu de données
-    - Maximisation de la vraisemblance pénalisée par échantillonnage négatif 
-    - Estimation des vecteurs mots par descente de gradient stochastique
-- Lien avec la mesure d'information mutuelle ponctuelle
+The course will begin by a general introduction to NLP and its applications, either for natural language understading or natural language generation. The course will provide the needed theoretical tools to understand the foundations of moderns NLP techniques. As the classes advances, the impact of NLP on society and the related ethical issues will be discussed.
+
+## Learning vector space representations of words
+- Distributional semantics
+- Skip-Gram with negative sampling
+  - Data
+  - Model
+  - Estimation procedure via contrastive leanring
+    - Penalized likelihood maximization
+    - Stochastic gradient descent
+- Link with the pointwise mutual information
 - GloVe
 
-## Convolution et réseaux de neurones convolutifs pour la classification textuelle
-- Convolution d'un signal temporel par un noyau
-  - Définition du produit de convolution dans le domaine temporel 
-  - Définition du produit de convolution dans le domaine fréquentiel
-    - Transformation de Fourier discrète 
-    - Théorème de la convolution
-    - Calcul rapide de la transformation de Fourier
-- Architecture convolutive pour la classification de documents
-  - Entrée
-  - Couche de représentation des mots
-  - Couches parallèles basées sur la convolution 
-  - Couche de sous-échantillonnage
-  - Couche de classification
+## Supervised learning from text with convolutional neural networks
+- Convolution 
+  - Definition of convolution in the temporal domain
+  - Definition of convolution in the Fourier domain
+    - Discrete Fourier transform
+    - Convolution theorem
+    - Fast Fourier transform
+- Convolution-based architecture
+  - Input
+  - Word representation layer
+  - Parallel convolution-based layers
+  - Pooling layer
+  - Classification layer
 
-## Réseaux de neurones récurrents pour la classification textuelle
-- Cellule “Gated Recurrent Unit” (GRU)
-  - Entrée
-  - Porte réinitialisation (i.e. porte oubli/mémorisation)
-  - État caché candidat
-  - Porte mise-à-jour
-  - Nouvel état caché
-- Architecture pour la classification de documents
-  - Entrée
-  - Couche de représentation des mots
-  - Couche récurrente GRU
-  - Couche de classification
+## Supervised learning from text with recurrent neural networks
+- “Gated Recurrent Unit” (GRU) cell
+  - Input
+  - Forget gate
+  - Candidate hidden state
+  - Update gate
+  - Output hidden state
+- GRU-based architecture
+  - Input
+  - Word representation layer
+  - GRU layer
+  - Classification layer
 
-## Architecture Encodeur-Décodeur pour la génération de texte
-- Encodeur
-- Décodeur
-  - Couche de classification
-  - Début du décodage
-  - Décodage auto-régressifs
-- Limitation
-- Mécanisme d’attention croisée
-  - Couche d’attention croisée 
-  - Couche de classification
+## Text generation with encoder-decoder networks
+- Encoder
+- Decoder
+  - Classification layer
+  - Begining of decoding
+  - Auto-regressive decoding
+- Issues
+- Cross-attention mechanism
+  - Attention layer
+  - Classificaiton layer
 
-## Mécanisme d'auto-attention multi-têtes et architecture Transformer
-
+## Multi-head self-attention and Transformer networks
+- Multi-head self-attention
+- Transformer block
+- General architecture for text encoding
+- Deep language models
+  - Pre-training
+  - Fine-tuning
