@@ -44,7 +44,6 @@ The course will start with a general introduction to NLP and its applications, e
 - Encoder
 - Decoder
   - Classification layer
-  - Begining of decoding
   - Auto-regressive decoding
 - Issues
 - Cross-attention mechanism
