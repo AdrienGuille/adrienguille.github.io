@@ -11,7 +11,7 @@ The course will start with a general introduction to NLP and its applications, e
     - Penalized likelihood maximization
     - Stochastic gradient descent
 - Link with the pointwise mutual information
-- GloVe
+- Connection with GloVe
 
 ## Supervised learning from text with convolutional neural networks
 - Convolution 
