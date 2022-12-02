@@ -28,7 +28,7 @@ The course will start with a general introduction to NLP and its applications, e
   - Classification layer
 
 ## Supervised learning from text with recurrent neural networks
-- “Gated Recurrent Unit” (GRU) cell
+- Gated recurrent unit (GRU)
   - Input
   - Forget gate
   - Candidate hidden state
