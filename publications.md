@@ -4,8 +4,8 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2023
 
-- [Classification de documents par un réseau de neurones opérant sur des graphes dans l'espace hyperbolique](https://github.com/AdrienGuille/adrienguille.github.io/raw/main/publications/egc_hhgnn.pdf) by Adrien Guille, Hugo Attali. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2023
-- [Amélioration de l'architecture GAT par la prise en compte de la courbure des arêtes du graphe]() by Hugo Attali, Adrien Guille, Stéphane Chrétien. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2023
+- [Classification de documents par un réseau de neurones opérant sur des graphes dans l'espace hyperbolique](publications/egc_hhgnn.pdf) by Adrien Guille, Hugo Attali. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2023
+- [Amélioration de l'architecture GAT par la prise en compte de la courbure des arêtes du graphe](publications/egc_curvgat.pdf) by Hugo Attali, Adrien Guille, Stéphane Chrétien. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2023
 
 ## 2022
 
