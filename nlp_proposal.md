@@ -7,7 +7,7 @@ The course will start with a general introduction to NLP and its applications, e
 - Skip-Gram with negative sampling
   - Data
   - Model
-  - Estimation procedure via contrastive leanring
+  - Estimation procedure via contrastive learning
     - Penalized likelihood maximization
     - Stochastic gradient descent
 - Link with the pointwise mutual information
@@ -20,6 +20,7 @@ The course will start with a general introduction to NLP and its applications, e
     - Discrete Fourier transform
     - Convolution theorem
     - Fast Fourier transform
+    - Efficient implementation of convolution & generalization to graph-structured data
 - Convolution-based architecture
   - Input
   - Word representation layer
@@ -28,6 +29,10 @@ The course will start with a general introduction to NLP and its applications, e
   - Classification layer
 
 ## Supervised learning from text with recurrent neural networks
+- Definition of a recurrent neural network
+  - Transcoder network
+  - Encoder network
+  - Exploding/Vanishing gradient
 - Gated recurrent unit (GRU)
   - Input
   - Forget gate
@@ -54,6 +59,6 @@ The course will start with a general introduction to NLP and its applications, e
 - Multi-head self-attention
 - Transformer block
 - General architecture for text encoding
-- Deep language models
+- Deep language models for language understanding
   - Pre-training
   - Fine-tuning
