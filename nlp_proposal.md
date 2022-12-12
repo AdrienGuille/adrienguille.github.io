@@ -55,7 +55,7 @@ The course will start with a general introduction to NLP and its applications, e
   - Attention layer
   - Classificaiton layer
 
-## Multi-head self-attention and Transformer networks
+## Transformer networks and deep language models
 - Multi-head self-attention
 - Transformer block
 - General architecture for text encoding
