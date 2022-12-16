@@ -18,11 +18,12 @@ I teach courses in statistics and computer science, both at the undergraduate le
 
 - [Courses](https://adrienguille.github.io/teaching.html)
 
-## Recent talks
+## Latest talks
 
-- Café Statistique Lyonnais - [Applications of NLP and their impact on society](http://cafestatistiquelyonnais.blogspot.com/2017/10/saison-20172018-prochain-cafe-stat-lyon.html)
+- TextMine (National workshop on text mining) - [Graph Neural Networks for NLP](https://textmine.sciencesconf.org/resource/page/id/4)
+- Café Statistique Lyonnais (General audience) - [Applications of NLP and their impact on society](http://cafestatistiquelyonnais.blogspot.com/2017/10/saison-20172018-prochain-cafe-stat-lyon.html)
 - ECAS-ENBIS (European courses in advanced statitics) - [Tutorial on deep learning for NLP](https://conferences.enbis.org/event/23/)
-- AgroStat (national conference on agro-industrial statistics) - [Keynote on NLP and its application to industrial issues](https://drive.google.com/file/d/1KeAyvpEZ_KwCngF_3zmjQXDxeR3jJR0E/view)
+- AgroStat (National conference on agro-industrial statistics) - [Keynote on NLP and its application to industrial issues](https://drive.google.com/file/d/1KeAyvpEZ_KwCngF_3zmjQXDxeR3jJR0E/view)
 - ECAS-SFdS (European courses in advanced statistics) - [Fall school on deep learning for NLP](https://www.sfds.asso.fr/fr/ecas/632-home/)
 - SciDoLySe Meeting (regional machine learning group) - [Tutorial on the Transformer architecture for NLP](http://scidolyse.ens-lyon.fr/sites/default/files/2021-05/guile_small.pdf)
 - GdL ARIA / GdR TAL (national NLP group) - [Talk on the theory of graph convolutional networks](http://www.asso-aria.org/gdl/2021/20210115/)
