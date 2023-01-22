@@ -20,7 +20,7 @@ I teach courses in statistics and computer science, both at the undergraduate le
 
 ## Latest talks
 
-- TextMine (National workshop on text mining) - [Graph Neural Networks for NLP](https://textmine.sciencesconf.org/resource/page/id/4)
+- TextMine (National workshop on text mining) - [Graph neural networks: Theory and applications in NLP](https://adrienguille.github.io/publications/textmine2023.pdf)
 - Café Statistique Lyonnais (General audience) - [Applications of NLP and their impact on society](http://cafestatistiquelyonnais.blogspot.com/2017/10/saison-20172018-prochain-cafe-stat-lyon.html)
 - ECAS-ENBIS (European courses in advanced statitics) - [Tutorial on deep learning for NLP](https://conferences.enbis.org/event/23/)
 - AgroStat (National conference on agro-industrial statistics) - [Keynote on NLP and its application to industrial issues](https://drive.google.com/file/d/1KeAyvpEZ_KwCngF_3zmjQXDxeR3jJR0E/view)
