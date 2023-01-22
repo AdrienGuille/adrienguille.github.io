@@ -1,8 +1,6 @@
 # About Me
 
-## Education
-
-![Visual resume](https://adrienguille.github.io/assets/images/visual_resume.png)
+<img src="https://github.com/AdrienGuille/adrienguille.github.io/blob/main/assets/images/avatar.png?raw=true" width="200"/>
 
 ## Research
 
