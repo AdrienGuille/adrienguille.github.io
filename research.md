@@ -36,7 +36,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Master thesis advisor
 
-- [--](#), 2023 : Réseaux de neurones opérant sur des graphes pour le résumé automatique
+- [Raoufdine Said (Université Lyon 1)](#), 2023 : Réseaux de neurones opérant sur des graphes pour le résumé automatique
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
 - [Hugo Attali (Université Lyon 2)](#), 2022 : Apprentissage robuste de représentations hyperboliques des mots et des documents
 - [Loïck Chardon (Université Lyon 2)](#), 2022 : Analyse de l'évolution du discours lié au changement climatique sur Twitter depuis 2010
@@ -64,6 +64,8 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Program Comittee Member
 
+- [Annual Meeting of the Association for Computational Linguistics (ACL)](#) : 2023
+- [ACL Rolling Review](#) : 2023
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021, from 2022 to 2024 (Program Committee Board member for 3 years)
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2022, 2021
 - [European Conference on Information Retrieval (ECIR)](#) : 2023, 2022, 2021, 2020
