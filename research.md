@@ -61,6 +61,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### Organizing Comittee Member
 
 - [Conférence Extraction et Gestion des Connaissances (EGC)](https://egc2023.sciencesconf.org) : 2023
+- [Groupe de travail sur la fouille de textes (TextMine)](https://textmine.sciencesconf.org) : 2023
 
 ### Program Comittee Member
 
