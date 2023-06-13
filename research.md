@@ -69,7 +69,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [Annual Meeting of the Association for Computational Linguistics (ACL)](#) : 2023
 - [ACL Rolling Review](#) : 2023
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021, from 2022 to 2024 (Program Committee Board member for 3 years)
-- [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2022, 2021
+- [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2023, 2022, 2021
 - [European Conference on Information Retrieval (ECIR)](#) : 2023, 2022, 2021, 2020
 - [European Chapter of the Association for Computational Linguistics (EACL)](#) : 2021
 - [Conférence Extraction et Gestion des Connaissances (EGC)](#) : 2024, 2023, 2022, 2021, 2020, 2019, 2018
