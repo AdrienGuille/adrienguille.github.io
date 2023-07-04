@@ -12,6 +12,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Project leader
 
+- 2024-2025 (8k€): Clinical data extraction and analysis for prognostics (with [CREATIS](https://www.creatis.insa-lyon.fr/site7/fr) and [CARMEN](https://carmen.univ-lyon1.fr))
 - 2023-2024 (7 k€): New tools for the study of the evolution of discourse (with [DM2L @ U Lyon 1](https://liris.cnrs.fr/equipe/dm2l))
 - 2018-2022 (21 k€): Automatic analysis of branded content in online media via deep neural networks (with [DMSQ](https://dmsq.io))
 - 2019 (22 k€) : Relation extraction in geological reports via deep neural networks (with [TOTAL](https://www.total.com))
@@ -30,7 +31,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### PhD thesis advisor
 
-- [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
+- [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026 : Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/) and [CABOT Financial](https://www.cabotfinancial.fr))
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
