@@ -18,6 +18,7 @@ I teach courses in statistics and computer science, both at the undergraduate le
 
 ## Latest talks
 
+- Podcast pour l'Institut National du Travail, de l'Emploi et de la Formation Professionnelle - [ChatGPT: fonctionnement, utilisation et impact sur le monde du travail]()
 - TextMine (National workshop on text mining) - [Graph neural networks: Theory and applications in NLP](https://textmine.sciencesconf.org/data/pages/Adrien_TextMine.pdf)
 - Café Statistique Lyonnais (General audience) - [Applications of NLP and their impact on society](http://cafestatistiquelyonnais.blogspot.com/p/compte-rendus-des-cafes-passes.html)
 - ECAS-ENBIS (European courses in advanced statitics) - [Tutorial on deep learning for NLP](https://conferences.enbis.org/event/23/)
