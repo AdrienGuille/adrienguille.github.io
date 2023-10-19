@@ -2,7 +2,7 @@
 
 ## Research interests
 
-My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problem related to language. I am particularly interested in problems related to networks of documents.
+My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problem related to language. I'm particularly interested in graph-based approaches to natural language processing.
 
 ## Publications
 
@@ -63,7 +63,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### Organizing Comittee Member
 
 - [Conférence Extraction et Gestion des Connaissances (EGC)](https://egc2023.sciencesconf.org) : 2023
-- [Groupe de travail sur la fouille de textes (TextMine)](https://textmine.sciencesconf.org) : 2023
+- [Groupe de travail sur la fouille de textes (TextMine)](https://textmine.sciencesconf.org) : 2024, 2023
 
 ### Program Comittee Member
 
@@ -71,7 +71,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [ACL Rolling Review](#) : 2023
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021, from 2022 to 2024 (Program Committee Board member for 3 years)
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2023, 2022, 2021
-- [European Conference on Information Retrieval (ECIR)](#) : 2023, 2022, 2021, 2020
+- [European Conference on Information Retrieval (ECIR)](#) : 2024, 2023, 2022, 2021, 2020
 - [European Chapter of the Association for Computational Linguistics (EACL)](#) : 2021
 - [Conférence Extraction et Gestion des Connaissances (EGC)](#) : 2024, 2023, 2022, 2021, 2020, 2019, 2018
 - [IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)](#): 2020
