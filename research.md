@@ -37,6 +37,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Master thesis advisor
 
+- [?](#), 2024 : Modèle de langue pour l'extraction de données cliniques
 - [Raoufdine Said (Université Lyon 1)](#), 2023 : Réseaux de neurones opérant sur des graphes pour le résumé automatique
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
 - [Hugo Attali (Université Lyon 2)](#), 2022 : Apprentissage robuste de représentations hyperboliques des mots et des documents
