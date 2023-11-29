@@ -2,6 +2,10 @@
 
 See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
+## 2024
+
+- [Résumé interactif de documents](#) by Raoufdine Said, Adrien Guille. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2024
+
 ## 2023
 
 - [Classification de documents par un réseau de neurones opérant sur des graphes dans l'espace hyperbolique](publications/egc_hhgnn.pdf) by Adrien Guille, Hugo Attali. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2023
