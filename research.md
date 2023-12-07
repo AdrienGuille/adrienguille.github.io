@@ -35,8 +35,9 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
-### Master thesis advisor
+### Master thesis / Master research project advisor
 
+- [Ben Gao (Université Lyon 2](#) : Emergence of Complex Skills in Language Models
 - [?](#), 2024 : Modèle de langue pour l'extraction de données cliniques
 - [Raoufdine Said (Université Lyon 1)](#), 2023 : Réseaux de neurones opérant sur des graphes pour le résumé automatique
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
