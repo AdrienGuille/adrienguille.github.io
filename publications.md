@@ -4,6 +4,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2024
 
+- [Interactive Document Summarization](#) by Raoufdine Said, Adrien Guille. *European Conference on Information Retrieval (ECIR)*, 2024
 - [Résumé interactif de documents](#) by Raoufdine Said, Adrien Guille. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, 2024
 
 ## 2023
