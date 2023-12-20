@@ -16,7 +16,7 @@ The course will start with a general introduction to NLP and its applications, e
 ## Supervised learning from text with convolutional neural networks
 - Convolution 
   - Definition of convolution in the temporal domain
-  - Definition of convolution in the Fourier domain
+  - Definition of convolution in the spectral domain
     - Discrete Fourier transform
     - Convolution theorem
     - Fast Fourier transform
@@ -53,12 +53,17 @@ The course will start with a general introduction to NLP and its applications, e
 - Issues
 - Cross-attention mechanism
   - Attention layer
-  - Classificaiton layer
+  - Classification layer
+- Training with teacher forcing
+- Decoding with beam-search
 
-## Transformer networks and deep language models
+## Transformer networks and large language models
 - Multi-head self-attention
 - Transformer block
 - General architecture for text encoding
-- Deep language models for language understanding
+- Bidirectional language model for text understanding (e.g. BERT)
   - Pre-training
   - Fine-tuning
+- Conditional language model for text generation (e.g. ChatGPT)
+  - Pre-training
+  - Fine-tuning via reinforcement learning with human feedback
