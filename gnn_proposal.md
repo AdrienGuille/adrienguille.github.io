@@ -1,7 +1,8 @@
 # Machine Learning with Graph-Structured Data
 
 The course will start with a quick introduction to graph theory. The course will provide the needed theoretical tools (i.e. elements of statistical learning & computer science) to understand the foundations of modern techniques to learn from graph-structured data.
-This is a course I've given to M2 (CS and Physics) students at ENS Lyon.
+
+This is a course I give to CS and Physics M2 students @ ENS Lyon.
 
 ## Learning vector space representations of vertices
 - Distributional semantics
