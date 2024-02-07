@@ -2,7 +2,7 @@
 
 The course will start with a general introduction to NLP and its applications, either for natural language understanding or natural language generation. The course will provide the needed theoretical tools (i.e. elements of statistical learning & computer science) to understand the foundations of modern NLP techniques. As the class advances, the impact of NLP on society and the related ethical issues will be discussed.
 
-This is a course I've been giving to the MALIA and MIASHS M2 students since 2018.
+This is a course I give to the MALIA and MIASHS M2 students @ Univ Lyon 2.
 
 ## Learning vector space representations of words
 - Distributional semantics
