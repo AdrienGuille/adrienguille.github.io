@@ -57,7 +57,8 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Organizer
 
-- [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024) : 2023
+- [Journée nationale sur la fouille de textes]() : 2024
+- [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024) : 2023, 2024
 - [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/) : 2022 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
 - [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/) : 2021 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
 - [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (with [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/); supported by [SFdS](#) & [GdR MaDICS](#))
