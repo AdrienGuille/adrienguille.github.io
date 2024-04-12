@@ -54,7 +54,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### National Authority Member
 
-- [Membre élu au Conseil National des Universités (CNU)](#) : Suppléant Collège B Section 27 2023-2027
+- [Membre élu au Conseil National des Universités (CNU)](#) : Collège B Section 27 2023-2027
 
 ### Organizer
 
