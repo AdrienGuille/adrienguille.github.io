@@ -1,5 +1,8 @@
 # Code
 
+[RadSum](https://github.com/Baragouine/radsum) : Implémentation en PyTorch de la méthode RadSum pour le résumé extractif
+> [Interactive Document Summarization](https://adrienguille.github.io/publications/ecir2024.pdf). Raoufdine Said et Adrien Guille. Proceedings of the European Conference on Information Retrieval (ECIR), 2024
+
 [IDNE](https://github.com/brochier/idne) : Implémentation en TensorFlow de la méthode IDNE pour l'apprentissage de représentations de documents en réseau
 
 > [Inductive Document Network Embedding with Topic-Word Attention](https://arxiv.org/pdf/2001.03369.pdf). Robin Brochier, Adrien Guille et Julien Velcin. Proceedings of the European Conference on Information Retrieval (ECIR), 2020
