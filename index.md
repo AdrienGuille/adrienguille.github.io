@@ -4,7 +4,7 @@
 
 ## Research
 
-I'm part (and was the head for the year 2022) of the [Data Mining & Decision Group](https://eric.msh-lse.fr/recherche/equipe-dmd/) at the [ERIC Lab](https://eric.msh-lse.fr). My research interests lie in the development of machine learning and data mining techniques for the analysis and modeling of text, with the aim of solving real-world problems related to language. <br>Check out my work on [graph-based NLP](https://adrienguille.github.io/graph_nlp.html), [document network embedding](https://adrienguille.github.io/document_network_embedding.html), [social media mining](https://adrienguille.github.io/social_media_mining.html) or my work in [sociolinguistics](https://adrienguille.github.io/sociolinguistics.html).
+I'm part (and was the head for the year 2022) of the [Data Mining & Decision Group](https://eric.msh-lse.fr/recherche/equipe-dmd/) at the [ERIC Lab](https://eric.msh-lse.fr). My research interests lie in the development of machine learning techniques to solve graph-constrained problems related to language. <br>Check out my work on [graph-based NLP](https://adrienguille.github.io/graph_nlp.html), [document network embedding](https://adrienguille.github.io/document_network_embedding.html) or [social media mining](https://adrienguille.github.io/social_media_mining.html). I've also collaborated to a series of works in [sociolinguistics](https://adrienguille.github.io/sociolinguistics.html) in the context of social media.
 
 - [Projects, students and service](https://adrienguille.github.io/research.html)
 - [Publication list](https://adrienguille.github.io/publications.html) / [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ)
