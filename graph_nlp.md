@@ -13,5 +13,5 @@ In one research direction, we've proposed a graph-based approach to document cla
 - [Document Classification with Hierarchical Graph Neural Networks](publications/docgat.pdf) by Adrien Guille, Hugo Attali. *18th International Workshop on Mining and Learning with Graphs (MLG @ ECML-PKDD)*, 2022
 
 ### Code
-- Interactive Document Summarization with GNN-RNN: [https://github.com/Baragouine/radsum]
-- Exploring Semantics in Pretrained Language Model Attention: [https://anonymous.4open.science/r/sem_LM_att-322F/]
+- Interactive Document Summarization with GNN-RNN: [https://github.com/Baragouine/radsum]()
+- Exploring Semantics in Pretrained Language Model Attention: [https://anonymous.4open.science/r/sem_LM_att-322F/]()
