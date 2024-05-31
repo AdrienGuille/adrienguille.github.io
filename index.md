@@ -1,6 +1,17 @@
 # About Me
 
-<img src="https://github.com/AdrienGuille/adrienguille.github.io/blob/main/assets/images/avatar.png?raw=true" width="200"/>
+<table style="table">
+<tr>
+  <td><img src="https://github.com/AdrienGuille/adrienguille.github.io/blob/main/assets/images/avatar.png?raw=true" width="200"/></td>
+  <td>
+    <ul>
+    <li>Maître de conférences</li>
+    <li>Élu à la section 27 de la CNU</li>
+    <li>Responsable du parcours VCOD du BUT Science des Données</li>
+    </ul>
+  </td>
+</tr>
+</table>
 
 ## Research
 
