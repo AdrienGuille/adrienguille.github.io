@@ -1,17 +1,8 @@
 # About Me
 
-<table style="table">
-<tr>
-  <td><img src="https://github.com/AdrienGuille/adrienguille.github.io/blob/main/assets/images/avatar.png?raw=true" width="200"/></td>
-  <td>
-    <ul>
-    <li>Maître de conférences</li>
-    <li>Élu à la section 27 de la CNU</li>
-    <li>Responsable du parcours VCOD du BUT Science des Données</li>
-    </ul>
-  </td>
-</tr>
-</table>
+<img src="https://github.com/AdrienGuille/adrienguille.github.io/blob/main/assets/images/avatar.png?raw=true" width="200"/>
+
+I'm an Associate Professor (maître de conférences) of Computer Science @ Université Lumière Lyon 2. I'm also an elected member of the CNU 27 section.
 
 ## Research
 
@@ -23,7 +14,7 @@ I'm part (and was the head for the year 2022) of the [Data Mining & Decision Gro
 
 ## Teaching
 
-I teach courses in statistics and computer science, both at the undergraduate level ([BUT - Statistique et Informatique Décisionnelle @ UL2](https://iut.univ-lyon2.fr/formations/but/b-u-t-statistique-et-informatique-decisionnelle)) and the graduate level ([Master - ML for AI @ UL2](https://www.univ-lyon2.fr/master-2-informatique-machine-learning-pour-lintelligence-artficielle-mlai), [Master - MIASHS @ UL2](https://assp.univ-lyon2.fr/formation/en-alternance/master-miashs), [DU - Data Science @ U-Paris](https://iutparis-seine.u-paris.fr/metiers-de-la-data/diplome-duniversite-analyste-data-science/), [Master SDM @ ENS Lyon](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)).
+I teach courses in statistics and computer science, both at the undergraduate level ([BUT - Science des Données @ UL2](https://iut.univ-lyon2.fr/formations/but/but-science-des-donnees)) and the graduate level ([Master - ML for AI @ UL2](https://www.univ-lyon2.fr/master-2-informatique-machine-learning-pour-lintelligence-artficielle-mlai), [Master - MIASHS @ UL2](https://assp.univ-lyon2.fr/formation/en-alternance/master-miashs), [DU - Data Science @ U-Paris](https://iutparis-seine.u-paris.fr/metiers-de-la-data/diplome-duniversite-analyste-data-science/), [Master SDM @ ENS Lyon](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)).
 
 - [Courses](https://adrienguille.github.io/teaching.html)
 
