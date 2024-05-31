@@ -33,8 +33,8 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### PhD thesis advisor
 
 - [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026 : Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/) and [CABOT Financial](https://www.cabotfinancial.fr))
-- [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Apprentissage de représentations de documents structurés (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
-- [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Systèmes de recommandations et apprentissage de représentations (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
+- [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
+- [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
 ### Master thesis / Master research project advisor
 
@@ -58,11 +58,11 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Organizer
 
-- [Journée nationale sur la fouille de textes]() : 2024
+- [Journée nationale sur la fouille de textes](https://textmine-lyon.sciencesconf.org) : 2024
 - [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024) : 2023, 2024
 - [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/) : 2022 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
-- [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/) : 2021 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
-- [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (with [Julien Velcin](http://mediamining.univ-lyon2.fr/velcin/); supported by [SFdS](#) & [GdR MaDICS](#))
+- [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/) : 2021 (with [Jairo Cugliari]())
+- [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (with [Julien Velcin](); supported by [SFdS](#) & [GdR MaDICS](#))
 - [Séminaire du laboratoire (DMD)](https://eric.msh-lse.fr/category/seminaires/): 2019-2021
 - [Session démo @ Conférence Extraction et Gestion des Connaissances](http://www.egc.asso.fr/category/manifestations/conferences) : 2019, 2018, 2017
 - [Graph embedding day](http://ged2018.sci-web.net) : 2018
