@@ -4,8 +4,8 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2024
 
-- [Exploring Semantics in Pretrained Language Model Attention](publications/sem2024.pdf) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *13th Joint Conference on Lexical and Computational Semantics, co-located with NAACL (StarSEM @ NAACL)*, Mexico City (Mexico), 2024
-- [Interactive Document Summarization](publications/ecir2024.pdf) by Raoufdine Said, Adrien Guille. *European Conference on Information Retrieval (ECIR)*, Glasgow (UK), 2024
+- [Exploring Semantics in Pretrained Language Model Attention](publications/sem2024.pdf) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *13th Joint Conference on Lexical and Computational Semantics, co-located with NAACL (StarSEM @ NAACL)*, Mexico City (Mexico), 2024<br>**Code:** [https://anonymous.4open.science/r/sem_LM_att-322F/](https://anonymous.4open.science/r/sem_LM_att-322F/)
+- [Interactive Document Summarization](publications/ecir2024.pdf) by Raoufdine Said, Adrien Guille. *European Conference on Information Retrieval (ECIR)*, Glasgow (UK), 2024<br>**Code:** [https://github.com/Baragouine/radsum](https://github.com/Baragouine/radsum)
 - [Exploration de la sémantique dans l’attention d’un modèle de langue pré-entraîné]() by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *26ème Conférence sur l'Apprentissage Automatique (CAP)*, Lille (France), 2024
 - [Défi TextMine'24 : Reconnaissance d'entités géographiques dans un corpus des Instructions nautiques]() by Helen Mair Rawsthorne, Nathalie Abadie, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Dijon (France), 2024
 - [Résumé interactif de documents](https://editions-rnti.fr/render_pdf.php?p=1002963) by Raoufdine Said, Adrien Guille. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, Dijon (France), 2024
