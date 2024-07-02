@@ -5,7 +5,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 ## 2024
 
 - [Exploring Semantics in Pretrained Language Model Attention](publications/sem2024.pdf) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *13th Joint Conference on Lexical and Computational Semantics, co-located with NAACL (StarSEM @ NAACL)*, Mexico City (Mexico), 2024<br>**Code:** [https://anonymous.4open.science/r/sem_LM_att-322F/](https://anonymous.4open.science/r/sem_LM_att-322F/)
-- [Interactive Document Summarization](publications/ecir2024.pdf) by Raoufdine Said, Adrien Guille. *European Conference on Information Retrieval (ECIR)*, Glasgow (UK), 2024<br>**Code:** [https://github.com/Baragouine/radsum](https://github.com/Baragouine/radsum)
+- [Interactive Document Summarization](publications/ecir2024.pdf) by Raoufdine Said, Adrien Guille. *European Conference on Information Retrieval (ECIR)*, Glasgow (UK), 2024<br>**CORE A**<br>**Code:** [https://github.com/Baragouine/radsum](https://github.com/Baragouine/radsum)
 - [Exploration de la sémantique dans l’attention d’un modèle de langue pré-entraîné]() by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *26ème Conférence sur l'Apprentissage Automatique (CAP)*, Lille (France), 2024
 - [Défi TextMine'24 : Reconnaissance d'entités géographiques dans un corpus des Instructions nautiques]() by Helen Mair Rawsthorne, Nathalie Abadie, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Dijon (France), 2024
 - [Résumé interactif de documents](https://editions-rnti.fr/render_pdf.php?p=1002963) by Raoufdine Said, Adrien Guille. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, Dijon (France), 2024
@@ -28,14 +28,14 @@ Mining and Learning with Graphs (MLG @ ECML-PKDD)*, Grenoble (France), 2022
 
 ## 2020
 
-- [Inductive Document Network Embedding with Topic-Word Attention](https://arxiv.org/pdf/2001.03369.pdf) by Robin Brochier, Adrien Guille, Julien Velcin. *European Conference on Information Retrieval (ECIR)*, Lisbon (Portugal), 2020<br>**Code:** [https://github.com/brochier/idne](https://github.com/brochier/idne)
-- [Document Network Projection in Pretrained Word Embedding Space](https://arxiv.org/pdf/2001.05727.pdf) by Antoine Gourru, Adrien Guille, Julien Velcin, Julien Jacques. *European Conference on Information Retrieval (ECIR)*, Lisbon (Portugal), 2020<br>**Code :** [https://github.com/AntoineGourru/DNEmbedding](https://github.com/AntoineGourru/DNEmbedding)
+- [Inductive Document Network Embedding with Topic-Word Attention](https://arxiv.org/pdf/2001.03369.pdf) by Robin Brochier, Adrien Guille, Julien Velcin. *European Conference on Information Retrieval (ECIR)*, Lisbon (Portugal), 2020<br>**CORE A**<br>**Code:** [https://github.com/brochier/idne](https://github.com/brochier/idne)
+- [Document Network Projection in Pretrained Word Embedding Space](https://arxiv.org/pdf/2001.05727.pdf) by Antoine Gourru, Adrien Guille, Julien Velcin, Julien Jacques. *European Conference on Information Retrieval (ECIR)*, Lisbon (Portugal), 2020<br>**CORE A**<br>**Code :** [https://github.com/AntoineGourru/DNEmbedding](https://github.com/AntoineGourru/DNEmbedding)
 - [New Datasets and a Benchmark of Document Network Embedding Methods for Scientific Expert Finding](https://arxiv.org/pdf/2004.03621.pdf) by Robin Brochier, Antoine Gourru, Adrien Guille, Julien Velcin. *International Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL @ ECIR)*, Lisbon (Portugal), 2020
 - [Document Network Embedding: Coping for Missing Links and Missing Content](https://arxiv.org/pdf/1912.03048.pdf) by Jean Dupuy, Adrien Guille, Julien Jacques. Presented at the student competition, *International ACM Symposium on Applied Computing (SAC)*, Brno (Czech Republic), 2020
 
 ## 2019
 
-- [Global Vectors for Node Representations](https://arxiv.org/pdf/1902.11004.pdf) by Robin Brochier, Adrien Guille, Julien Velcin. *International ACM World Wide Web Conference (WWW)*, San Francisco (USA), 2019<br>
+- [Global Vectors for Node Representations](https://arxiv.org/pdf/1902.11004.pdf) by Robin Brochier, Adrien Guille, Julien Velcin. *International ACM World Wide Web Conference (WWW)*, San Francisco (USA), 2019<br>**CORE A***<br>
   **Code :** [https://github.com/brochier/gvnr](https://github.com/brochier/gvnr)
 - [Link Prediction with Mutual Attention for Text-Attributed Networks](https://arxiv.org/pdf/1902.11054.pdf) by Robin Brochier, Adrien Guille, Julien Velcin. *International Workshop on Deep Learning for Graphs and Structured Data Embedding (DL4G-SDE @ WWW)*, San Francisco (USA), 2019
 
@@ -51,13 +51,13 @@ Mining and Learning with Graphs (MLG @ ECML-PKDD)*, Grenoble (France), 2022
 
 ## 2016
 
-- [CATS: Collection and Analysis of Tweets made Simple](https://www.researchgate.net/publication/291640032_CATS_Collection_and_Analysis_of_Tweets_Made_Simple) by Ciprian-Octavian Truica, Adrien Guille, Michael Gauthier. *International ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, San Francisco (USA), 2016<br>**Code :** [https://github.com/CATS-Project](https://github.com/CATS-Project)
+- [CATS: Collection and Analysis of Tweets made Simple](https://www.researchgate.net/publication/291640032_CATS_Collection_and_Analysis_of_Tweets_Made_Simple) by Ciprian-Octavian Truica, Adrien Guille, Michael Gauthier. *International ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)*, San Francisco (USA), 2016<br>**CORE A**<br>**Code :** [https://github.com/CATS-Project](https://github.com/CATS-Project)
 - [Topic modeling and hypergraph mining to analyze the EGC conference history](publications/egc2016.pdf) by Adrien Guille, Pavel Soriano, Ciprian Truica. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, Reims (France), 2016<br>**Best Paper Award (challenge)**
 - [TOM: A library for topic modeling and browsing](publications/egc2016_demo.pdf) by Adrien Guille, Pavel Soriano. *Conférence française sur l'Extraction et la Gestion des Connaissances (EGC)*, Reims (France), 2016<br>**Code :** [https://github.com/AdrienGuille/TOM](https://github.com/AdrienGuille/TOM)
 
 ## 2015
 
-- [Event detection, tracking and visualization in Twitter: a mention-anomaly-based approach](http://arxiv.org/pdf/1505.05657.pdf) by Adrien Guille, Cécile Favre. *Springer Social Network Analysis and Mining, vol. 5 (1)*, 2015<br>**Code :** [https://github.com/AdrienGuille/pyMABED](https://github.com/AdrienGuille/pyMABED)
+- [Event detection, tracking and visualization in Twitter: a mention-anomaly-based approach](http://arxiv.org/pdf/1505.05657.pdf) by Adrien Guille, Cécile Favre. *Springer Social Network Analysis and Mining, vol. 5 (1)*, 2015<br>**Q1**<br>**Code :** [https://github.com/AdrienGuille/pyMABED](https://github.com/AdrienGuille/pyMABED)
 - [Text Mining and Twitter to Analyze British Swearing Habits](publications/twitter-handbook.pdf) by Michael Gauthier, Adrien Guille, Fabien Rico, Anthony Deseille. *Handbook of Twitter for Research*, 2015
 
 ## 2014
@@ -69,9 +69,9 @@ Mining and Learning with Graphs (MLG @ ECML-PKDD)*, Grenoble (France), 2022
 
 ## 2013
 
-- [Information diffusion in online social networks: a survey](https://hal.archives-ouvertes.fr/hal-00848050/document) by Adrien Guille, Hakim Hacid, Cécile Favre, Djamel A. Zighed. *ACM SIGMOD Record, vol. 42 (2)*, 2013<br>**Highly Cited: ranks in the top 1% by citations for field and year (Thomson Reuters Web of Science)**
+- [Information diffusion in online social networks: a survey](https://hal.archives-ouvertes.fr/hal-00848050/document) by Adrien Guille, Hakim Hacid, Cécile Favre, Djamel A. Zighed. *ACM SIGMOD Record, vol. 42 (2)*, 2013<br>**Q1**<br>**Highly Cited: ranks in the top 1% by citations for field and year (Thomson Reuters Web of Science)**
 - [Information diffusion in online social networks](https://hal.archives-ouvertes.fr/hal-00819924/document) by Adrien Guille. *International ACM SIGMOD/PODS Ph.D. Symposium*, New York (USA), 2013<br>**ACM Student Travel Award**
-- [SONDY: an open source platform for social dynamics mining and analysis](https://hal.archives-ouvertes.fr/hal-00786293v3/document) by Adrien Guille, Cécile Favre, Hakim Hacid, Djamel A. Zighed. *International ACM Conference on Management of Data (SIGMOD)*, New York (USA), 2013<br>**Code:** [https://github.com/AdrienGuille/SONDY](https://github.com/AdrienGuille/SONDY)
+- [SONDY: an open source platform for social dynamics mining and analysis](https://hal.archives-ouvertes.fr/hal-00786293v3/document) by Adrien Guille, Cécile Favre, Hakim Hacid, Djamel A. Zighed. *International ACM Conference on Management of Data (SIGMOD)*, New York (USA), 2013<br>**CORE A***<br>**Code:** [https://github.com/AdrienGuille/SONDY](https://github.com/AdrienGuille/SONDY)
 - [Une plateforme open-source d'analyse et de fouille pour les réseaux sociaux en ligne.](http://hal.archives-ouvertes.fr/docs/00/77/05/57/PDF/sondy-egc13.pdf) Adrien Guille, Cécile Favre, Djamel Zighed. *Conférence sur l'Extraction et la Gestion des Connaissances (EGC)*, Toulouse (France), 2013<br>**Code:** [https://github.com/AdrienGuille/SONDY](https://github.com/AdrienGuille/SONDY)
 
 ## 2012
