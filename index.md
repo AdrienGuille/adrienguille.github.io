@@ -2,7 +2,7 @@
 
 <img src="https://github.com/AdrienGuille/adrienguille.github.io/blob/main/assets/images/avatar.png?raw=true" width="200"/>
 
-I'm an Associate Professor (maître de conférences) of Computer Science @ [Université Lumière Lyon 2](https://www.univ-lyon2.fr). I'm also an elected member of the [CNU 27 section](https://cnu27.ls2n.fr/).
+I'm an Associate Professor (maître de conférences) of Computer Science @ [Université Lumière Lyon 2](https://www.univ-lyon2.fr). I'm also an elected member of the [CNU (27)](https://cnu27.ls2n.fr/) ands have taken various [responsabilities](https://adrienguille.github.io/service.html) along the years. 
 
 ## Research
 
