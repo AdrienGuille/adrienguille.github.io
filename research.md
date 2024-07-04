@@ -32,6 +32,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### PhD thesis advisor
 
+- [Arafate Idrissou](), 2024-2027 : Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/) and [Blitz Business Service](https://www.blitzbs.com))
 - [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026 : Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/) and [CABOT Financial](https://www.cabotfinancial.fr))
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
@@ -50,11 +51,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [Geoffrey Guettier (INSA Lyon)](#), 2017 : Apprentissage de représentations des mots
 - [Anthony Deseille (Université Lyon 1)](#), 2016 : Annotation morpho-syntaxique de tweets
 
-## Service
-
-### National Authority Member
-
-- [Membre élu au Conseil National des Universités (CNU)](#) : Collège B Section 27 2023-2027
+## Scientific Service
 
 ### Organizer
 
