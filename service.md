@@ -1,6 +1,6 @@
 # Service
 
-## Membre d'autorité nationale
+## Mandat national
 - [Membre élu au Conseil National des Universités (CNU)](#) : 2023-2027 (Collège B Section 27)
 
 ## Comité de sélection
