@@ -10,6 +10,7 @@
 - [Responsable de l'équipe de recherche Data Mining & Decision (DMD)](#) : 2022
 
 ## Responsabilité pédagogique
+- [Membre élu du conseil de département (BUT SD)](#) : 2023-2024
 - [Responsable de parcours (VCOD @ BUT SD)](#) : 2022-...
 - [Coordinateur des vacataires en informatique (DUT STID / BUT SD)](#) : 2016-...
 
