@@ -14,7 +14,7 @@ I'm part (and was the head for the year 2022) of the [Data Mining & Decision Gro
 
 ## Teaching
 
-I'm part of the [Data Science departement](https://iut.univ-lyon2.fr/formations/but/but-science-des-donnees) at the Lumière Institute of Technology, where I teach courses in statistics and computer science. I also give advanced courses in machine learning at the graduate level ([Master - ML for AI @ UL2](https://www.univ-lyon2.fr/master-2-informatique-machine-learning-pour-lintelligence-artficielle-mlai), [Master - MIASHS @ UL2](https://assp.univ-lyon2.fr/formation/en-alternance/master-miashs), [DU - Data Science @ U-Paris](https://iutparis-seine.u-paris.fr/metiers-de-la-data/diplome-duniversite-analyste-data-science/), [Master SDM @ ENS Lyon](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)).
+I'm part of the [Data Science departement](https://iut.univ-lyon2.fr/formations/but/but-science-des-donnees) at the Lumière Institute of Technology, where I teach courses in statistics and computer science. I also give advanced courses in machine learning at the graduate level ([Master - ML for AI @ UL2](https://www.univ-lyon2.fr/master-2-informatique-machine-learning-pour-lintelligence-artficielle-mlai), [Master - MIASHS @ UL2](https://assp.univ-lyon2.fr/formation/en-alternance/master-miashs), [DU - Data Science @ U-Paris](https://iutparis-seine.u-paris.fr/metiers-de-la-data/diplome-duniversite-analyste-data-science/), [PhD - Doctoral course @ ED InfoMaths](http://edinfomaths.universite-lyon.fr/these/cours-doctoraux), [Master SDM @ ENS Lyon](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)).
 
 - [Courses](https://adrienguille.github.io/teaching.html)
 
