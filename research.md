@@ -32,15 +32,15 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### PhD thesis advisor
 
-- [Arafate Idrissou](), 2024-2027 : Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/) and [Blitz Business Service](https://www.blitzbs.com))
+- [?](), 2025-2028 : Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/) and [Blitz Business Service](https://www.blitzbs.com))
 - [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026 : Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/) and [CABOT Financial](https://www.cabotfinancial.fr))
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021 : Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020 : Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
 ### Master thesis / Master research project advisor
 
+- [?](#), 2025 : Modèle de langue pour l'extraction de données cliniques
 - [Ben Gao (Université Lyon 2)](#), 2024 : Emergence of Complex Skills in Language Models
-- [?](#), 2024 : Modèle de langue pour l'extraction de données cliniques
 - [Raoufdine Said (Université Lyon 1)](#), 2023 : Réseaux de neurones opérant sur des graphes pour le résumé automatique
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
 - [Hugo Attali (Université Lyon 2)](#), 2022 : Apprentissage robuste de représentations hyperboliques des mots et des documents
@@ -56,7 +56,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### Organizer
 
 - [Journée nationale sur la fouille de textes](https://textmine-lyon.sciencesconf.org) : 2024
-- [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024) : 2023, 2024
+- [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024) : 2023, 2024, 2025
 - [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/) : 2022 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
 - [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/) : 2021 (with [Jairo Cugliari]())
 - [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (with [Julien Velcin](); supported by [SFdS](#) & [GdR MaDICS](#))
@@ -73,7 +73,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### Program Comittee Member
 
 - [Annual Meeting of the Association for Computational Linguistics (ACL)](#) : 2023
-- [ACL Rolling Review](#) : 2023
+- [ACL Rolling Review](#) : 2024, 2023
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#) : 2021, from 2022 to 2024 (Program Committee Board member for 3 years)
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#) : 2023, 2022, 2021
 - [European Conference on Information Retrieval (ECIR)](#) : 2024, 2023, 2022, 2021, 2020
