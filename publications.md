@@ -2,6 +2,9 @@
 
 See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
+## 2025
+- [Adaptation d'un modèle de langue encodeur-décodeur pour l'extraction de relations dans des rapports de renseignement]() by Adrien Guille. *Atelier Fouille de Textes (TextMine @ EGC)*, Strasbourg (France), 2025
+
 ## 2024
 
 - [Exploring Semantics in Pretrained Language Model Attention](https://aclanthology.org/2024.starsem-1.26.pdf) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *13th Joint Conference on Lexical and Computational Semantics, co-located with NAACL (StarSEM @ NAACL)*, Mexico City (Mexico), 2024<br>**Code:** [https://anonymous.4open.science/r/sem_LM_att-322F/](https://anonymous.4open.science/r/sem_LM_att-322F/)
