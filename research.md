@@ -39,7 +39,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Master thesis / Master research project advisor
 
-- [?](#), 2025 : Modèle de langue pour l'extraction de données cliniques
+- [Yanis Aumasson (Université Lyon 1)](#), 2025 : Modèle de langue pour l'extraction de données cliniques
 - [Ben Gao (Université Lyon 2)](#), 2024 : Emergence of Complex Skills in Language Models
 - [Raoufdine Said (Université Lyon 1)](#), 2023 : Réseaux de neurones opérant sur des graphes pour le résumé automatique
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022 : Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
@@ -61,7 +61,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/) : 2021 (with [Jairo Cugliari]())
 - [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/) : 2019 (with [Julien Velcin](); supported by [SFdS](#) & [GdR MaDICS](#))
 - [Séminaire du laboratoire (DMD)](https://eric.msh-lse.fr/category/seminaires/): 2019-2021
-- [Session démo @ Conférence Extraction et Gestion des Connaissances](http://www.egc.asso.fr/category/manifestations/conferences) : 2019, 2018, 2017
+- [Membre du bureau EGC - Chargé de session démo @ Conférence Extraction et Gestion des Connaissances](http://www.egc.asso.fr/category/manifestations/conferences) : 2019, 2018, 2017
 - [Graph embedding day](http://ged2018.sci-web.net) : 2018
 - [École de printemps en fouille de textes](https://eric.univ-lyon2.fr/textmining/) : 2018
 
