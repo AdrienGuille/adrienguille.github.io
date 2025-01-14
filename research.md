@@ -39,6 +39,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Master thesis / Master research project advisor
 
+- [Edouard Chappon (Université Lyon 2)](#), 2025: Traitement de la langue basée sur les arbres sémantiques abstraits
 - [Yanis Aumasson (Université Lyon 1)](#), 2025: Modèle de langue pour l'extraction de données cliniques
 - [Ben Gao (Université Lyon 2)](#), 2024: Emergence of Complex Skills in Language Models
 - [Raoufdine Said (Université Lyon 1)](#), 2023: Réseaux de neurones opérant sur des graphes pour le résumé automatique
