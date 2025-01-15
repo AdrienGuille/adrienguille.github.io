@@ -56,6 +56,10 @@ Course outline and suggested readings:
 
 Course outline and suggested readings:
 
+### Formalizing reinforcement learning
+
+- MDP: [Lecture on Markov decision processes by David Silver](https://www.davidsilver.uk/wp-content/uploads/2020/03/MDP.pdf) 
+
 ### Aligning a LLM by reinforcement learning
 
 - RLHF: [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325)
