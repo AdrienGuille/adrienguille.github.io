@@ -2,7 +2,7 @@
 
 ## Representation Learning for NLP (Master Machine Learning & AI @ U Lyon 2)
 
-Here is a list of suggested readings for this course:
+Course outline and suggested readings:
 
 ### Pre-LLM Era
 
@@ -35,14 +35,12 @@ Here is a list of suggested readings for this course:
 
 #### Adapting foundation models
 
-- RLHF: [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
-- DPO : [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
 - RAG: [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)
 - LoRA: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685)
 
 ## Machine Learning with Graphs (Master Complex Systems @ ENS Lyon)
 
-Here is a list of suggested readings for this course:
+Course outline and suggested readings:
 
 ### Pre-trained Node and Graph Representations
 
@@ -53,3 +51,16 @@ Here is a list of suggested readings for this course:
 
 - GCN: [Semi Supervised Node Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
 - GAT: [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
+
+## Reinforcement Learning (Master Machine Learning & AI @ U Lyon 2)
+
+Course outline and suggested readings:
+
+### Aligning a LLM by reinforcement learning
+
+- RLHF: [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325)
+- InstructGPT: [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
+
+### Practical implementation
+- PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347)
+- DPO: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
