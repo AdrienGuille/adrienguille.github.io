@@ -13,8 +13,8 @@
 - [Responsable et correspondant sécurité des moyens de calcul haute performance du laboratoire ERIC](#): 2021-...
 
 ## Responsabilité pédagogique
-- [Membre élu du conseil de département (BUT SD)](#): 2023-2024
-- [Responsable de parcours (VCOD @ BUT SD)](#): 2022-...
+- [Membre élu du conseil de département (BUT SD)](#): 2023-2026
+- [Responsable de parcours (VCOD @ BUT SD)](#): 2021-2024
 - [Coordinateur des vacataires en informatique (DUT STID / BUT SD)](#): 2016-...
 
 ## Expertise
