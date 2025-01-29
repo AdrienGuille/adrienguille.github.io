@@ -1,5 +1,8 @@
 # Code
 
+[TextMine2025](https://github.com/AdrienGuille/TextMine2025) : Code pour reproduire le système classé 1er du défi TextMine 2025
+> [Adaptation d’un modèle de langue encodeur-décodeur pour l’extraction de relations dans des rapports de renseignement](https://github.com/AdrienGuille/TextMine2025/blob/main/Article.pdf). Adrien Guille. Atelier Fouille de Textes (TextMine @ EGC), 2025
+
 [RadSum](https://github.com/Baragouine/radsum) : PyTorch implementation of RadSum for GNN-RNN-based extractive summarization
 > [Interactive Document Summarization](https://adrienguille.github.io/publications/ecir2024.pdf). Raoufdine Said et Adrien Guille. Proceedings of the European Conference on Information Retrieval (ECIR), 2024
 
