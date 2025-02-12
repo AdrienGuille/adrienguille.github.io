@@ -5,6 +5,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 ## 2025
 - [Adaptation d'un modèle de langue encodeur-décodeur pour l'extraction de relations dans des rapports de renseignement](https://raw.githubusercontent.com/AdrienGuille/TextMine2025/refs/heads/main/Article.pdf) by Adrien Guille. *Atelier Fouille de Textes (TextMine @ EGC)*, Strasbourg (France), 2025
 <br>**Code:** [https://github.com/AdrienGuille/TextMine2025](https://github.com/AdrienGuille/TextMine2025)
+<br>**Model:** [https://huggingface.co/AdrienGuille/TextMine2025](https://huggingface.co/AdrienGuille/TextMine2025)
 <br>**Ranked 1/15 in the 2025 TextMine Challenge**
 
 ## 2024
