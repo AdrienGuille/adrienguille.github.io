@@ -2,6 +2,8 @@
 
 ## Mandat national
 - [Membre élu au Conseil National des Universités (CNU)](#): 2023-2027 (Collège B Section 27)
+  - 2025 : rapporteur pour la campagne qualification MCF   
+  - 2024 : rapporteur pour la campagne RIPEC C3
 
 ## Comité de sélection
 - [Membre de comité de sélection (CoS)](#): 2023 (Univ Le Mans), 2023 (Univ. Lyon 2)
