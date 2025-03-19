@@ -20,13 +20,14 @@ I'm part of the [Data Science departement](https://iut.univ-lyon2.fr/formations/
 
 ## Latest talks
 
+- Orateur invité @ AgroStat-SFdS - [Fondements des grands modèles de langue et des agents converstationnels]()
 - Conférence à l'Institut Régional d'Administration de Lyon - [Usage de l'IA dans l'administration publique]()
 - Orateur invité à la journée sur la qualité en rédaction médicale - [La place de l'IA dans la rédaction scientifique](https://www.abelia-science.fr)
 - Podcast pour l'Institut National du Travail, de l'Emploi et de la Formation Professionnelle - [ChatGPT: fonctionnement, utilisation et impact sur le monde du travail](https://www.intefp.tv/podcast)
 - Invited talk @ TextMine - [Graph neural networks: Theory and applications in NLP](https://textmine.sciencesconf.org/data/pages/Adrien_TextMine.pdf)
 - Conférence grand public au Café Statistique Lyonnais - [Applications of NLP and their impact on society](http://cafestatistiquelyonnais.blogspot.com/p/compte-rendus-des-cafes-passes.html)
 - ECAS-ENBIS (European courses in advanced statitics) - [Tutorial on deep learning for NLP](https://conferences.enbis.org/event/23/)
-- Keynote speaker @ AgroStat - [Keynote on NLP and its application to industrial issues](https://drive.google.com/file/d/1KeAyvpEZ_KwCngF_3zmjQXDxeR3jJR0E/view)
+- Keynote speaker @ AgroStat-SFdS - [Keynote on NLP and its application to industrial issues](https://drive.google.com/file/d/1KeAyvpEZ_KwCngF_3zmjQXDxeR3jJR0E/view)
 - ECAS-SFdS (European courses in advanced statistics) - [Fall school on deep learning for NLP](https://www.sfds.asso.fr/fr/ecas/632-home/)
 - Invited talk @ SciDoLySe Meeting (regional machine learning group) - [Tutorial on the Transformer architecture for NLP](http://scidolyse.ens-lyon.fr/sites/default/files/2021-05/guile_small.pdf)
 - GdL ARIA / GdR TAL (national NLP group) - [Talk on the theory of graph convolutional networks](http://www.asso-aria.org/gdl/2021/20210115/)
