@@ -20,7 +20,7 @@ I'm part of the [Data Science departement](https://iut.univ-lyon2.fr/formations/
 
 ## Latest talks
 
-- Orateur invité @ AgroStat-SFdS - [Fondements des grands modèles de langue et des agents converstationnels]()
+- Orateur invité @ AgroStat-SFdS - [Fondements des grands modèles de langue et des agents converstationnels](https://github.com/AdrienGuille/adrienguille.github.io/blob/main/publications/Agrostat%202025.pdf)
 - Conférence à l'Institut Régional d'Administration de Lyon - [Usage de l'IA dans l'administration publique]()
 - Orateur invité à la journée sur la qualité en rédaction médicale - [La place de l'IA dans la rédaction scientifique](https://www.abelia-science.fr)
 - Podcast pour l'Institut National du Travail, de l'Emploi et de la Formation Professionnelle - [ChatGPT: fonctionnement, utilisation et impact sur le monde du travail](https://www.intefp.tv/podcast)
