@@ -64,7 +64,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### Organizer
 
 - [Journée nationale sur la fouille de textes](https://textmine-lyon.sciencesconf.org): 2024
-- [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024): 2023, 2024, 2025
+- [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024): 2026, 2025, 2024
 - [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/): 2022 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
 - [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/): 2021 (with [Jairo Cugliari]())
 - [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/): 2019 (with [Julien Velcin](); supported by [SFdS](#) & [GdR MaDICS](#))
@@ -76,7 +76,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 ### Organizing Comittee Member
 
 - [Conférence Extraction et Gestion des Connaissances (EGC)](https://egc2023.sciencesconf.org): 2023
-- [Groupe de travail sur la fouille de textes (TextMine)](https://textmine.sciencesconf.org): 2024, 2023
+- [Groupe de travail sur la fouille de textes (TextMine)](https://textmine.sciencesconf.org): 2026, 2025, 2024
 
 ### Program Comittee Member
 
