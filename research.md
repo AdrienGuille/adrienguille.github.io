@@ -37,6 +37,11 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021: Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020: Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
 
+### Comité de suivi individuel de thèse
+
+- [Clovis Varangot-Reille (Université de Saint-Etienne)](#), 2025- : Stratégies de routage frugales pour les grands modèles de langage
+- [Salim Abdou Daoura (Université Paris-Saclay)](#), 2025- : Approches few-shot et zero-shot pour l'extraction d'information à partir de textes
+
 ### Master thesis / Master research project advisor
 
 - [Grigory Savchenko (INSA Lyon)](#), 2025: Traduction et vérification automatique basée sur les graphes sémantiques abstraits
