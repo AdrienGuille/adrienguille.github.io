@@ -84,9 +84,9 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 - [Annual Meeting of the Association for Computational Linguistics (ACL)](#): 2023
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#): 2024, 2023, 2022, 2021
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#): 2023, 2022, 2021
-- [European Conference on Information Retrieval (ECIR)](#): 2024, 2023, 2022, 2021, 2020
+- [European Conference on Information Retrieval (ECIR)](#): 2025, 2024, 2023, 2022, 2021, 2020
 - [European Chapter of the Association for Computational Linguistics (EACL)](#): 2021
-- [Conférence Extraction et Gestion des Connaissances (EGC)](#): 2024, 2023, 2022, 2021, 2020, 2019, 2018
+- [Conférence Extraction et Gestion des Connaissances (EGC)](#): 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018
 - [IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)](#): 2020
 - [International Symposium on Information Management and Big Data (SIMBig)](#): 2021, 2019, 2018, 2017, 2016, 2015
 - [Modèles & Analyse des Réseaux: Approches Mathématiques & Informatiques](#): 2019
