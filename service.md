@@ -20,5 +20,5 @@
 - [Coordinateur des vacataires en informatique (DUT STID / BUT SD)](#): 2016-...
 
 ## Expertise
-- [Expert pour l'Association Nationale Recherche Technologie (ANRT)](#): 2019
+- [Expert pour l'Association Nationale Recherche Technologie (ANRT)](#): 2019-2025
 - [Expert pour l'Agence Nationale de la Recherche (ANR)](#): 2017
