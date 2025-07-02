@@ -76,7 +76,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Organizing Comittee Member
 
-- [Conférence en Recherche d'Information et Applications (CORIA)](#) : 2026
+- [Conférence en Traitement Automatique de la Langue & Conférence en Recherche d'Information et Applications (CORIA-TALN)](#) : 2027
 - [Conférence Extraction et Gestion des Connaissances (EGC)](https://egc2023.sciencesconf.org) : 2023
 - [Groupe de travail sur la fouille de textes (TextMine)](https://textmine.sciencesconf.org) : 2026, 2025, 2024
 
