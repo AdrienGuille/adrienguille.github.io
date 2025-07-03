@@ -1,5 +1,7 @@
 # Teaching
 
+2019/2020 : 314 HETD - 2020/2021 : 284 HETD - 2021/2022 : 315 HETD - 2022/2023 : 285 HETD - 2023/2024 : 424 HETD - 2024/2025 : 350 HETD
+
 ## Representation Learning for NLP (Master Machine Learning & AI @ U Lyon 2)
 
 Course outline and suggested readings:
