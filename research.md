@@ -10,8 +10,9 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ## Funded projects
 
-### Project leader
+### Project leader / co-leader
 
+- 2025-2028 (ANR IMAGE-TEXT-AVC 555k€): Fusion de données d'imagerie et de texte pour la prédiction longitudinale et l'intervention dans l'AVC 
 - 2024-2025 (10k€): Extractive summarization of biomedical publications (with [ABELIA Science](https://www.abelia-science.fr))
 - 2024-2025 (8k€): Clinical data extraction from medical reports for prognostics (with [CREATIS](https://www.creatis.insa-lyon.fr/site7/fr) and [CARMEN](https://carmen.univ-lyon1.fr))
 - 2023-2024 (7 k€): New tools for the study of the evolution of discourse (with [DM2L @ U Lyon 1](https://liris.cnrs.fr/equipe/dm2l))
