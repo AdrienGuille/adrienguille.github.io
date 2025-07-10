@@ -12,13 +12,14 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Project leader / co-leader
 
-- 2025-2028 (ANR IMAGE-TEXT-AVC 555k€): Fusion de données d'imagerie et de texte pour la prédiction longitudinale et l'intervention dans l'AVC 
-- 2024-2025 (10k€): Extractive summarization of biomedical publications (with [ABELIA Science](https://www.abelia-science.fr))
-- 2024-2025 (8k€): Clinical data extraction from medical reports for prognostics (with [CREATIS](https://www.creatis.insa-lyon.fr/site7/fr) and [CARMEN](https://carmen.univ-lyon1.fr))
-- 2023-2024 (7 k€): New tools for the study of the evolution of discourse (with [DM2L @ U Lyon 1](https://liris.cnrs.fr/equipe/dm2l))
-- 2018-2022 (21 k€): Automatic analysis of branded content in online media via deep neural networks (with [DMSQ](https://dmsq.io))
-- 2019 (22 k€): Relation extraction in geological reports via deep neural networks (with [TOTAL](https://www.total.com))
-- 2017-2018 (12 k€): Neologism detection in social media via temporal word embedding (with [CRTT](https://cerla.univ-lyon2.fr), [LIUM](https://lium.univ-lemans.fr) and [IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
+- [IMAGE-TEXT-AVC](#) - ANR, 2025-2028 (555k€): Fusion of imaging and text data for longitudinal stroke prediction and
+intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/fr), [HCL](https://www.chu-lyon.fr), [S2HEP @ U Lyon 1](https://carmen.univ-lyon1.fr))
+- [ResumAI](#) - Contrat avec le privé, 2024-2025 (10k€): Extractive summarization of biomedical publications (with [ABELIA Science](https://www.abelia-science.fr))
+- [IMAGE-TEXT-AVC](#) - FIL 2024-2025 (8k€): Clinical data extraction from medical reports for prognostics (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/fr) and [CARMEN @ U Lyon 1](https://carmen.univ-lyon1.fr))
+- [ESTD. 2023](#) - FIL, 2023-2024 (7 k€): New tools for the study of the evolution of discourse (with [DM2L @ U Lyon 1](https://liris.cnrs.fr/equipe/dm2l))
+- [DMSQ](#) - Contrat avec le privé, 2018-2022 (21 k€): Automatic analysis of branded content in online media via deep neural networks (with [DMSQ](https://dmsq.io))
+- [THINK](#) - Contrat avec le privé, 2019 (22 k€): Relation extraction in geological reports via deep neural networks (with [TOTAL R&D](https://www.total.com))
+- [#Néo](#) - APPI, 2017-2018 (12 k€): Neologism detection in social media via temporal word embedding (with [CRTT @ U Lyon 2](https://cerla.univ-lyon2.fr), [LIUM @ U Le Mans](https://lium.univ-lemans.fr) and [IULA @ UPF Barcelona](https://www.upf.edu/web/iula))
 
 ### Project member
 
