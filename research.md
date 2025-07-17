@@ -12,7 +12,7 @@ See the [dedicated page](publications.md) or my [Google Scholar profile](https:/
 
 ### Project leader / co-leader
 
-- [IMAGE-TEXT-AVC](#) - ANR, 2025-2028 (555k€): Fusion of imaging and text data for longitudinal stroke prediction and
+- [IMAGE-TEXT-AVC](#) - ANR, 2025-2028 (585k€): Fusion of imaging and text data for longitudinal stroke prediction and
 intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/fr), [HCL](https://www.chu-lyon.fr), [S2HEP @ U Lyon 1](https://carmen.univ-lyon1.fr))
 - [ResumAI](#) - Contrat avec le privé, 2024-2025 (10k€): Extractive summarization of biomedical publications (with [ABELIA Science](https://www.abelia-science.fr))
 - [IMAGE-TEXT-AVC](#) - FIL 2024-2025 (8k€): Clinical data extraction from medical reports for prognostics (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/fr) and [CARMEN @ U Lyon 1](https://carmen.univ-lyon1.fr))
