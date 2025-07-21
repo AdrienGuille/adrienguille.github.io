@@ -34,11 +34,12 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### PhD thesis advisor
 
-- [Edouard Chappon (Université Lyon 2)](#), 2025-2028: Approche géométrique pour la modélisation du dialogue (with [Jairo Cugliari](https://cugliari.github.io/website/)
-- [?](), 2025-2028: Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/) and [Blitz Business Service](https://www.blitzbs.com))
-- [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026: Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/) and [CABOT Financial](https://www.cabotfinancial.fr))
-- [Jean Dupuy (Université Lyon 2)](#), 2018-2021: Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/~jjacques/) & [MeetSYS](http://meetsys.com/)) 
-- [Robin Brochier (Université Lyon 2)](#), 2017-2020: Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/) & [Peer.us](http://peer.us/))
+- [?](#), 2026-2029: Extraction de variables cliniques dans les comptes-rendus médicaux (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by ANR IMAGE-TEXT-AVC)
+- [Edouard Chappon (Université Lyon 2)](#), 2025-2028: Approche géométrique pour la modélisation du dialogue (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by Université Lyon 2)
+- [?](), 2025-2028: Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [Blitz Business Service](https://www.blitzbs.com))
+- [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026: Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [CABOT Financial](https://www.cabotfinancial.fr))
+- [Jean Dupuy (Université Lyon 2)](#), 2018-2021: Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by [MeetSYS](http://meetsys.com/)) 
+- [Robin Brochier (Université Lyon 2)](#), 2017-2020: Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/), funded by [Peer.us](http://peer.us/))
 
 ### Comité de suivi individuel de thèse
 
