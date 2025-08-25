@@ -35,6 +35,7 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 ### PhD thesis advisor
 
 - [?](#), 2026-2029: Extraction de variables cliniques dans les comptes-rendus médicaux (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by ANR IMAGE-TEXT-AVC)
+- [Quentin Filori (Université Lyon 1)](#), 2025-2028: Applications cliniques de l’intelligence artificielle textuelle en oncologie -- Du traitement des données non structurées à l’assistance conversationnelle (with [Loic Verlingue]() and [Pierre-Etienne Heudel](), funded by Centre de Lutte Contre le Cancer Léon-Bérard)
 - [Edouard Chappon (Université Lyon 2)](#), 2025-2028: Approche géométrique pour la modélisation du dialogue (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by Université Lyon 2)
 - [?](), 2025-2028: Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [Blitz Business Service](https://www.blitzbs.com))
 - [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026: Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [CABOT Financial](https://www.cabotfinancial.fr))
