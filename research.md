@@ -34,13 +34,13 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### PhD thesis advisor
 
-- [?](#), 2026-2029: Extraction de variables cliniques dans les comptes-rendus médicaux (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by ANR IMAGE-TEXT-AVC)
-- [Quentin Filori (Université Lyon 1)](#), 2025-2028: Applications cliniques de l’intelligence artificielle textuelle en oncologie -- Du traitement des données non structurées à l’assistance conversationnelle (with [Loic Verlingue]() and [Pierre-Etienne Heudel](), funded by Centre de Lutte Contre le Cancer Léon-Bérard)
-- [Edouard Chappon (Université Lyon 2)](#), 2025-2028: Approche géométrique pour la modélisation du dialogue (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by Université Lyon 2)
-- [?](), 2025-2028: Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [Blitz Business Service](https://www.blitzbs.com))
-- [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026: Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [CABOT Financial](https://www.cabotfinancial.fr))
-- [Jean Dupuy (Université Lyon 2)](#), 2018-2021: Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by [MeetSYS](http://meetsys.com/)) 
-- [Robin Brochier (Université Lyon 2)](#), 2017-2020: Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/), funded by [Peer.us](http://peer.us/))
+- [Thomas CHECCHIN (Université Lyon 2)](#), 2026-2029: Extraction de variables cliniques dans les comptes-rendus médicaux (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by ANR IMAGE-TEXT-AVC) *#TALN #Graphe #Santé*
+- [Quentin Filori (Université Lyon 1)](#), 2025-2028: Applications cliniques de l’intelligence artificielle textuelle en oncologie -- Du traitement des données non structurées à l’assistance conversationnelle (with [Loic Verlingue]() and [Pierre-Etienne Heudel](), funded by Centre de Lutte Contre le Cancer Léon-Bérard) *#TALN #Santé*
+- [Edouard Chappon (Université Lyon 2)](#), 2025-2028: Approche géométrique pour la modélisation du dialogue (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by Université Lyon 2) *#Graphe #TALN*
+- [Aymen Belkasmi (Université Lyon 2)](#), 2025-2028: Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [Blitz Business Service](https://www.blitzbs.com))
+- [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026: Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [CABOT Financial](https://www.cabotfinancial.fr)) *#TALN #Graphe*
+- [Jean Dupuy (Université Lyon 2)](#), 2018-2021: Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by [MeetSYS](http://meetsys.com/))  *#TALN #Graphe*
+- [Robin Brochier (Université Lyon 2)](#), 2017-2020: Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/), funded by [Peer.us](http://peer.us/)) *#TALN #Graphe*
 
 ### Comité de suivi individuel de thèse
 
@@ -49,20 +49,20 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### Master thesis / Master research project advisor
 
-- [Grigory Savchenko (INSA Lyon)](#), 2025: Traduction et vérification automatique basée sur les graphes sémantiques abstraits
-- [Edouard Chappon (Université Lyon 2)](#), 2025: Traitement de la langue basée sur les arbres sémantiques abstraits
-- [Yanis Aumasson (Université Lyon 1)](#), 2025: Modèle de langue pour l'extraction de données cliniques
-- [Alaric Patault (ENS Lyon)](#), 2024: Adaptation d'un grand modèle de langue pour la traduction de romans
-- [Ben Gao (Université Lyon 2)](#), 2024: Emergence of Complex Skills in Language Models
-- [Raoufdine Said (Université Lyon 1)](#), 2023: Réseaux de neurones opérant sur des graphes pour le résumé automatique
-- [Frédéric Charpentier (Université Lyon 1)](#), 2022: Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr))
-- [Hugo Attali (Université Lyon 2)](#), 2022: Apprentissage robuste de représentations hyperboliques des mots et des documents
-- [Loïck Chardon (Université Lyon 2)](#), 2022: Analyse de l'évolution du discours lié au changement climatique sur Twitter depuis 2010
-- [Aimé Miakassissa (Université Lyon 2)](#), 2020: Réseaux de neurones profonds pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io))
-- [Abderahmen Masmoudi (ENSTA ParisTech)](#), 2018: Développement d'un outil pour explorer les représentations des mots
-- [Firas Odeh (Université Lyon 1)](#), 2018: Détection d'évènements sur Twitter
-- [Geoffrey Guettier (INSA Lyon)](#), 2017: Apprentissage de représentations des mots
-- [Anthony Deseille (Université Lyon 1)](#), 2016: Annotation morpho-syntaxique de tweets
+- [Grigory Savchenko (INSA Lyon)](#), 2025: Traduction et vérification automatique basée sur les graphes sémantiques abstraits *#TALN #Graphe*
+- [Edouard Chappon (Université Lyon 2)](#), 2025: Traitement de la langue basée sur les arbres sémantiques abstraits *#Graphe #TALN*
+- [Yanis Aumasson (Université Lyon 1)](#), 2025: Modèle de langue pour l'extraction de données cliniques *#TALN #Santé*
+- [Alaric Patault (ENS Lyon)](#), 2024: Adaptation d'un grand modèle de langue pour la traduction de romans *#TALN*
+- [Ben Gao (Université Lyon 2)](#), 2024: Emergence of Complex Skills in Language Models *#TALN*
+- [Raoufdine Said (Université Lyon 1)](#), 2023: Réseaux de neurones opérant sur des graphes pour le résumé automatique *#TALN #Graphe*
+- [Frédéric Charpentier (Université Lyon 1)](#), 2022: Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr)) *#TALN #Graphe*
+- [Hugo Attali (Université Lyon 2)](#), 2022: Apprentissage robuste de représentations hyperboliques des mots et des documents *#TALN #Graphe*
+- [Loïck Chardon (Université Lyon 2)](#), 2022: Analyse de l'évolution du discours lié au changement climatique sur Twitter depuis 2010 *#TALN*
+- [Aimé Miakassissa (Université Lyon 2)](#), 2020: Réseaux de neurones profonds pour la classification supervisée de documents longs (with [DMSQ](https://dmsq.io)) *#TALN*
+- [Abderahmen Masmoudi (ENSTA ParisTech)](#), 2018: Développement d'un outil pour explorer les représentations des mots *#TALN*
+- [Firas Odeh (Université Lyon 1)](#), 2018: Détection d'évènements sur Twitter *#TALN #Graphe*
+- [Geoffrey Guettier (INSA Lyon)](#), 2017: Apprentissage de représentations des mots *#TALN*
+- [Anthony Deseille (Université Lyon 1)](#), 2016: Annotation morpho-syntaxique de tweets *#TALN*
 
 ## Scientific Service
 
