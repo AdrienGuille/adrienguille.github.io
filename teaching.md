@@ -40,19 +40,22 @@ Course outline and suggested readings:
 - RAG: [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)
 - LoRA: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685)
 
-## Machine Learning with Graphs (Master Complex Systems @ ENS Lyon)
+## Machine Learning with Graphs (Master Complex Systems @ ENS Lyon, Master Machine Learning & AI @ U Lyon 2)
 
 Course outline and suggested readings:
 
-### Pre-trained Node and Graph Representations
+### Theoretical background
+- [Graph theory](https://www.zib.de/userpage/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
+- [Spectral graph theory](https://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf)
 
+### Pre-trained Node and Graph Representations
 - DeepWalk: [Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652)
 - Node2Vec: [Scalable Feature Learning for Networks](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 
 ### Graph Neural Networks
-
 - GCN: [Semi Supervised Node Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
 - GAT: [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
+- Graphormer: [Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/pdf/2106.05234)
 
 ## Reinforcement Learning (Master Machine Learning & AI @ U Lyon 2)
 
