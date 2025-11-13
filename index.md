@@ -20,6 +20,7 @@ I'm part of the [Data Science departement](https://iut.univ-lyon2.fr/formations/
 
 ## Latest talks
 
+- Conférence à l'Institut Régional d'Administration de Lyon - [IA dans l'administration publique : cas concrets, précautions et limites]()
 - Orateur invité @ Session inter sociétés savantes @ JdS (national conference on statistics) - [Les agents conversationnels dans la démarche scientifique : potentiel et limites](https://github.com/AdrienGuille/adrienguille.github.io/blob/main/publications/Agrostat%202025.pdf)
 - Orateur invité @ AgroStat-SFdS (national agro-stat group) - [Fondements des grands modèles de langue et des agents converstationnels](https://github.com/AdrienGuille/adrienguille.github.io/blob/main/publications/Agrostat%202025.pdf)
 - Conférence à l'Institut Régional d'Administration de Lyon - [Usage de l'IA dans l'administration publique]()
