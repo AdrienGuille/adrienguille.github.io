@@ -37,7 +37,6 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 - [Thomas CHECCHIN (Université Lyon 2)](#), 2026-2029: Extraction de variables cliniques dans les comptes-rendus médicaux (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by ANR IMAGE-TEXT-AVC) *#TALN #Graphe #Santé*
 - [Quentin Filori (Université Lyon 1)](#), 2025-2028: Applications cliniques de l’intelligence artificielle textuelle en oncologie -- Du traitement des données non structurées à l’assistance conversationnelle (with [Loic Verlingue]() and [Pierre-Etienne Heudel](), funded by Centre de Lutte Contre le Cancer Léon-Bérard) *#TALN #Santé*
 - [Edouard Chappon (Université Lyon 2)](#), 2025-2028: Approche géométrique pour la modélisation du dialogue (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by Université Lyon 2) *#Graphe #TALN*
-- [Aymen Belkasmi (Université Lyon 2)](#), 2025-2028: Apprentissage par renforcement pour la détermination des stratégies optimales de recouvrement de créances (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [Blitz Business Service](https://www.blitzbs.com))
 - [Frédéric Charpentier (Université Lyon 2)](#), 2023-2026: Réseaux de neurones profonds pour l'analyse de conversations (with [Jairo Cugliari](https://cugliari.github.io/website/), funded by [CABOT Financial](https://www.cabotfinancial.fr)) *#TALN #Graphe*
 - [Jean Dupuy (Université Lyon 2)](#), 2018-2021: Prédiction de liens dans les bases de connaissance (with [Julien Jacques](http://eric.univ-lyon2.fr/jjacques/), funded by [MeetSYS](http://meetsys.com/))  *#TALN #Graphe*
 - [Robin Brochier (Université Lyon 2)](#), 2017-2020: Apprentissage de représentation de documents en réseau (with [Julien Velcin](http://eric.univ-lyon2.fr/~jvelcin/), funded by [Peer.us](http://peer.us/)) *#TALN #Graphe*
@@ -86,11 +85,11 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### Program Comittee Member
 
+- [European Conference on Information Retrieval (ECIR)](#): 2026, 2025, 2024, 2023, 2022, 2021, 2020
 - [ACL Rolling Review (ARR)](#): 2024, 2023
 - [Annual Meeting of the Association for Computational Linguistics (ACL)](#): 2023
 - [International Joint Conference on Artificial Intelligence (IJCAI)](#): 2024, 2023, 2022, 2021
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#): 2023, 2022, 2021
-- [European Conference on Information Retrieval (ECIR)](#): 2025, 2024, 2023, 2022, 2021, 2020
 - [European Chapter of the Association for Computational Linguistics (EACL)](#): 2021
 - [Conférence Extraction et Gestion des Connaissances (EGC)](#): 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018
 - [IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)](#): 2020
