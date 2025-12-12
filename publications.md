@@ -3,7 +3,7 @@
 See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
 ## 2026
-- [Défi TextMine / EGC ’26 : Identification des acronymes dans des textes réglementaires ferroviaires](#) by Luce Lefeuvre, Coralie Reutenauer, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Anglet (France), 2025
+- [Défi TextMine / EGC ’26 : Identification des acronymes dans des textes réglementaires ferroviaires](#) by Luce Lefeuvre, Coralie Reutenauer, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Anglet (France), 2026
 
 ## 2025
 - [Probing Attention in Pre-Trained LLMs to Detect Semantics](#) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *9th International Conference on Natural Language Processing and Information Retrieval (NLPIR)*, Fukuoka (Japon), 2025
