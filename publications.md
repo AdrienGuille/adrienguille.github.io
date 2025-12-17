@@ -7,14 +7,16 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2025
 - [Probing Attention in Pre-Trained LLMs to Detect Semantics](#) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *9th International Conference on Natural Language Processing and Information Retrieval (NLPIR)*, Fukuoka (Japon), 2025
+<br>**Best student paper award**
 - [Alignements entre attention et sémantique dans des modèles de langues pré-entraînés](https://aclanthology.org/2025.jeptalnrecital-taln.6.pdf) by Frédéric Charpentier, Adrien Guille, Jairo Cugliari. *32e Conférence sur le Traitement Automatique des Langues Naturelles (TALN)*, Marseille (France), 2025
 - [Étude des déterminants impactant la qualité de l'information géographique chez les LLMs : famille, taille, langue, quantization et fine-tuning](https://aclanthology.org/2025.jeptalnrecital-evalllm.9.pdf) by Rémy Decoupes, Adrien Guille. *Atelier sur l'évaluation des modèles génératifs (EvalLLM @ TALN)*, Marseille (France), 2025
+<br>**Code:** [https://github.com/AdrienGuille/geo-llm](https://github.com/AdrienGuille/geo-llm)
 - [Les agents conversationnels dans la démarche scientifique : potentiel et limites](#) by Adrien Guille. *Recueil des résumés, 56èmes Journées de la Statistique de la SFdS*, Marseille (France), 2025
 - [Défi TextMine ’25 : Extraction de relations pour analyser des rapports de renseignement](#) by Maxime Prieur, Guillaume Gadek, Adrien Guille, Helen Rawsthorne, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Starsbourg (France), 2025
 - [Adaptation d'un modèle de langue encodeur-décodeur pour l'extraction de relations dans des rapports de renseignement](https://raw.githubusercontent.com/AdrienGuille/TextMine2025/refs/heads/main/Article.pdf) by Adrien Guille. *Atelier Fouille de Textes (TextMine @ EGC)*, Strasbourg (France), 2025
+<br>**Ranked 1st/15 in the 2025 TextMine Challenge**
 <br>**Code:** [https://github.com/AdrienGuille/TextMine2025](https://github.com/AdrienGuille/TextMine2025)
 <br>**Model:** [https://huggingface.co/AdrienGuille/TextMine2025](https://huggingface.co/AdrienGuille/TextMine2025)
-<br>**Ranked 1st/15 in the 2025 TextMine Challenge**
 
 ## 2024
 
