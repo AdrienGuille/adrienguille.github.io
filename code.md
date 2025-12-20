@@ -10,7 +10,7 @@
 
 > [Inductive Document Network Embedding with Topic-Word Attention](https://arxiv.org/pdf/2001.03369.pdf). Robin Brochier, Adrien Guille et Julien Velcin. Proceedings of the European Conference on Information Retrieval (ECIR), 2020
 
-[RLE](https://github.com/AntoineGourru/DNEmbedding) : Python implementation of de la méthode RLE for  document network representation learning
+[RLE](https://github.com/AntoineGourru/DNEmbedding) : Python implementation of RLE for  document network representation learning
 
 > [Document Network Projection in Pretrained Word Embedding Space](https://arxiv.org/pdf/2001.05727.pdf). Antoine Gourru, Adrien Guille, Julien Velcin et Julien Jacques. Proceedings of the European Conference on Information Retrieval (ECIR), 2020
 
