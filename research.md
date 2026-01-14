@@ -48,11 +48,13 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### Master thesis / Master research project advisor
 
+- [?](#), 2026: Explicabilité des modèles de langues appliquée à l’information géographique *#TALN #SHS*
+- [?](#), 2026: Simuler, prédire et expliquer les comportements humains : une approche croisée entre grand modèle de langue et économie mathématique *#TALN #SHS*
 - [Grigory Savchenko (INSA Lyon)](#), 2025: Traduction et vérification automatique basée sur les graphes sémantiques abstraits *#TALN #Graphe*
 - [Edouard Chappon (Université Lyon 2)](#), 2025: Traitement de la langue basée sur les arbres sémantiques abstraits *#Graphe #TALN*
 - [Yanis Aumasson (Université Lyon 1)](#), 2025: Modèle de langue pour l'extraction de données cliniques *#TALN #Santé*
 - [Alaric Patault (ENS Lyon)](#), 2024: Adaptation d'un grand modèle de langue pour la traduction de romans *#TALN*
-- [Ben Gao (Université Lyon 2)](#), 2024: Emergence of Complex Skills in Language Models *#TALN*
+- [Ben Gao (Université Lyon 2)](#), 2024: Emergence of complex skills in language models *#TALN*
 - [Raoufdine Said (Université Lyon 1)](#), 2023: Réseaux de neurones opérant sur des graphes pour le résumé automatique *#TALN #Graphe*
 - [Frédéric Charpentier (Université Lyon 1)](#), 2022: Réseaux de neurones profonds pour l'analyse de conversations (with [CABOT Financial](https://www.cabotfinancial.fr)) *#TALN #Graphe*
 - [Hugo Attali (Université Lyon 2)](#), 2022: Apprentissage robuste de représentations hyperboliques des mots et des documents *#TALN #Graphe*
@@ -68,7 +70,8 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 ### Organizer
 
 - [Journée nationale sur la fouille de textes](https://textmine-lyon.sciencesconf.org): 2024
-- [Compétition TextMine](https://www.kaggle.com/competitions/defi-textmine-2024): 2026, 2025, 2024
+- [Atelier TextMine @ EGC](https://textmine.cnrs.fr): 2026, 2025
+- [Compétition TextMine]([https://www.kaggle.com/competitions/defi-textmine-2024](https://textmine.cnrs.fr)): 2026, 2025, 2024
 - [European ECAS school on text mining @ ENBIS](https://www.enbis.org/activities/events/current/631_ENBIS_20_Pre_Conference_Event__Joint_ECAS_ENBIS_1_Day_Summer_Course___POSTPONED/): 2022 (with [Jairo Cugliari](http://eric.univ-lyon2.fr/jcugliari/))
 - [European ECAS-SFdS school on deep learning for text mining](https://www.sfds.asso.fr/fr/ecas/632-home/): 2021 (with [Jairo Cugliari]())
 - [Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/): 2019 (with [Julien Velcin](); supported by [SFdS](#) & [GdR MaDICS](#))
