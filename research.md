@@ -48,8 +48,8 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### Master thesis / Master research project advisor
 
-- [?](#), 2026: Explicabilité des modèles de langues appliquée à l’information géographique *#TALN #SHS*
 - [?](#), 2026: Simuler, prédire et expliquer les comportements humains : une approche croisée entre grand modèle de langue et économie mathématique *#TALN #SHS*
+- [Thomas Hitchon (Université de Strasbourg)](#), 2026: Explicabilité des modèles de langues appliquée à l’information géographique (with [TETIS @ INRAE Montpellier](https://umr-tetis.cirad.fr)) *#TALN #SHS*
 - [Grigory Savchenko (INSA Lyon)](#), 2025: Traduction et vérification automatique basée sur les graphes sémantiques abstraits *#TALN #Graphe*
 - [Edouard Chappon (Université Lyon 2)](#), 2025: Traitement de la langue basée sur les arbres sémantiques abstraits *#Graphe #TALN*
 - [Yanis Aumasson (Université Lyon 1)](#), 2025: Modèle de langue pour l'extraction de données cliniques *#TALN #Santé*
