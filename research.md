@@ -88,6 +88,7 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### Program Comittee Member
 
+- [International Conference on Research and Development in Information Retrieval (SIGIR)](#): 2026
 - [European Conference on Information Retrieval (ECIR)](#): 2026, 2025, 2024, 2023, 2022, 2021, 2020
 - [ACL Rolling Review (ARR)](#): 2024, 2023
 - [Annual Meeting of the Association for Computational Linguistics (ACL)](#): 2023
@@ -95,7 +96,7 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 - [International Conference on Empirical Methods in Natural Language Processing (EMNLP)](#): 2023, 2022, 2021
 - [European Chapter of the Association for Computational Linguistics (EACL)](#): 2021
 - [Conférence Extraction et Gestion des Connaissances (EGC)](#): 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018
-- [IEEE International Conference on Innovations in Intelligent Systems and Applications (INISTA)](#): 2020
+- [International Conference on Innovations in Intelligent Systems and Applications (INISTA)](#): 2020
 - [International Symposium on Information Management and Big Data (SIMBig)](#): 2021, 2019, 2018, 2017, 2016, 2015
 - [Modèles & Analyse des Réseaux: Approches Mathématiques & Informatiques](#): 2019
 - [Numéro spécial de la revue d'intelligence artificielle (RIA)](#): 2016
