@@ -3,6 +3,7 @@
 See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
 ## 2026
+- [Determinants of geographic information quality in Large language models: effects of model family, scale, language, quantization, and fine-tuning](#) by Rémy Decoupes, Adrien Guille. *Fourth International Workshop on Geographic Information Extraction from Texts (GeoExT @ ECIR)*, Deft (Pays-Bas), 2026
 - [Défi TextMine / EGC ’26 : Identification des acronymes dans des textes réglementaires ferroviaires](#) by Luce Lefeuvre, Coralie Reutenauer, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Anglet (France), 2026
 
 ## 2025
