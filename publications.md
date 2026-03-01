@@ -3,11 +3,11 @@
 See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
 ## 2026
-- [Determinants of geographic information quality in Large language models: effects of model family, scale, language, quantization, and fine-tuning](#) by Rémy Decoupes, Adrien Guille. *Fourth International Workshop on Geographic Information Extraction from Texts (GeoExT @ ECIR)*, Deft (Pays-Bas), 2026
-- [Défi TextMine / EGC ’26 : Identification des acronymes dans des textes réglementaires ferroviaires](#) by Luce Lefeuvre, Coralie Reutenauer, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Anglet (France), 2026
+- [Determinants of geographic information quality in Large language models: effects of model family, scale, language, quantization, and fine-tuning](#) by Rémy Decoupes, Adrien Guille. *Fourth International Workshop on Geographic Information Extraction from Texts (GeoExT @ ECIR)*, Delft (Pays-Bas), 2026
+- [Défi TextMine / EGC ’26 : Identification des acronymes dans des textes réglementaires ferroviaires](https://www.kaggle.com/competitions/defi-text-mine-egc-2026) by Luce Lefeuvre, Coralie Reutenauer, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Anglet (France), 2026
 
 ## 2025
-- [Probing Attention in Pre-Trained LLMs to Detect Semantics](#) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *9th International Conference on Natural Language Processing and Information Retrieval (NLPIR)*, Fukuoka (Japon), 2025
+- [Probing Attention in Pre-Trained LLMs to Detect Semantics](https://link.springer.com/book/9783032208965) by Frédéric Charpentier, Jairo Cugliari, Adrien Guille. *9th International Conference on Natural Language Processing and Information Retrieval (NLPIR)*, Fukuoka (Japon), 2025
 <br>**Best student paper award**
 - [Alignements entre attention et sémantique dans des modèles de langues pré-entraînés](https://aclanthology.org/2025.jeptalnrecital-taln.6.pdf) by Frédéric Charpentier, Adrien Guille, Jairo Cugliari. *32e Conférence sur le Traitement Automatique des Langues Naturelles (TALN)*, Marseille (France), 2025
 - [Étude des déterminants impactant la qualité de l'information géographique chez les LLMs : famille, taille, langue, quantization et fine-tuning](https://aclanthology.org/2025.jeptalnrecital-evalllm.9.pdf) by Rémy Decoupes, Adrien Guille. *Atelier sur l'évaluation des modèles génératifs (EvalLLM @ TALN)*, Marseille (France), 2025
