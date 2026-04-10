@@ -1,0 +1,1761 @@
+{
+  "protocol_id": "avatar_politique_v1",
+  "candidates": [
+    {
+      "candidate_id": "C1",
+      "label": "Social-démocrate",
+      "family": "Social-démocrate",
+      "academic_correspondence": null,
+      "description_short": "Ce candidat se situe à gauche, avec une approche de gouvernement fondée sur la redistribution, les services publics et le dialogue social.",
+      "measures": [
+        "augmenter progressivement les salaires dans les services publics essentiels",
+        "investir dans l'hôpital et l'éducation",
+        "rendre l'impôt sur le revenu plus progressif",
+        "conditionner certaines aides aux entreprises à des critères d'emploi",
+        "renforcer la négociation collective",
+        "lancer un plan de rénovation énergétique des logements",
+        "créer un impôt renforcé sur les hauts patrimoines",
+        "revenir partiellement sur certaines réformes du marché du travail"
+      ]
+    },
+    {
+      "candidate_id": "C2",
+      "label": "Écologiste",
+      "family": "Écologiste",
+      "academic_correspondence": null,
+      "description_short": "Ce candidat défend une transformation du modèle économique orientée vers la transition environnementale.",
+      "measures": [
+        "investir massivement dans les énergies renouvelables",
+        "développer les transports publics et ferroviaires",
+        "réduire l'usage des pesticides",
+        "soutenir l'agriculture biologique",
+        "renforcer les normes environnementales",
+        "réduire la place de la voiture en ville",
+        "limiter certaines productions à fort impact environnemental",
+        "mettre en place une fiscalité écologique plus contraignante"
+      ]
+    },
+    {
+      "candidate_id": "C3",
+      "label": "Gauche radicale",
+      "family": "Gauche radicale",
+      "academic_correspondence": null,
+      "description_short": "Ce candidat propose une rupture avec les politiques économiques actuelles, dans le cadre des institutions existantes.",
+      "measures": [
+        "augmenter significativement le SMIC",
+        "encadrer les prix sur certains biens essentiels",
+        "taxer fortement les grandes fortunes",
+        "revenir à la retraite à 60 ans",
+        "renforcer les services publics",
+        "planifier la transition écologique",
+        "remettre en cause certaines règles européennes",
+        "nationaliser certains secteurs stratégiques"
+      ]
+    },
+    {
+      "candidate_id": "C4",
+      "label": "Gauche révolutionnaire",
+      "family": "Gauche révolutionnaire",
+      "academic_correspondence": null,
+      "description_short": "Ce candidat défend une transformation profonde du système économique et social.",
+      "measures": [
+        "augmenter fortement les salaires et les minima sociaux",
+        "réduire le temps de travail",
+        "renforcer les droits des travailleurs",
+        "mettre en place un contrôle public sur les secteurs clés",
+        "réduire certaines formes de précarité",
+        "développer des services publics gratuits",
+        "restreindre certaines formes de grande propriété privée",
+        "modifier le cadre économique actuel dans ses fondements"
+      ]
+    },
+    {
+      "candidate_id": "C5",
+      "label": "Centre libéral",
+      "family": "Centre libéral",
+      "academic_correspondence": null,
+      "description_short": "Ce candidat se situe au centre, avec une approche réformiste, pro-européenne et favorable à l'économie de marché encadrée.",
+      "measures": [
+        "investir dans l'innovation et les nouvelles technologies",
+        "soutenir l'entrepreneuriat",
+        "maintenir une discipline budgétaire",
+        "réformer les services publics dans un objectif d'efficacité",
+        "favoriser la formation continue",
+        "renforcer l'intégration européenne",
+        "accélérer certaines réformes économiques sur un calendrier resserré",
+        "piloter davantage les politiques publiques par des indicateurs de performance"
+      ]
+    },
+    {
+      "candidate_id": "C6",
+      "label": "Libéral-conservateur",
+      "family": "Libéral-conservateur",
+      "academic_correspondence": null,
+      "description_short": "Ce candidat défend une économie de marché associée à des valeurs d'ordre, de responsabilité individuelle et de conservation des institutions.",
+      "measures": [
+        "réduire les impôts sur les entreprises",
+        "renforcer les moyens de la justice",
+        "durcir les politiques de sécurité",
+        "repousser l'âge de départ à la retraite",
+        "réduire certaines dépenses publiques",
+        "défendre les intérêts économiques nationaux dans le cadre européen",
+        "restreindre certaines aides sociales",
+        "renforcer le contrôle de l'immigration"
+      ]
+    },
+    {
+      "candidate_id": "C7",
+      "label": "Droite souverainiste",
+      "family": "Droite souverainiste",
+      "academic_correspondence": "nationalist right",
+      "description_short": "Ce candidat met l'accent sur la souveraineté nationale, la protection économique et une politique migratoire restrictive, dans le cadre des institutions existantes.",
+      "measures": [
+        "renforcer le contrôle des frontières",
+        "réduire l'immigration",
+        "instaurer une priorité nationale dans l'accès à certains droits",
+        "soutenir les classes populaires",
+        "défendre l'industrie nationale",
+        "réviser certains engagements européens",
+        "restreindre certaines aides sociales aux non-nationaux",
+        "réaffirmer la primauté du droit national sur certaines normes internationales"
+      ]
+    },
+    {
+      "candidate_id": "C8",
+      "label": "Droite identitaire radicale",
+      "family": "Droite identitaire radicale",
+      "academic_correspondence": "populist radical right",
+      "description_short": "Ce candidat défend une ligne ferme en matière d'identité, d'ordre et de sécurité, avec une volonté de transformation profonde du cadre politique.",
+      "measures": [
+        "réduire fortement l'immigration",
+        "renforcer les forces de l'ordre",
+        "durcir les sanctions pénales",
+        "limiter l'influence des institutions internationales",
+        "promouvoir une identité nationale forte",
+        "restreindre certains droits pour les non-nationaux",
+        "réviser certains engagements internationaux en matière de protection des personnes",
+        "modifier le cadre institutionnel actuel dans ses fondements"
+      ]
+    },
+    {
+      "candidate_id": "C9",
+      "label": "Libertarien",
+      "family": "Libertarien",
+      "academic_correspondence": null,
+      "description_short": "Ce candidat défend une réduction du rôle de l'État au profit de la liberté individuelle et économique.",
+      "measures": [
+        "réduire fortement les impôts",
+        "réduire fortement les dépenses publiques",
+        "privatiser de nombreux services",
+        "déréguler le marché du travail",
+        "renforcer la liberté contractuelle",
+        "limiter l'intervention de l'État dans l'économie",
+        "restreindre certaines aides sociales",
+        "étendre la privatisation à des services actuellement publics"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "M2",
+      "module_label": "Préférences sincères",
+      "instructions_generales": "Tu peux expliquer librement tes choix dans les champs prévus à cet effet. Si une question te paraît imprécise ou contestable, tu peux le signaler brièvement dans ta réponse.",
+      "options_source": "candidates",
+      "display_order_tracking": true,
+      "questions": [
+        {
+          "question_id": "Q2.1",
+          "label": "Vote sincère",
+          "prompt": "Parmi ces 9 candidats, lequel préfères-tu si tu votes uniquement selon tes convictions personnelles ?",
+          "response_type": "single_choice_with_justification",
+          "allow_none": true,
+          "fields": [
+            {
+              "field_id": "choice",
+              "type": "candidate_id",
+              "nullable": true,
+              "required": true
+            },
+            {
+              "field_id": "justification",
+              "type": "text",
+              "required": false,
+              "max_length": 400
+            }
+          ]
+        },
+        {
+          "question_id": "Q2.2",
+          "label": "Influence d'un sondage",
+          "prompt": "Un sondage vient de paraître avec les résultats suivants. Ce résultat modifie-t-il ton choix sincère ? Pourquoi ou pourquoi pas ?",
+          "response_type": "poll_reaction",
+          "poll_scenarios": [
+            {
+              "scenario_id": "S1",
+              "scenario_label": "Centre dominant",
+              "data": [
+                {"candidate_id": "C5", "score_percent": 26},
+                {"candidate_id": "C6", "score_percent": 22},
+                {"candidate_id": "C7", "score_percent": 18},
+                {"candidate_id": "C1", "score_percent": 14},
+                {"candidate_id": "C3", "score_percent": 9},
+                {"candidate_id": "C2", "score_percent": 5},
+                {"candidate_id": "C8", "score_percent": 3},
+                {"candidate_id": "C4", "score_percent": 2},
+                {"candidate_id": "C9", "score_percent": 1}
+              ]
+            },
+            {
+              "scenario_id": "S2",
+              "scenario_label": "Droite dominante",
+              "data": [
+                {"candidate_id": "C7", "score_percent": 28},
+                {"candidate_id": "C6", "score_percent": 24},
+                {"candidate_id": "C8", "score_percent": 16},
+                {"candidate_id": "C5", "score_percent": 12},
+                {"candidate_id": "C1", "score_percent": 10},
+                {"candidate_id": "C3", "score_percent": 5},
+                {"candidate_id": "C2", "score_percent": 3},
+                {"candidate_id": "C9", "score_percent": 1},
+                {"candidate_id": "C4", "score_percent": 1}
+              ]
+            },
+            {
+              "scenario_id": "S3",
+              "scenario_label": "Gauche radicale forte",
+              "data": [
+                {"candidate_id": "C3", "score_percent": 25},
+                {"candidate_id": "C1", "score_percent": 20},
+                {"candidate_id": "C5", "score_percent": 18},
+                {"candidate_id": "C6", "score_percent": 14},
+                {"candidate_id": "C2", "score_percent": 10},
+                {"candidate_id": "C7", "score_percent": 7},
+                {"candidate_id": "C4", "score_percent": 3},
+                {"candidate_id": "C8", "score_percent": 2},
+                {"candidate_id": "C9", "score_percent": 1}
+              ]
+            },
+            {
+              "scenario_id": "S4",
+              "scenario_label": "Paysage éclaté sans favori net",
+              "data": [
+                {"candidate_id": "C5", "score_percent": 16},
+                {"candidate_id": "C7", "score_percent": 15},
+                {"candidate_id": "C1", "score_percent": 14},
+                {"candidate_id": "C6", "score_percent": 13},
+                {"candidate_id": "C3", "score_percent": 12},
+                {"candidate_id": "C2", "score_percent": 11},
+                {"candidate_id": "C8", "score_percent": 9},
+                {"candidate_id": "C4", "score_percent": 6},
+                {"candidate_id": "C9", "score_percent": 4}
+              ]
+            }
+          ],
+          "assignment": "random",
+          "fields": [
+            {
+              "field_id": "scenario_assigned",
+              "type": "scenario_id",
+              "required": true
+            },
+            {
+              "field_id": "choice_modified",
+              "type": "boolean",
+              "required": true
+            },
+            {
+              "field_id": "new_choice",
+              "type": "candidate_id",
+              "nullable": true,
+              "required": false,
+              "allowed_values": ["C1","C2","C3","C4","C5","C6","C7","C8","C9","NONE"],
+              "note": "null si choix inchangé / NONE si nouveau choix = aucun candidat"
+            },
+            {
+              "field_id": "justification",
+              "type": "text",
+              "required": false,
+              "max_length": 400
+            }
+          ],
+          "validation_rules": [
+            "if choice_modified == false then new_choice == null",
+            "if choice_modified == true then new_choice != null",
+            "if choice_modified == true and allow_none then new_choice in candidates + NONE"
+          ]
+        },
+        {
+          "question_id": "Q2.3",
+          "label": "Notation 0-10",
+          "prompt": "Attribue une note de 0 à 10 à chaque candidat. 0 = rejet total, 5 = acceptable/neutre, 10 = adhésion complète.",
+          "response_type": "rating_per_candidate",
+          "options_source": "candidates",
+          "scale": {"min": 0, "max": 10, "neutral": 5},
+          "fields": [
+            {
+              "field_id": "ratings",
+              "type": "array",
+              "items": {
+                "candidate_id": "candidate_id",
+                "score": {"type": "integer", "min": 0, "max": 10}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q2.4",
+          "label": "Notation -10/+10",
+          "prompt": "Attribue une note de -10 à +10 à chaque candidat. -10 = rejet total, 0 = acceptable/neutre, +10 = adhésion complète.",
+          "response_type": "rating_per_candidate",
+          "options_source": "candidates",
+          "scale": {"min": -10, "max": 10, "neutral": 0},
+          "note_methodologique": "Redondance intentionnelle avec Q2.3 : permet de détecter les incohérences de réponse et de tester l'effet du point neutre (5 vs 0).",
+          "fields": [
+            {
+              "field_id": "ratings",
+              "type": "array",
+              "items": {
+                "candidate_id": "candidate_id",
+                "score": {"type": "integer", "min": -10, "max": 10}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q2.5",
+          "label": "Vote d'approbation",
+          "prompt": "Dans un vote d'approbation, tu peux approuver autant de candidats que tu veux. Lesquels approuverais-tu ?",
+          "response_type": "multiple_choice",
+          "options_source": "candidates",
+          "fields": [
+            {
+              "field_id": "approved",
+              "type": "array",
+              "items": {"type": "candidate_id"},
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q2.6",
+          "label": "Vote ternaire",
+          "prompt": "Pour chaque candidat, indique : +1 = je soutiens activement, 0 = neutre/acceptable, -1 = je m'oppose.",
+          "response_type": "ternary_per_candidate",
+          "options_source": "candidates",
+          "scale": {"values": [-1, 0, 1]},
+          "fields": [
+            {
+              "field_id": "ratings",
+              "type": "array",
+              "items": {
+                "candidate_id": "candidate_id",
+                "score": {"type": "integer", "values": [-1, 0, 1]}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q2.7",
+          "label": "Comparaisons par paires",
+          "prompt": "Pour chaque duel, indique simplement le candidat que tu préfères. Une brève justification est optionnelle.",
+          "response_type": "pairwise",
+          "randomize_pair_order": true,
+          "randomize_candidate_position_within_pair": true,
+          "note_methodologique": "8 paires couvrant duels adjacents, contrastés et de frontière sur l'ensemble du spectre.",
+          "pairs": [
+            {"duel_id": "D1", "candidate_a": "C1", "candidate_b": "C3"},
+            {"duel_id": "D2", "candidate_a": "C3", "candidate_b": "C4"},
+            {"duel_id": "D3", "candidate_a": "C1", "candidate_b": "C5"},
+            {"duel_id": "D4", "candidate_a": "C2", "candidate_b": "C5"},
+            {"duel_id": "D5", "candidate_a": "C5", "candidate_b": "C6"},
+            {"duel_id": "D6", "candidate_a": "C6", "candidate_b": "C7"},
+            {"duel_id": "D7", "candidate_a": "C7", "candidate_b": "C8"},
+            {"duel_id": "D8", "candidate_a": "C4", "candidate_b": "C9"}
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "duel_id": "string",
+                "choice": {"type": "candidate_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q2.8",
+          "label": "Analyse qualitative",
+          "prompt": "Pour chacun des candidats ci-dessous, indique brièvement ce qui te plaît, ce qui te déplaît, et tes éventuelles incertitudes.",
+          "response_type": "qualitative_per_candidate",
+          "candidate_selection": {
+            "source": "Q2.3",
+            "method": "top_and_bottom",
+            "top_n": 3,
+            "bottom_n": 3,
+            "tie_breaking": "random",
+            "deduplication": true
+          },
+          "note_methodologique": "Qualitatif limité aux 3 candidats les mieux notés et aux 3 les moins bien notés en Q2.3. Réduit la charge de 27 à 18 champs tout en ciblant les profils les plus informatifs pour l'entraînement de l'avatar. En cas d'égalité sur le seuil, un candidat est sélectionné aléatoirement.",
+          "fields": [
+            {
+              "field_id": "evaluations",
+              "type": "array",
+              "items": {
+                "candidate_id": "candidate_id",
+                "positifs": {"type": "text", "required": true, "max_length": 200},
+                "negatifs": {"type": "text", "required": true, "max_length": 200},
+                "incertitudes": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+  "module_id": "M3",
+  "module_label": "Vote stratégique",
+  "instructions_generales": "Dans les situations suivantes, ton candidat préféré est déterminé à partir de tes réponses précédentes. Réponds rapidement et spontanément : l'objectif est de mesurer jusqu'à quel point tu acceptes de quitter ton candidat préféré selon la qualité de l'alternative et la gravité du risque électoral.",
+  "options_source": "candidates",
+  "display_order_tracking": true,
+  "inter_module_links": [
+    {
+      "target_module": "M2",
+      "link_type": "dynamic_candidate_roles",
+      "note": "Les rôles preferred_candidate, second_best_candidate, third_best_candidate, fourth_best_candidate, second_worst_candidate, third_worst_candidate et worst_candidate sont dérivés des notes de Q2.3, avec recours à Q2.4 en cas d'égalité persistante."
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "Q3.1",
+      "label": "Vote solitaire",
+      "prompt": "Imagine que tu es le seul électeur. Tu peux élire directement qui tu veux parmi les 9 candidats, sans contrainte. Qui choisis-tu ?",
+      "response_type": "single_choice_with_justification",
+      "allow_none": false,
+      "fields": [
+        {
+          "field_id": "choice",
+          "type": "candidate_id",
+          "required": true
+        },
+        {
+          "field_id": "justification",
+          "type": "text",
+          "required": false,
+          "max_length": 300
+        }
+      ]
+    },
+    {
+      "question_id": "Q3.2",
+      "label": "Seuil de vote utile et de vote barrage",
+      "prompt": "Dans chaque situation, indique si tu maintiens ton vote pour ton candidat préféré ou si tu votes pour l'alternative proposée.",
+      "response_type": "strategic_threshold_scenarios",
+      "note_methodologique": "Les scénarios varient selon trois dimensions : (i) niveau de viabilité du candidat préféré, (ii) rang de l'alternative proposée, (iii) gravité du candidat évité. L'objectif est d'estimer jusqu'à quel niveau de compromis le répondant accepte de voter stratégiquement.",
+      "candidate_roles": {
+        "preferred_candidate": {
+          "source": "Q2.3",
+          "rule": "highest_scoring_candidate",
+          "tie_breaking": "Q2.4_then_random"
+        },
+        "second_best_candidate": {
+          "source": "Q2.3",
+          "rule": "second_highest_scoring_candidate",
+          "tie_breaking": "Q2.4_then_random"
+        },
+        "third_best_candidate": {
+          "source": "Q2.3",
+          "rule": "third_highest_scoring_candidate",
+          "tie_breaking": "Q2.4_then_random"
+        },
+        "fourth_best_candidate": {
+          "source": "Q2.3",
+          "rule": "fourth_highest_scoring_candidate",
+          "tie_breaking": "Q2.4_then_random"
+        },
+        "worst_candidate": {
+          "source": "Q2.3",
+          "rule": "lowest_scoring_candidate",
+          "tie_breaking": "Q2.4_then_random"
+        },
+        "second_worst_candidate": {
+          "source": "Q2.3",
+          "rule": "second_lowest_scoring_candidate",
+          "tie_breaking": "Q2.4_then_random"
+        },
+        "third_worst_candidate": {
+          "source": "Q2.3",
+          "rule": "third_lowest_scoring_candidate",
+          "tie_breaking": "Q2.4_then_random"
+        }
+      },
+      "scenarios": [
+        {
+          "scenario_id": "ST1",
+          "scenario_family": "vote_utile_simple",
+          "scenario_label": "Favori marginal, alternative = 2e choix",
+          "description_template": "{preferred_candidate_label} est crédité de 2% dans les sondages. {second_best_candidate_label} est en position de se qualifier pour le second tour. Si tu maintiens ton vote pour {preferred_candidate_label}, il sera éliminé. Si tu votes pour {second_best_candidate_label}, tu renforces ses chances de qualification.",
+          "preferred_candidate_score_percent": 2,
+          "alternative_candidate": "second_best_candidate",
+          "threat_candidate": null
+        },
+        {
+          "scenario_id": "ST2",
+          "scenario_family": "vote_utile_simple",
+          "scenario_label": "Favori marginal, alternative = 3e choix",
+          "description_template": "{preferred_candidate_label} est crédité de 2% dans les sondages. {third_best_candidate_label} est en position de se qualifier pour le second tour. Si tu maintiens ton vote pour {preferred_candidate_label}, il sera éliminé. Si tu votes pour {third_best_candidate_label}, tu renforces ses chances de qualification.",
+          "preferred_candidate_score_percent": 2,
+          "alternative_candidate": "third_best_candidate",
+          "threat_candidate": null
+        },
+        {
+          "scenario_id": "ST3",
+          "scenario_family": "vote_utile_simple",
+          "scenario_label": "Favori marginal, alternative = 4e choix",
+          "description_template": "{preferred_candidate_label} est crédité de 2% dans les sondages. {fourth_best_candidate_label} est en position de se qualifier pour le second tour. Si tu maintiens ton vote pour {preferred_candidate_label}, il sera éliminé. Si tu votes pour {fourth_best_candidate_label}, tu renforces ses chances de qualification.",
+          "preferred_candidate_score_percent": 2,
+          "alternative_candidate": "fourth_best_candidate",
+          "threat_candidate": null
+        },
+        {
+          "scenario_id": "ST4",
+          "scenario_family": "quasi_viabilite",
+          "scenario_label": "Favori faible mais encore visible, alternative = 2e choix",
+          "description_template": "{preferred_candidate_label} est crédité de 10% dans les sondages. {second_best_candidate_label} est nettement devant, mais {preferred_candidate_label} n'est pas totalement hors course. Maintiens-tu ton vote ou le transfères-tu à {second_best_candidate_label} ?",
+          "preferred_candidate_score_percent": 10,
+          "alternative_candidate": "second_best_candidate",
+          "threat_candidate": null
+        },
+        {
+          "scenario_id": "ST5",
+          "scenario_family": "quasi_viabilite",
+          "scenario_label": "Favori faible mais encore visible, alternative = 3e choix",
+          "description_template": "{preferred_candidate_label} est crédité de 10% dans les sondages. {third_best_candidate_label} est nettement devant, mais {preferred_candidate_label} n'est pas totalement hors course. Maintiens-tu ton vote ou le transfères-tu à {third_best_candidate_label} ?",
+          "preferred_candidate_score_percent": 10,
+          "alternative_candidate": "third_best_candidate",
+          "threat_candidate": null
+        },
+        {
+          "scenario_id": "ST6",
+          "scenario_family": "vote_barrage",
+          "scenario_label": "Barrage contre le pire, alternative = 2e choix",
+          "description_template": "{preferred_candidate_label} ne peut pas gagner. Si tu maintiens ton vote pour {preferred_candidate_label}, {worst_candidate_label} accède au second tour. Si tu votes pour {second_best_candidate_label}, tu peux empêcher ce résultat.",
+          "preferred_candidate_score_percent": 2,
+          "alternative_candidate": "second_best_candidate",
+          "threat_candidate": "worst_candidate"
+        },
+        {
+          "scenario_id": "ST7",
+          "scenario_family": "vote_barrage",
+          "scenario_label": "Barrage contre le 2e pire, alternative = 3e choix",
+          "description_template": "{preferred_candidate_label} ne peut pas gagner. Si tu maintiens ton vote pour {preferred_candidate_label}, {second_worst_candidate_label} accède au second tour. Si tu votes pour {third_best_candidate_label}, tu peux empêcher ce résultat.",
+          "preferred_candidate_score_percent": 2,
+          "alternative_candidate": "third_best_candidate",
+          "threat_candidate": "second_worst_candidate"
+        },
+        {
+          "scenario_id": "ST8",
+          "scenario_family": "vote_barrage",
+          "scenario_label": "Barrage contre le 3e pire, alternative = 4e choix",
+          "description_template": "{preferred_candidate_label} ne peut pas gagner. Si tu maintiens ton vote pour {preferred_candidate_label}, {third_worst_candidate_label} accède au second tour. Si tu votes pour {fourth_best_candidate_label}, tu peux empêcher ce résultat.",
+          "preferred_candidate_score_percent": 2,
+          "alternative_candidate": "fourth_best_candidate",
+          "threat_candidate": "third_worst_candidate"
+        },
+        {
+          "scenario_id": "ST9",
+          "scenario_family": "pivot_sacrificiel",
+          "scenario_label": "Pivot pur, alternative = 2e choix, menace = pire",
+          "description_template": "Tu es décisif. Si tu votes pour {preferred_candidate_label}, {worst_candidate_label} gagne avec certitude. Si tu votes pour {second_best_candidate_label}, {second_best_candidate_label} gagne avec certitude.",
+          "preferred_candidate_score_percent": null,
+          "alternative_candidate": "second_best_candidate",
+          "threat_candidate": "worst_candidate"
+        },
+        {
+          "scenario_id": "ST10",
+          "scenario_family": "pivot_sacrificiel",
+          "scenario_label": "Pivot pur, alternative = 3e choix, menace = 2e pire",
+          "description_template": "Tu es décisif. Si tu votes pour {preferred_candidate_label}, {second_worst_candidate_label} gagne avec certitude. Si tu votes pour {third_best_candidate_label}, {third_best_candidate_label} gagne avec certitude.",
+          "preferred_candidate_score_percent": null,
+          "alternative_candidate": "third_best_candidate",
+          "threat_candidate": "second_worst_candidate"
+        }
+      ],
+      "response_options": [
+        {
+          "value": "maintien_vote_prefere",
+          "label": "Je maintiens mon vote pour mon candidat préféré"
+        },
+        {
+          "value": "vote_alternatif",
+          "label": "Je vote pour l'alternative proposée"
+        }
+      ],
+      "fields": [
+        {
+          "field_id": "responses",
+          "type": "array",
+          "items": {
+            "scenario_id": "string",
+            "preferred_candidate": {
+              "type": "candidate_id",
+              "required": true
+            },
+            "alternative_candidate": {
+              "type": "candidate_id",
+              "required": true
+            },
+            "threat_candidate": {
+              "type": "candidate_id",
+              "nullable": true,
+              "required": false
+            },
+            "choice": {
+              "type": "enum",
+              "values": ["maintien_vote_prefere", "vote_alternatif"],
+              "required": true
+            },
+            "justification": {
+              "type": "text",
+              "required": false,
+              "max_length": 150
+            }
+          },
+          "required": true
+        }
+      ],
+      "derived_variables": [
+        {
+          "variable_id": "strategic_compromise_rank_threshold",
+          "description": "Rang maximal de l'alternative (2e, 3e, 4e choix) accepté par le répondant selon les scénarios."
+        },
+        {
+          "variable_id": "strategic_threat_sensitivity",
+          "description": "Sensibilité au niveau de menace électorale (pire, 2e pire, 3e pire)."
+        },
+        {
+          "variable_id": "strategic_vote_index",
+          "description": "Indice synthétique de propension au vote stratégique calculé à partir de l'ensemble des scénarios."
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_label": "Logiques d'abstention",
+      "instructions_generales": "Tu peux expliquer librement tes choix dans les champs prévus à cet effet. Si une question te paraît imprécise ou contestable, tu peux le signaler brièvement dans ta réponse.",
+      "display_order_tracking": true,
+      "abstention_choice_options": [
+        {"value": "vote_candidat", "label": "Je vote pour un candidat"},
+        {"value": "vote_moins_pire", "label": "Je vote pour le candidat le moins mauvais"},
+        {"value": "vote_blanc", "label": "Je vote blanc"},
+        {"value": "abstention", "label": "Je m'abstiens"}
+      ],
+      "note_methodologique": "Les quatre options sont communes à toutes les questions du module pour permettre la comparaison inter-scénarios. 'vote_candidat' remplace 'vote_prefere' pour rester cohérent dans les scénarios où le candidat préféré n'est pas disponible (Q4.3A, Q4.3B).",
+      "questions": [
+        {
+          "question_id": "Q4.1",
+          "label": "Abstention sincère",
+          "prompt": "Dans chaque situation, indique ce que tu ferais.",
+          "response_type": "abstention_scenario",
+          "scenarios": [
+            {
+              "scenario_id": "Q4.1A",
+              "scenario_label": "Offre acceptable homogène",
+              "description": "Élection locale avec 3 candidats tous modérés et acceptables, enjeux mineurs, peu de différences entre eux."
+            },
+            {
+              "scenario_id": "Q4.1B",
+              "scenario_label": "Candidats médiocres, contexte défavorable",
+              "description": "Élection avec des candidats médiocres mais non dangereux. Tu es fatigué, il pleut."
+            },
+            {
+              "scenario_id": "Q4.1C",
+              "scenario_label": "Faible enjeu perçu",
+              "description": "Élection dont l'issue ne changera presque rien à ta vie quotidienne."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "scenario_id": "string",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                },
+                "justification": {
+                  "type": "text",
+                  "required": false,
+                  "max_length": 200
+                }
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q4.2",
+          "label": "Abstention stratégique",
+          "prompt": "Dans chaque situation, ton candidat préféré est donné gagnant. Indique ce que tu ferais.",
+          "response_type": "abstention_scenario",
+          "scenarios": [
+            {
+              "scenario_id": "Q4.2A",
+              "scenario_label": "Victoire probable",
+              "description": "Ton candidat préféré est donné gagnant à 65% contre 35%. Ton vote individuel ne changera pas le résultat."
+            },
+            {
+              "scenario_id": "Q4.2B",
+              "scenario_label": "Victoire quasi certaine avec contrainte logistique",
+              "description": "Résultat quasi certain (75%-25%), mais longue file d'attente au bureau de vote."
+            },
+            {
+              "scenario_id": "Q4.2C",
+              "scenario_label": "Résultat déjà connu",
+              "description": "Le résultat est déjà connu avant que tu votes (vote décalé, résultats d'autres régions publiés)."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "scenario_id": "string",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                },
+                "justification": {
+                  "type": "text",
+                  "required": false,
+                  "max_length": 200
+                }
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q4.3",
+          "label": "Abstention protestataire",
+          "prompt": "Dans chaque situation, indique ce que tu ferais et pourquoi.",
+          "response_type": "abstention_scenario",
+          "scenarios": [
+            {
+              "scenario_id": "Q4.3A",
+              "scenario_label": "Deux mauvais finalistes",
+              "description": "Les deux finalistes sont des candidats que tu juges tous les deux très mauvais pour le pays."
+            },
+            {
+              "scenario_id": "Q4.3B",
+              "scenario_label": "Légitimité contestée",
+              "description": "Tu rejettes fondamentalement la légitimité de cette élection (scrutin perçu comme truqué, candidats imposés)."
+            },
+            {
+              "scenario_id": "Q4.3C",
+              "scenario_label": "Positions moralement inacceptables",
+              "description": "Les deux finalistes défendent des positions que tu juges moralement inacceptables."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "scenario_id": "string",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                },
+                "justification": {
+                  "type": "text",
+                  "required": false,
+                  "max_length": 200
+                }
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q4.4",
+          "label": "Seuil d'abstention",
+          "prompt": "L'offre électorale se dégrade progressivement. Indique pour chaque niveau si tu voterais, et à quel niveau tu cesserais de participer.",
+          "response_type": "threshold_scale",
+          "note_methodologique": "Échelle ordinale à 6 niveaux de dégradation croissante. La validation suppose une structure monotone (une fois abstention, toujours abstention) comme hypothèse comportementale forte. Les patterns non monotones ne sont pas bloquants mais sont tracés pour analyse post-hoc.",
+          "levels": [
+            {
+              "level_id": 1,
+              "description": "Ton candidat préféré est présent, accompagné de 2 bons candidats alternatifs."
+            },
+            {
+              "level_id": 2,
+              "description": "Ton candidat préféré est présent, accompagné de 2 candidats acceptables."
+            },
+            {
+              "level_id": 3,
+              "description": "Aucun candidat excellent, mais 3 à 4 candidats corrects."
+            },
+            {
+              "level_id": 4,
+              "description": "Que des candidats médiocres, mais aucun dangereux."
+            },
+            {
+              "level_id": 5,
+              "description": "Que des candidats médiocres, dont certains problématiques."
+            },
+            {
+              "level_id": 6,
+              "description": "Que des candidats que tu juges mauvais."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "level_id": "integer",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                }
+              },
+              "required": true
+            },
+            {
+              "field_id": "abstention_threshold",
+              "type": "integer",
+              "nullable": true,
+              "required": false,
+              "note": "Premier level_id où le répondant choisit abstention. Calculé automatiquement depuis responses. null si le répondant vote à tous les niveaux.",
+              "derived": true
+            },
+            {
+              "field_id": "justification",
+              "type": "text",
+              "required": false,
+              "max_length": 400
+            }
+          ],
+          "validation_rules": [
+            "soft_validation: non_monotonic_patterns_flagged",
+            "abstention_threshold == min(level_id where choice == abstention)"
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M5",
+      "module_label": "Positionnements thématiques",
+      "instructions_generales": "Tu peux expliquer librement tes choix dans les champs prévus à cet effet. Si une question te paraît imprécise ou contestable, tu peux le signaler brièvement dans ta réponse.",
+      "display_order_tracking": true,
+      "inter_module_links": [
+        {
+          "target_module": "M2",
+          "link_type": "scoring_input",
+          "note": "Les scores Q5.1 (importance des enjeux) pondèrent les préférences de M2 pour le calcul du profil de l'avatar."
+        },
+        {
+          "target_module": "M6",
+          "link_type": "thematic_consistency_check",
+          "note": "Les positions Q5.2 sont comparées aux choix de M6 pour détecter les incohérences entre positions déclarées et arbitrages effectifs."
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "Q5.1",
+          "label": "Importance des enjeux",
+          "prompt": "Note de 1 à 5 l'importance de chaque enjeu pour toi personnellement. 1 = peu important, 5 = crucial.",
+          "response_type": "importance_rating",
+          "scale": {"min": 1, "max": 5},
+          "themes": [
+            {"theme_id": "T01", "label": "Économie et emploi"},
+            {"theme_id": "T02", "label": "Redistribution et justice sociale"},
+            {"theme_id": "T03", "label": "Fiscalité"},
+            {"theme_id": "T04", "label": "Services publics"},
+            {"theme_id": "T05", "label": "Écologie et transition"},
+            {"theme_id": "T06", "label": "Immigration et intégration"},
+            {"theme_id": "T07", "label": "Sécurité et ordre"},
+            {"theme_id": "T08", "label": "Libertés civiles"},
+            {"theme_id": "T09", "label": "Institutions et démocratie"},
+            {"theme_id": "T10", "label": "Innovation et industrie"},
+            {"theme_id": "T11", "label": "Europe et international"}
+          ],
+          "fields": [
+            {
+              "field_id": "ratings",
+              "type": "array",
+              "items": {
+                "theme_id": "string",
+                "score": {"type": "integer", "min": 1, "max": 5}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q5.2",
+          "label": "Positions thématiques",
+          "prompt": "Pour chaque énoncé, indique ton degré d'accord : 2 = tout à fait d'accord, 1 = plutôt d'accord, 0 = ni d'accord ni pas d'accord, -1 = plutôt pas d'accord, -2 = pas du tout d'accord.",
+          "response_type": "likert_per_item",
+          "note_methodologique": "32 items regroupés en 8 blocs thématiques. Encodage entier -2/-1/0/1/2 correspondant à --/-/0/+/++. Le découpage en trois blocs du protocole source est une contrainte de présentation, pas de contenu : les 32 items forment un seul instrument. Items potentiellement corrélés documentés : I05/I08 (taxation des riches / plafond de revenus), I13/I16 (contrôle des frontières / quotas d'immigration) — redondance intentionnelle pour renforcer la robustesse de la mesure.",
+          "scale": {
+            "min": -2,
+            "max": 2,
+            "neutral": 0,
+            "labels": {
+              "-2": "Pas du tout d'accord",
+              "-1": "Plutôt pas d'accord",
+              "0": "Ni d'accord ni pas d'accord",
+              "1": "Plutôt d'accord",
+              "2": "Tout à fait d'accord"
+            }
+          },
+          "blocks": [
+            {
+              "block_id": "B1",
+              "block_label": "Économie et emploi",
+              "items": [
+                {"item_id": "I01", "statement": "L'État doit fortement réguler le marché du travail."},
+                {"item_id": "I02", "statement": "Les 35h doivent être maintenues voire réduites."},
+                {"item_id": "I03", "statement": "Il faut faciliter les licenciements pour favoriser l'emploi."},
+                {"item_id": "I04", "statement": "Le SMIC doit augmenter significativement."}
+              ]
+            },
+            {
+              "block_id": "B2",
+              "block_label": "Redistribution",
+              "items": [
+                {"item_id": "I05", "statement": "Les riches doivent être beaucoup plus taxés."},
+                {"item_id": "I06", "statement": "Le revenu universel est une bonne idée."},
+                {"item_id": "I07", "statement": "Les aides sociales sont trop généreuses."},
+                {"item_id": "I08", "statement": "Il faut un plafond maximum de revenus."}
+              ]
+            },
+            {
+              "block_id": "B3",
+              "block_label": "Écologie",
+              "items": [
+                {"item_id": "I09", "statement": "La priorité absolue doit être la transition écologique."},
+                {"item_id": "I10", "statement": "La croissance économique est compatible avec l'écologie."},
+                {"item_id": "I11", "statement": "Il faut interdire certaines technologies polluantes."},
+                {"item_id": "I12", "statement": "L'écologie ne doit pas nuire à l'emploi."}
+              ]
+            },
+            {
+              "block_id": "B4",
+              "block_label": "Immigration",
+              "items": [
+                {"item_id": "I13", "statement": "Les frontières doivent être mieux contrôlées."},
+                {"item_id": "I14", "statement": "Les sans-papiers doivent pouvoir être régularisés."},
+                {"item_id": "I15", "statement": "L'immigration est une richesse pour le pays."},
+                {"item_id": "I16", "statement": "Il faut des quotas stricts d'immigration."}
+              ]
+            },
+            {
+              "block_id": "B5",
+              "block_label": "Sécurité",
+              "items": [
+                {"item_id": "I17", "statement": "Il faut plus de police dans les quartiers."},
+                {"item_id": "I18", "statement": "Les peines de prison doivent être plus sévères."},
+                {"item_id": "I19", "statement": "La vidéosurveillance doit être généralisée."},
+                {"item_id": "I20", "statement": "La police a trop de pouvoir."}
+              ]
+            },
+            {
+              "block_id": "B6",
+              "block_label": "Libertés civiles",
+              "items": [
+                {"item_id": "I21", "statement": "La sécurité doit primer sur les libertés individuelles."},
+                {"item_id": "I22", "statement": "L'État surveille trop les citoyens."},
+                {"item_id": "I23", "statement": "La liberté d'expression doit être absolue."},
+                {"item_id": "I24", "statement": "Certaines opinions doivent être interdites."}
+              ]
+            },
+            {
+              "block_id": "B7",
+              "block_label": "Institutions",
+              "items": [
+                {"item_id": "I25", "statement": "Il faut plus de référendums."},
+                {"item_id": "I26", "statement": "Les élus sont trop déconnectés du peuple."},
+                {"item_id": "I27", "statement": "Les corps intermédiaires (syndicats, associations) sont essentiels."},
+                {"item_id": "I28", "statement": "Un pouvoir fort est préférable au désordre démocratique."}
+              ]
+            },
+            {
+              "block_id": "B8",
+              "block_label": "International",
+              "items": [
+                {"item_id": "I29", "statement": "La France doit quitter certaines institutions européennes."},
+                {"item_id": "I30", "statement": "L'OTAN est indispensable à notre sécurité."},
+                {"item_id": "I31", "statement": "Il faut être plus ferme avec les régimes autoritaires."},
+                {"item_id": "I32", "statement": "L'aide au développement est une priorité."}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "item_id": "string",
+                "score": {"type": "integer", "min": -2, "max": 2},
+                "comment": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M6",
+      "module_label": "Dilemmes moraux",
+      "instructions_generales": "Tu peux expliquer librement tes choix dans les champs prévus à cet effet. Si une question te paraît imprécise ou contestable, tu peux le signaler brièvement dans ta réponse.",
+      "display_order_tracking": true,
+      "inter_module_links": [
+        {
+          "target_module": "M5",
+          "link_type": "thematic_consistency_check",
+          "note": "Les choix de M6 sont comparés aux positions déclarées de Q5.2 pour détecter les écarts entre idéologie déclarée et arbitrages effectifs sous contrainte."
+        }
+      ],
+      "note_methodologique": "8 dilemmes couvrant 4 axes de tension : économie/écologie, sécurité/libertés, immigration, international/crise. Chaque dilemme propose 2 à 4 options mutuellement exclusives. L'ordre des options est randomisé pour éviter les biais de position. Une justification courte est optionnelle mais fortement recommandée pour l'entraînement de l'avatar.",
+      "questions": [
+        {
+          "question_id": "Q6.1",
+          "label": "Dilemmes économie / écologie",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.1A",
+              "dilemma_label": "Usine polluante",
+              "description": "Une usine employant 5000 personnes pollue massivement. La fermer détruirait une ville entière économiquement.",
+              "options": [
+                {"option_id": "a", "label": "Fermeture immédiate"},
+                {"option_id": "b", "label": "Transition sur 10 ans avec aides"},
+                {"option_id": "c", "label": "Maintien avec normes renforcées"},
+                {"option_id": "d", "label": "Maintien sans changement"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.1B",
+              "dilemma_label": "Taxe carbone",
+              "description": "Une taxe carbone forte réduirait les émissions de 30% mais augmenterait le coût de vie de 15% pour les classes populaires.",
+              "options": [
+                {"option_id": "a", "label": "J'applique la taxe"},
+                {"option_id": "b", "label": "J'applique la taxe avec compensations massives"},
+                {"option_id": "c", "label": "Je refuse, trop injuste socialement"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q6.2",
+          "label": "Dilemmes sécurité / libertés",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.2A",
+              "dilemma_label": "Mesures post-attentat",
+              "description": "Après un attentat, tu dois décider des mesures à prendre.",
+              "options": [
+                {"option_id": "a", "label": "Autoriser écoutes massives et fichage préventif"},
+                {"option_id": "b", "label": "Renforcer les moyens policiers sans modifier les libertés"},
+                {"option_id": "c", "label": "Refuser toute mesure restrictive même si le risque persiste"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.2B",
+              "dilemma_label": "Vidéosurveillance avec reconnaissance faciale",
+              "description": "La généralisation de la vidéosurveillance avec reconnaissance faciale réduirait la criminalité de 40% mais impliquerait une surveillance totale de l'espace public.",
+              "options": [
+                {"option_id": "a", "label": "J'accepte la généralisation"},
+                {"option_id": "b", "label": "J'accepte uniquement dans les zones sensibles"},
+                {"option_id": "c", "label": "Je refuse absolument"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q6.3",
+          "label": "Dilemmes immigration",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.3A",
+              "dilemma_label": "Migrants en détresse en mer",
+              "description": "2000 migrants sont en détresse en mer. Les secourir est présenté comme susceptible d'encourager de nouvelles traversées. Ne pas les secourir viole les obligations de droit international.",
+              "options": [
+                {"option_id": "a", "label": "Secours systématique"},
+                {"option_id": "b", "label": "Secours accompagné d'accords avec les pays d'origine"},
+                {"option_id": "c", "label": "Non-assistance pour décourager les traversées"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.3B",
+              "dilemma_label": "Expulsion d'un sans-papier établi",
+              "description": "Un sans-papier présent depuis 10 ans, avec un emploi stable et des enfants scolarisés, doit être expulsé selon la loi en vigueur.",
+              "options": [
+                {"option_id": "a", "label": "Régularisation"},
+                {"option_id": "b", "label": "Expulsion avec délai humanitaire"},
+                {"option_id": "c", "label": "Expulsion stricte dans le respect de l'État de droit"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q6.4",
+          "label": "Dilemmes international / crise",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.4A",
+              "dilemma_label": "Aide militaire à un pays allié",
+              "description": "Un pays allié demande une aide militaire contre une invasion. Une intervention directe comporte un risque d'escalade vers un conflit élargi.",
+              "options": [
+                {"option_id": "a", "label": "Intervention militaire directe"},
+                {"option_id": "b", "label": "Aide matérielle uniquement"},
+                {"option_id": "c", "label": "Neutralité stricte"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.4B",
+              "dilemma_label": "Gestion de pandémie",
+              "description": "Face à une pandémie, deux options s'affrontent : un confinement strict réduisant fortement le PIB et dégradant la santé mentale, ou la liberté de circulation au prix d'une surmortalité estimée à 20 000 décès.",
+              "options": [
+                {"option_id": "a", "label": "Confinement strict"},
+                {"option_id": "b", "label": "Recommandations sans obligation"},
+                {"option_id": "c", "label": "Liberté totale de circulation"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+    {
+      "module_id": "M4",
+      "module_label": "Logiques d'abstention",
+      "instructions_generales": "Tu peux expliquer librement tes choix dans les champs prévus à cet effet. Si une question te paraît imprécise ou contestable, tu peux le signaler brièvement dans ta réponse.",
+      "display_order_tracking": true,
+      "abstention_choice_options": [
+        {"value": "vote_candidat", "label": "Je vote pour un candidat"},
+        {"value": "vote_moins_pire", "label": "Je vote pour le candidat le moins mauvais"},
+        {"value": "vote_blanc", "label": "Je vote blanc"},
+        {"value": "abstention", "label": "Je m'abstiens"}
+      ],
+      "note_methodologique": "Les quatre options sont communes à toutes les questions du module pour permettre la comparaison inter-scénarios. 'vote_candidat' remplace 'vote_prefere' pour rester cohérent dans les scénarios où le candidat préféré n'est pas disponible (Q4.3A, Q4.3B).",
+      "questions": [
+        {
+          "question_id": "Q4.1",
+          "label": "Abstention sincère",
+          "prompt": "Dans chaque situation, indique ce que tu ferais.",
+          "response_type": "abstention_scenario",
+          "scenarios": [
+            {
+              "scenario_id": "Q4.1A",
+              "scenario_label": "Offre acceptable homogène",
+              "description": "Élection locale avec 3 candidats tous modérés et acceptables, enjeux mineurs, peu de différences entre eux."
+            },
+            {
+              "scenario_id": "Q4.1B",
+              "scenario_label": "Candidats médiocres, contexte défavorable",
+              "description": "Élection avec des candidats médiocres mais non dangereux. Tu es fatigué, il pleut."
+            },
+            {
+              "scenario_id": "Q4.1C",
+              "scenario_label": "Faible enjeu perçu",
+              "description": "Élection dont l'issue ne changera presque rien à ta vie quotidienne."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "scenario_id": "string",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                },
+                "justification": {
+                  "type": "text",
+                  "required": false,
+                  "max_length": 200
+                }
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q4.2",
+          "label": "Abstention stratégique",
+          "prompt": "Dans chaque situation, ton candidat préféré est donné gagnant. Indique ce que tu ferais.",
+          "response_type": "abstention_scenario",
+          "scenarios": [
+            {
+              "scenario_id": "Q4.2A",
+              "scenario_label": "Victoire probable",
+              "description": "Ton candidat préféré est donné gagnant à 65% contre 35%. Ton vote individuel ne changera pas le résultat."
+            },
+            {
+              "scenario_id": "Q4.2B",
+              "scenario_label": "Victoire quasi certaine avec contrainte logistique",
+              "description": "Résultat quasi certain (75%-25%), mais longue file d'attente au bureau de vote."
+            },
+            {
+              "scenario_id": "Q4.2C",
+              "scenario_label": "Résultat déjà connu",
+              "description": "Le résultat est déjà connu avant que tu votes (vote décalé, résultats d'autres régions publiés)."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "scenario_id": "string",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                },
+                "justification": {
+                  "type": "text",
+                  "required": false,
+                  "max_length": 200
+                }
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q4.3",
+          "label": "Abstention protestataire",
+          "prompt": "Dans chaque situation, indique ce que tu ferais et pourquoi.",
+          "response_type": "abstention_scenario",
+          "scenarios": [
+            {
+              "scenario_id": "Q4.3A",
+              "scenario_label": "Deux mauvais finalistes",
+              "description": "Les deux finalistes sont des candidats que tu juges tous les deux très mauvais pour le pays."
+            },
+            {
+              "scenario_id": "Q4.3B",
+              "scenario_label": "Légitimité contestée",
+              "description": "Tu rejettes fondamentalement la légitimité de cette élection (scrutin perçu comme truqué, candidats imposés)."
+            },
+            {
+              "scenario_id": "Q4.3C",
+              "scenario_label": "Positions moralement inacceptables",
+              "description": "Les deux finalistes défendent des positions que tu juges moralement inacceptables."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "scenario_id": "string",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                },
+                "justification": {
+                  "type": "text",
+                  "required": false,
+                  "max_length": 200
+                }
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q4.4",
+          "label": "Seuil d'abstention",
+          "prompt": "L'offre électorale se dégrade progressivement. Indique pour chaque niveau si tu voterais, et à quel niveau tu cesserais de participer.",
+          "response_type": "threshold_scale",
+          "note_methodologique": "Échelle ordinale à 6 niveaux de dégradation croissante. La validation suppose une structure monotone (une fois abstention, toujours abstention) comme hypothèse comportementale forte. Les patterns non monotones ne sont pas bloquants mais sont tracés pour analyse post-hoc.",
+          "levels": [
+            {
+              "level_id": 1,
+              "description": "Ton candidat préféré est présent, accompagné de 2 bons candidats alternatifs."
+            },
+            {
+              "level_id": 2,
+              "description": "Ton candidat préféré est présent, accompagné de 2 candidats acceptables."
+            },
+            {
+              "level_id": 3,
+              "description": "Aucun candidat excellent, mais 3 à 4 candidats corrects."
+            },
+            {
+              "level_id": 4,
+              "description": "Que des candidats médiocres, mais aucun dangereux."
+            },
+            {
+              "level_id": 5,
+              "description": "Que des candidats médiocres, dont certains problématiques."
+            },
+            {
+              "level_id": 6,
+              "description": "Que des candidats que tu juges mauvais."
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "level_id": "integer",
+                "choice": {
+                  "type": "enum",
+                  "values": ["vote_candidat", "vote_moins_pire", "vote_blanc", "abstention"],
+                  "required": true
+                }
+              },
+              "required": true
+            },
+            {
+              "field_id": "abstention_threshold",
+              "type": "integer",
+              "nullable": true,
+              "required": false,
+              "note": "Premier level_id où le répondant choisit abstention. Calculé automatiquement depuis responses. null si le répondant vote à tous les niveaux.",
+              "derived": true
+            },
+            {
+              "field_id": "justification",
+              "type": "text",
+              "required": false,
+              "max_length": 400
+            }
+          ],
+          "validation_rules": [
+            "soft_validation: non_monotonic_patterns_flagged",
+            "abstention_threshold == min(level_id where choice == abstention)"
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M5",
+      "module_label": "Positionnements thématiques",
+      "instructions_generales": "Tu peux expliquer librement tes choix dans les champs prévus à cet effet. Si une question te paraît imprécise ou contestable, tu peux le signaler brièvement dans ta réponse.",
+      "display_order_tracking": true,
+      "inter_module_links": [
+        {
+          "target_module": "M2",
+          "link_type": "scoring_input",
+          "note": "Les scores Q5.1 (importance des enjeux) pondèrent les préférences de M2 pour le calcul du profil de l'avatar."
+        },
+        {
+          "target_module": "M6",
+          "link_type": "thematic_consistency_check",
+          "note": "Les positions Q5.2 sont comparées aux choix de M6 pour détecter les incohérences entre positions déclarées et arbitrages effectifs."
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "Q5.1",
+          "label": "Importance des enjeux",
+          "prompt": "Note de 1 à 5 l'importance de chaque enjeu pour toi personnellement. 1 = peu important, 5 = crucial.",
+          "response_type": "importance_rating",
+          "scale": {"min": 1, "max": 5},
+          "themes": [
+            {"theme_id": "T01", "label": "Économie et emploi"},
+            {"theme_id": "T02", "label": "Redistribution et justice sociale"},
+            {"theme_id": "T03", "label": "Fiscalité"},
+            {"theme_id": "T04", "label": "Services publics"},
+            {"theme_id": "T05", "label": "Écologie et transition"},
+            {"theme_id": "T06", "label": "Immigration et intégration"},
+            {"theme_id": "T07", "label": "Sécurité et ordre"},
+            {"theme_id": "T08", "label": "Libertés civiles"},
+            {"theme_id": "T09", "label": "Institutions et démocratie"},
+            {"theme_id": "T10", "label": "Innovation et industrie"},
+            {"theme_id": "T11", "label": "Europe et international"}
+          ],
+          "fields": [
+            {
+              "field_id": "ratings",
+              "type": "array",
+              "items": {
+                "theme_id": "string",
+                "score": {"type": "integer", "min": 1, "max": 5}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q5.2",
+          "label": "Positions thématiques",
+          "prompt": "Pour chaque énoncé, indique ton degré d'accord : 2 = tout à fait d'accord, 1 = plutôt d'accord, 0 = ni d'accord ni pas d'accord, -1 = plutôt pas d'accord, -2 = pas du tout d'accord.",
+          "response_type": "likert_per_item",
+          "note_methodologique": "32 items regroupés en 8 blocs thématiques. Encodage entier -2/-1/0/1/2 correspondant à --/-/0/+/++. Le découpage en trois blocs du protocole source est une contrainte de présentation, pas de contenu : les 32 items forment un seul instrument. Items potentiellement corrélés documentés : I05/I08 (taxation des riches / plafond de revenus), I13/I16 (contrôle des frontières / quotas d'immigration) — redondance intentionnelle pour renforcer la robustesse de la mesure.",
+          "scale": {
+            "min": -2,
+            "max": 2,
+            "neutral": 0,
+            "labels": {
+              "-2": "Pas du tout d'accord",
+              "-1": "Plutôt pas d'accord",
+              "0": "Ni d'accord ni pas d'accord",
+              "1": "Plutôt d'accord",
+              "2": "Tout à fait d'accord"
+            }
+          },
+          "blocks": [
+            {
+              "block_id": "B1",
+              "block_label": "Économie et emploi",
+              "items": [
+                {"item_id": "I01", "statement": "L'État doit fortement réguler le marché du travail."},
+                {"item_id": "I02", "statement": "Les 35h doivent être maintenues voire réduites."},
+                {"item_id": "I03", "statement": "Il faut faciliter les licenciements pour favoriser l'emploi."},
+                {"item_id": "I04", "statement": "Le SMIC doit augmenter significativement."}
+              ]
+            },
+            {
+              "block_id": "B2",
+              "block_label": "Redistribution",
+              "items": [
+                {"item_id": "I05", "statement": "Les riches doivent être beaucoup plus taxés."},
+                {"item_id": "I06", "statement": "Le revenu universel est une bonne idée."},
+                {"item_id": "I07", "statement": "Les aides sociales sont trop généreuses."},
+                {"item_id": "I08", "statement": "Il faut un plafond maximum de revenus."}
+              ]
+            },
+            {
+              "block_id": "B3",
+              "block_label": "Écologie",
+              "items": [
+                {"item_id": "I09", "statement": "La priorité absolue doit être la transition écologique."},
+                {"item_id": "I10", "statement": "La croissance économique est compatible avec l'écologie."},
+                {"item_id": "I11", "statement": "Il faut interdire certaines technologies polluantes."},
+                {"item_id": "I12", "statement": "L'écologie ne doit pas nuire à l'emploi."}
+              ]
+            },
+            {
+              "block_id": "B4",
+              "block_label": "Immigration",
+              "items": [
+                {"item_id": "I13", "statement": "Les frontières doivent être mieux contrôlées."},
+                {"item_id": "I14", "statement": "Les sans-papiers doivent pouvoir être régularisés."},
+                {"item_id": "I15", "statement": "L'immigration est une richesse pour le pays."},
+                {"item_id": "I16", "statement": "Il faut des quotas stricts d'immigration."}
+              ]
+            },
+            {
+              "block_id": "B5",
+              "block_label": "Sécurité",
+              "items": [
+                {"item_id": "I17", "statement": "Il faut plus de police dans les quartiers."},
+                {"item_id": "I18", "statement": "Les peines de prison doivent être plus sévères."},
+                {"item_id": "I19", "statement": "La vidéosurveillance doit être généralisée."},
+                {"item_id": "I20", "statement": "La police a trop de pouvoir."}
+              ]
+            },
+            {
+              "block_id": "B6",
+              "block_label": "Libertés civiles",
+              "items": [
+                {"item_id": "I21", "statement": "La sécurité doit primer sur les libertés individuelles."},
+                {"item_id": "I22", "statement": "L'État surveille trop les citoyens."},
+                {"item_id": "I23", "statement": "La liberté d'expression doit être absolue."},
+                {"item_id": "I24", "statement": "Certaines opinions doivent être interdites."}
+              ]
+            },
+            {
+              "block_id": "B7",
+              "block_label": "Institutions",
+              "items": [
+                {"item_id": "I25", "statement": "Il faut plus de référendums."},
+                {"item_id": "I26", "statement": "Les élus sont trop déconnectés du peuple."},
+                {"item_id": "I27", "statement": "Les corps intermédiaires (syndicats, associations) sont essentiels."},
+                {"item_id": "I28", "statement": "Un pouvoir fort est préférable au désordre démocratique."}
+              ]
+            },
+            {
+              "block_id": "B8",
+              "block_label": "International",
+              "items": [
+                {"item_id": "I29", "statement": "La France doit quitter certaines institutions européennes."},
+                {"item_id": "I30", "statement": "L'OTAN est indispensable à notre sécurité."},
+                {"item_id": "I31", "statement": "Il faut être plus ferme avec les régimes autoritaires."},
+                {"item_id": "I32", "statement": "L'aide au développement est une priorité."}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "item_id": "string",
+                "score": {"type": "integer", "min": -2, "max": 2},
+                "comment": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M6",
+      "module_label": "Dilemmes moraux",
+      "instructions_generales": "Tu peux expliquer librement tes choix dans les champs prévus à cet effet. Si une question te paraît imprécise ou contestable, tu peux le signaler brièvement dans ta réponse.",
+      "display_order_tracking": true,
+      "inter_module_links": [
+        {
+          "target_module": "M5",
+          "link_type": "thematic_consistency_check",
+          "note": "Les choix de M6 sont comparés aux positions déclarées de Q5.2 pour détecter les écarts entre idéologie déclarée et arbitrages effectifs sous contrainte."
+        }
+      ],
+      "note_methodologique": "8 dilemmes couvrant 4 axes de tension : économie/écologie, sécurité/libertés, immigration, international/crise. Chaque dilemme propose 2 à 4 options mutuellement exclusives. L'ordre des options est randomisé pour éviter les biais de position. Une justification courte est optionnelle mais fortement recommandée pour l'entraînement de l'avatar.",
+      "questions": [
+        {
+          "question_id": "Q6.1",
+          "label": "Dilemmes économie / écologie",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.1A",
+              "dilemma_label": "Usine polluante",
+              "description": "Une usine employant 5000 personnes pollue massivement. La fermer détruirait une ville entière économiquement.",
+              "options": [
+                {"option_id": "a", "label": "Fermeture immédiate"},
+                {"option_id": "b", "label": "Transition sur 10 ans avec aides"},
+                {"option_id": "c", "label": "Maintien avec normes renforcées"},
+                {"option_id": "d", "label": "Maintien sans changement"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.1B",
+              "dilemma_label": "Taxe carbone",
+              "description": "Une taxe carbone forte réduirait les émissions de 30% mais augmenterait le coût de vie de 15% pour les classes populaires.",
+              "options": [
+                {"option_id": "a", "label": "J'applique la taxe"},
+                {"option_id": "b", "label": "J'applique la taxe avec compensations massives"},
+                {"option_id": "c", "label": "Je refuse, trop injuste socialement"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q6.2",
+          "label": "Dilemmes sécurité / libertés",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.2A",
+              "dilemma_label": "Mesures post-attentat",
+              "description": "Après un attentat, tu dois décider des mesures à prendre.",
+              "options": [
+                {"option_id": "a", "label": "Autoriser écoutes massives et fichage préventif"},
+                {"option_id": "b", "label": "Renforcer les moyens policiers sans modifier les libertés"},
+                {"option_id": "c", "label": "Refuser toute mesure restrictive même si le risque persiste"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.2B",
+              "dilemma_label": "Vidéosurveillance avec reconnaissance faciale",
+              "description": "La généralisation de la vidéosurveillance avec reconnaissance faciale réduirait la criminalité de 40% mais impliquerait une surveillance totale de l'espace public.",
+              "options": [
+                {"option_id": "a", "label": "J'accepte la généralisation"},
+                {"option_id": "b", "label": "J'accepte uniquement dans les zones sensibles"},
+                {"option_id": "c", "label": "Je refuse absolument"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q6.3",
+          "label": "Dilemmes immigration",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.3A",
+              "dilemma_label": "Migrants en détresse en mer",
+              "description": "2000 migrants sont en détresse en mer. Les secourir est présenté comme susceptible d'encourager de nouvelles traversées. Ne pas les secourir viole les obligations de droit international.",
+              "options": [
+                {"option_id": "a", "label": "Secours systématique"},
+                {"option_id": "b", "label": "Secours accompagné d'accords avec les pays d'origine"},
+                {"option_id": "c", "label": "Non-assistance pour décourager les traversées"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.3B",
+              "dilemma_label": "Expulsion d'un sans-papier établi",
+              "description": "Un sans-papier présent depuis 10 ans, avec un emploi stable et des enfants scolarisés, doit être expulsé selon la loi en vigueur.",
+              "options": [
+                {"option_id": "a", "label": "Régularisation"},
+                {"option_id": "b", "label": "Expulsion avec délai humanitaire"},
+                {"option_id": "c", "label": "Expulsion stricte dans le respect de l'État de droit"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        },
+        {
+          "question_id": "Q6.4",
+          "label": "Dilemmes international / crise",
+          "prompt": "Pour chaque dilemme, choisis l'option qui correspond le mieux à ta position.",
+          "response_type": "dilemma_choice",
+          "option_order_randomized": true,
+          "dilemmas": [
+            {
+              "dilemma_id": "D6.4A",
+              "dilemma_label": "Aide militaire à un pays allié",
+              "description": "Un pays allié demande une aide militaire contre une invasion. Une intervention directe comporte un risque d'escalade vers un conflit élargi.",
+              "options": [
+                {"option_id": "a", "label": "Intervention militaire directe"},
+                {"option_id": "b", "label": "Aide matérielle uniquement"},
+                {"option_id": "c", "label": "Neutralité stricte"}
+              ]
+            },
+            {
+              "dilemma_id": "D6.4B",
+              "dilemma_label": "Gestion de pandémie",
+              "description": "Face à une pandémie, deux options s'affrontent : un confinement strict réduisant fortement le PIB et dégradant la santé mentale, ou la liberté de circulation au prix d'une surmortalité estimée à 20 000 décès.",
+              "options": [
+                {"option_id": "a", "label": "Confinement strict"},
+                {"option_id": "b", "label": "Recommandations sans obligation"},
+                {"option_id": "c", "label": "Liberté totale de circulation"}
+              ]
+            }
+          ],
+          "fields": [
+            {
+              "field_id": "responses",
+              "type": "array",
+              "items": {
+                "dilemma_id": "string",
+                "choice": {"type": "option_id", "required": true},
+                "justification": {"type": "text", "required": false, "max_length": 200}
+              },
+              "required": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
