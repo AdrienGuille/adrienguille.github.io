@@ -3,6 +3,8 @@
 See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ) for additional bibliographic information.
 
 ## 2026
+- [Un décodeur pour l’analyse sémantique AMR en français](#) by Thomas Checchin, Julien Jacques, Adrien Guille. *33e Conférence sur le Traitement Automatique des Langues Naturelles (TALN)*, Nantes (France), 2026
+<br>**Models**: [v1 (16 bit)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1), [v1 (8 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w8a16), [v1 (4 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w4a16)
 - [Determinants of geographic information quality in Large language models: effects of model family, scale, language, quantization, and fine-tuning](#) by Rémy Decoupes, Adrien Guille. *Fourth International Workshop on Geographic Information Extraction from Texts (GeoExT @ ECIR)*, Delft (Pays-Bas), 2026
 - [Défi TextMine / EGC ’26 : Identification des acronymes dans des textes réglementaires ferroviaires](https://www.kaggle.com/competitions/defi-text-mine-egc-2026) by Luce Lefeuvre, Coralie Reutenauer, Adrien Guille, Pascal Cuxac, Cédric Lopez. *Atelier Fouille de Textes (TextMine @ EGC)*, Anglet (France), 2026
 
