@@ -10,7 +10,7 @@ I'm part (and was the head for the year 2022) of the [Data Mining & Decision Gro
 
 - [Projects, students and service](https://adrienguille.github.io/research.html)
 - [Publication list](https://adrienguille.github.io/publications.html) / [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO18AAAAJ)
-- [Code](https://adrienguille.github.io/code.html)
+- [Code and models](https://adrienguille.github.io/code.html)
 
 ## Teaching
 
