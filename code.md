@@ -1,3 +1,8 @@
+# Models
+
+[GemmAMR-fr](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1) : Modèles sur HuggingFace pour l'analyse sémantique AMR en français [v1 (16 bit)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1), [v1 (8 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w8a16), [v1 (4 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w4a16)
+> [Un décodeur pour l’analyse sémantique AMR en français](#) by Thomas Checchin, Julien Jacques, Adrien Guille. *33e Conférence sur le Traitement Automatique des Langues Naturelles (TALN)*, Nantes (France), 2026
+
 # Code
 
 [TextMine2025](https://github.com/AdrienGuille/TextMine2025) : Code pour reproduire le système classé 1er du défi TextMine 2025
