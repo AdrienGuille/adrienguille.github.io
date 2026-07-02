@@ -48,6 +48,7 @@ intervention (with [CREATIS @ U Lyon 1](https://www.creatis.insa-lyon.fr/site7/f
 
 ### Master thesis / Master research project advisor
 
+- [Sarah Cadereau, Alex Delaveau, Bruno Durning](#), 2026 : Auto-distillation auto-supervisée pour l’apprentissage sur les graphes *#Graphe*
 - [Zakaria Ben Slimene (Université Lyon 2)](#), 2026: Simuler, prédire et expliquer les comportements humains : une approche croisée entre grand modèle de langue et économie mathématique *#TALN #SHS*
 - [Thomas Hitchon (Université de Strasbourg)](#), 2026: Explicabilité des modèles de langues appliquée à l’information géographique (with [TETIS @ INRAE Montpellier](https://umr-tetis.cirad.fr)) *#TALN #SHS*
 - [Grigory Savchenko (INSA Lyon)](#), 2025: Traduction et vérification automatique basée sur les graphes sémantiques abstraits *#TALN #Graphe*
