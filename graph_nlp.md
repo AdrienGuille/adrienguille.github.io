@@ -16,6 +16,6 @@ In one research direction, we've proposed a graph-based approach to document cla
 
 ### Code & Models
 - Interactive Document Summarization with GNN-RNN: [https://github.com/Baragouine/radsum]()
-- Exploring Semantics in Pretrained Language Model Attention: [https://anonymous.4open.science/r/sem_LM_att-322F/]()
+- Exploring Semantics in Pretrained Language Model Attention: [https://github.com/frcharpentier/sem_LM_att]()
 - Probing Attention in Pre-Trained LLMs to Detect Semantics: [https://github.com/frcharpentier/GAS]()
 - Un décodeur pour l’analyse sémantique AMR en français: [v1 (16 bit)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1), [v1 (8 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w8a16), [v1 (4 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w4a16)
