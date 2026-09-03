@@ -4,6 +4,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=mM_oO1
 
 ## 2026
 
+- [Can Sparse AutoEncoder-Based Interpretability Demonstrate Geographic Knowledge Beyond Orthographic Features?](#) by Thomas Hitchon, Rémy Decoupes, Adrien Guille. *9th Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackBoxNLP @ EMNLP)*
 - [Some LLMs Are Smaller Than Others: A **L**ightweight **L**inear **M**odel for Relation Extraction Applied to Historical Documents]() by Thomas Checchin, Adrien Guille, Nicolas Gutehrlé. *7th International Conference of the CLEF Association (CLEF)*, Jena (Germany), 2026
 - [Un décodeur pour l’analyse sémantique AMR en français](#) by Thomas Checchin, Julien Jacques, Adrien Guille. *33e Conférence sur le Traitement Automatique des Langues Naturelles (TALN)*, Nantes (France), 2026
 <br>**Models**: [v1 (16 bit)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1), [v1 (8 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w8a16), [v1 (4 bit GPTQ)](https://huggingface.co/AdrienGuille/GemmAMR-fr-v1-w4a16)
