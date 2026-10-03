@@ -11,6 +11,9 @@
 ## Comité de sélection
 - [Membre de comité de sélection (CoS)](#) : 2023 (Univ Le Mans), 2023 (Univ. Lyon 2)
 
+## Responsabilité de département d'enseignement
+- [Chef du département Science des Données (SD)](#) : septembre 2026-...
+
 ## Responsabilité d'équipe de recherche
 - [Responsable de l'équipe de recherche Data Mining & Decision (DMD)](#) : mandature année 2022
 
